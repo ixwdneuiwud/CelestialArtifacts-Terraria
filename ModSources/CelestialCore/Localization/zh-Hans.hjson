@@ -1,0 +1,415 @@
+Mods: {
+	CelestialCore: {
+		Items: {
+			celestial_core__broken_totem: {
+				DisplayName: 损坏的图腾
+				Tooltip: ""
+			}
+
+			celestial_core__death_essence: {
+				DisplayName: 死亡精华
+				Tooltip: ""
+			}
+
+			celestial_core__desert_pyramid_loot_box: {
+				DisplayName: 沙漠神殿战利品
+				Tooltip: ""
+			}
+
+			celestial_core__earth_core: {
+				DisplayName: 大地核心
+				Tooltip: ""
+			}
+
+			celestial_core__fire_essence: {
+				DisplayName: 火焰精华
+				Tooltip: ""
+			}
+
+			celestial_core__guardian_spike: {
+				DisplayName: 守护者尖刺
+				Tooltip: ""
+			}
+
+			celestial_core__heart_fragment: {
+				DisplayName: 心之碎片
+				Tooltip: ""
+			}
+
+			celestial_core__igloo_loot_box: {
+				DisplayName: 雪屋战利品
+				Tooltip: ""
+			}
+
+			celestial_core__jungle_pyramid_loot_box: {
+				DisplayName: 丛林神庙战利品
+				Tooltip: ""
+			}
+
+			celestial_core__light_fragment: {
+				DisplayName: 光明碎片
+				Tooltip: ""
+			}
+
+			celestial_core__manson_loot_box: {
+				DisplayName: 林地府邸战利品
+				Tooltip: ""
+			}
+
+			celestial_core__midnight_fragment: {
+				DisplayName: 子夜碎片
+				Tooltip: ""
+			}
+
+			celestial_core__ocean_axe: {
+				DisplayName: 海洋斧
+				Tooltip: ""
+			}
+
+			celestial_core__ocean_boots: {
+				DisplayName: 海洋靴子
+				Tooltip: ""
+			}
+
+			celestial_core__ocean_chestplate: {
+				DisplayName: 海洋胸甲
+				Tooltip: ""
+			}
+
+			celestial_core__ocean_essence: {
+				DisplayName: 海洋精华
+				Tooltip: ""
+			}
+
+			celestial_core__ocean_helmet: {
+				DisplayName: 海洋头盔
+				Tooltip: ""
+			}
+
+			celestial_core__ocean_hoe: {
+				DisplayName: 海洋锄
+				Tooltip: ""
+			}
+
+			celestial_core__ocean_ingot: {
+				DisplayName: 海洋锭
+				Tooltip: ""
+			}
+
+			celestial_core__ocean_leggings: {
+				DisplayName: 海洋护腿
+				Tooltip: ""
+			}
+
+			celestial_core__ocean_pickaxe: {
+				DisplayName: 海洋镐
+				Tooltip: ""
+			}
+
+			celestial_core__ocean_shovel: {
+				DisplayName: 海洋锹
+				Tooltip: ""
+			}
+
+			celestial_core__ocean_sword: {
+				DisplayName: 海洋剑
+				Tooltip: ""
+			}
+
+			celestial_core__pillager_outpost_loot_box: {
+				DisplayName: 掠夺者前哨站战利品
+				Tooltip: ""
+			}
+
+			celestial_core__pure_nether_star: {
+				DisplayName: 纯净之星
+				Tooltip: ""
+			}
+
+			celestial_core__reinforced_ocean_block: {
+				DisplayName: 强化海洋块
+				Tooltip: ""
+			}
+
+			celestial_core__reinforced_ocean_ingot: {
+				DisplayName: 强化海洋锭
+				Tooltip: ""
+			}
+
+			celestial_core__reinforced_ocean_nugget: {
+				DisplayName: 强化海洋粒
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_axe: {
+				DisplayName: 樱花斧
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_boots: {
+				DisplayName: 樱花靴子
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_chestplate: {
+				DisplayName: 樱花胸甲
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_fragment: {
+				DisplayName: 樱花碎片
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_helmet: {
+				DisplayName: 樱花头盔
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_hoe: {
+				DisplayName: 樱花锄
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_leggings: {
+				DisplayName: 樱花护腿
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_pickaxe: {
+				DisplayName: 樱花镐
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_shovel: {
+				DisplayName: 樱花锹
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_steel: {
+				DisplayName: 樱花钢
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_steel_block: {
+				DisplayName: 樱花钢块
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_steel_nugget: {
+				DisplayName: 樱花钢粒
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_sword: {
+				DisplayName: 樱花剑
+				Tooltip: ""
+			}
+
+			celestial_core__shulker_scrap: {
+				DisplayName: 潜影壳破片
+				Tooltip: ""
+			}
+
+			celestial_core__soaring_wings: {
+				DisplayName: 飞升之翼
+				Tooltip: ""
+			}
+
+			celestial_core__treasure_fragment: {
+				DisplayName: 宝藏碎片
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_axe: {
+				DisplayName: 虚金斧
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_block: {
+				DisplayName: 虚金块
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_boots: {
+				DisplayName: 虚金靴子
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_chestplate: {
+				DisplayName: 虚金胸甲
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_helmet: {
+				DisplayName: 虚金头盔
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_hoe: {
+				DisplayName: 虚金锄
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_ingot: {
+				DisplayName: 虚金锭
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_leggings: {
+				DisplayName: 虚金护腿
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_nugget: {
+				DisplayName: 虚金残骸
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_pickaxe: {
+				DisplayName: 虚金镐
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_shovel: {
+				DisplayName: 虚金锹
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_sword: {
+				DisplayName: 虚金剑
+				Tooltip: ""
+			}
+
+			celestial_core__void_essence: {
+				DisplayName: 虚空精华
+				Tooltip: ""
+			}
+
+			celestial_core__warden_sclerite: {
+				DisplayName: 监守者骨片
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritRate: {
+				DisplayName: 暴击率药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritRateSplash: {
+				DisplayName: 喷溅型暴击率药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritRateLingering: {
+				DisplayName: 滞留型暴击率药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritRate: {
+				DisplayName: 暴击率（延长）药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritRateSplash: {
+				DisplayName: 喷溅型暴击率（延长）药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritRateLingering: {
+				DisplayName: 滞留型暴击率（延长）药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritDamage: {
+				DisplayName: 暴击伤害药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritDamageSplash: {
+				DisplayName: 喷溅型暴击伤害药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritDamageLingering: {
+				DisplayName: 滞留型暴击伤害药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritDamage: {
+				DisplayName: 暴击伤害（延长）药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritDamageSplash: {
+				DisplayName: 喷溅型暴击伤害（延长）药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritDamageLingering: {
+				DisplayName: 滞留型暴击伤害（延长）药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonRegenRate: {
+				DisplayName: 治疗效率药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonRegenRateSplash: {
+				DisplayName: 喷溅型治疗效率药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonRegenRateLingering: {
+				DisplayName: 滞留型治疗效率药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongRegenRate: {
+				DisplayName: 治疗效率（延长）药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongRegenRateSplash: {
+				DisplayName: 喷溅型治疗效率（延长）药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongRegenRateLingering: {
+				DisplayName: 滞留型治疗效率（延长）药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonArrowDamage: {
+				DisplayName: 箭矢伤害药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonArrowDamageSplash: {
+				DisplayName: 喷溅型箭矢伤害药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonArrowDamageLingering: {
+				DisplayName: 滞留型箭矢伤害药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongArrowDamage: {
+				DisplayName: 箭矢伤害（延长）药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongArrowDamageSplash: {
+				DisplayName: 喷溅型箭矢伤害（延长）药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongArrowDamageLingering: {
+				DisplayName: 滞留型箭矢伤害（延长）药水
+				Tooltip: ""
+			}
+		}
+	}
+}

@@ -1,0 +1,3653 @@
+[
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "A": {
+        "item": "minecraft:amethyst_block"
+      },
+      "B": {
+        "item": "minecraft:crying_obsidian"
+      },
+      "C": {
+        "item": "minecraft:quartz_block"
+      },
+      "D": {
+        "tag": "minecraft:diamond_ores"
+      },
+      "E": {
+        "item": "minecraft:end_stone"
+      },
+      "F": {
+        "tag": "minecraft:emerald_ores"
+      },
+      "G": {
+        "item": "minecraft:lapis_block"
+      },
+      "H": {
+        "item": "minecraft:gilded_blackstone"
+      },
+      "I": {
+        "item": "minecraft:redstone_block"
+      }
+    },
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "result": {
+      "item": "celestial_core:earth_core"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/earth_core.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:reinforced_ocean_ingot"
+      },
+      "B": {
+        "item": "celestial_core:guardian_spike"
+      }
+    },
+    "pattern": [
+      "AA",
+      "AB",
+      " B"
+    ],
+    "result": {
+      "item": "celestial_core:ocean_axe"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/ocean/craft/ocean_axe.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:reinforced_ocean_ingot"
+      }
+    },
+    "pattern": [
+      "A A",
+      "A A"
+    ],
+    "result": {
+      "item": "celestial_core:ocean_boots"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/ocean/craft/ocean_boots.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:reinforced_ocean_ingot"
+      }
+    },
+    "pattern": [
+      "A A",
+      "AAA",
+      "AAA"
+    ],
+    "result": {
+      "item": "celestial_core:ocean_chestplate"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/ocean/craft/ocean_chestplate.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:reinforced_ocean_ingot"
+      }
+    },
+    "pattern": [
+      "AAA",
+      "A A"
+    ],
+    "result": {
+      "item": "celestial_core:ocean_helmet"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/ocean/craft/ocean_helmet.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:reinforced_ocean_ingot"
+      },
+      "B": {
+        "item": "celestial_core:guardian_spike"
+      }
+    },
+    "pattern": [
+      "AA",
+      " B",
+      " B"
+    ],
+    "result": {
+      "item": "celestial_core:ocean_hoe"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/ocean/craft/ocean_hoe.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:reinforced_ocean_ingot"
+      }
+    },
+    "pattern": [
+      "AAA",
+      "A A",
+      "A A"
+    ],
+    "result": {
+      "item": "celestial_core:ocean_leggings"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/ocean/craft/ocean_leggings.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:reinforced_ocean_ingot"
+      },
+      "B": {
+        "item": "celestial_core:guardian_spike"
+      }
+    },
+    "pattern": [
+      "AAA",
+      " B ",
+      " B "
+    ],
+    "result": {
+      "item": "celestial_core:ocean_pickaxe"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/ocean/craft/ocean_pickaxe.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:reinforced_ocean_ingot"
+      },
+      "B": {
+        "item": "celestial_core:guardian_spike"
+      }
+    },
+    "pattern": [
+      "A",
+      "B",
+      "B"
+    ],
+    "result": {
+      "item": "celestial_core:ocean_shovel"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/ocean/craft/ocean_shovel.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:reinforced_ocean_ingot"
+      },
+      "B": {
+        "item": "celestial_core:guardian_spike"
+      }
+    },
+    "pattern": [
+      "A",
+      "A",
+      "B"
+    ],
+    "result": {
+      "item": "celestial_core:ocean_sword"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/ocean/craft/ocean_sword.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:sakura_steel"
+      },
+      "B": {
+        "item": "minecraft:cherry_log"
+      }
+    },
+    "pattern": [
+      "AA",
+      "AB",
+      " B"
+    ],
+    "result": {
+      "item": "celestial_core:sakura_axe"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/sakura/craft/sakura_axe.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:sakura_steel"
+      }
+    },
+    "pattern": [
+      "A A",
+      "A A"
+    ],
+    "result": {
+      "item": "celestial_core:sakura_boots"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/sakura/craft/sakura_boots.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:sakura_steel"
+      }
+    },
+    "pattern": [
+      "A A",
+      "AAA",
+      "AAA"
+    ],
+    "result": {
+      "item": "celestial_core:sakura_chestplate"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/sakura/craft/sakura_chestplate.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:sakura_steel"
+      }
+    },
+    "pattern": [
+      "AAA",
+      "A A"
+    ],
+    "result": {
+      "item": "celestial_core:sakura_helmet"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/sakura/craft/sakura_helmet.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:sakura_steel"
+      },
+      "B": {
+        "item": "minecraft:cherry_log"
+      }
+    },
+    "pattern": [
+      "AA",
+      " B",
+      " B"
+    ],
+    "result": {
+      "item": "celestial_core:sakura_hoe"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/sakura/craft/sakura_hoe.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:sakura_steel"
+      }
+    },
+    "pattern": [
+      "AAA",
+      "A A",
+      "A A"
+    ],
+    "result": {
+      "item": "celestial_core:sakura_leggings"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/sakura/craft/sakura_leggings.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:sakura_steel"
+      },
+      "B": {
+        "item": "minecraft:cherry_log"
+      }
+    },
+    "pattern": [
+      "AAA",
+      " B ",
+      " B "
+    ],
+    "result": {
+      "item": "celestial_core:sakura_pickaxe"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/sakura/craft/sakura_pickaxe.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:sakura_steel"
+      },
+      "B": {
+        "item": "minecraft:cherry_log"
+      }
+    },
+    "pattern": [
+      "A",
+      "B",
+      "B"
+    ],
+    "result": {
+      "item": "celestial_core:sakura_shovel"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/sakura/craft/sakura_shovel.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:sakura_steel"
+      },
+      "B": {
+        "item": "minecraft:cherry_log"
+      }
+    },
+    "pattern": [
+      "A",
+      "A",
+      "B"
+    ],
+    "result": {
+      "item": "celestial_core:sakura_sword"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/sakura/craft/sakura_sword.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:virtual_gold_ingot"
+      },
+      "B": {
+        "item": "celestial_core:fire_essence"
+      }
+    },
+    "pattern": [
+      "AA",
+      "AB",
+      " B"
+    ],
+    "result": {
+      "item": "celestial_core:virtual_gold_axe"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/virtual_gold/craft/virtual_gold_axe.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:virtual_gold_ingot"
+      }
+    },
+    "pattern": [
+      "A A",
+      "A A"
+    ],
+    "result": {
+      "item": "celestial_core:virtual_gold_boots"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/virtual_gold/craft/virtual_gold_boots.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:virtual_gold_ingot"
+      }
+    },
+    "pattern": [
+      "A A",
+      "AAA",
+      "AAA"
+    ],
+    "result": {
+      "item": "celestial_core:virtual_gold_chestplate"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/virtual_gold/craft/virtual_gold_chestplate.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:virtual_gold_ingot"
+      }
+    },
+    "pattern": [
+      "AAA",
+      "A A"
+    ],
+    "result": {
+      "item": "celestial_core:virtual_gold_helmet"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/virtual_gold/craft/virtual_gold_helmet.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:virtual_gold_ingot"
+      },
+      "B": {
+        "item": "celestial_core:fire_essence"
+      }
+    },
+    "pattern": [
+      "AA",
+      " B",
+      " B"
+    ],
+    "result": {
+      "item": "celestial_core:virtual_gold_hoe"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/virtual_gold/craft/virtual_gold_hoe.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:virtual_gold_ingot"
+      }
+    },
+    "pattern": [
+      "AAA",
+      "A A",
+      "A A"
+    ],
+    "result": {
+      "item": "celestial_core:virtual_gold_leggings"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/virtual_gold/craft/virtual_gold_leggings.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:virtual_gold_ingot"
+      },
+      "B": {
+        "item": "celestial_core:fire_essence"
+      }
+    },
+    "pattern": [
+      "AAA",
+      " B ",
+      " B "
+    ],
+    "result": {
+      "item": "celestial_core:virtual_gold_pickaxe"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/virtual_gold/craft/virtual_gold_pickaxe.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:virtual_gold_ingot"
+      },
+      "B": {
+        "item": "celestial_core:fire_essence"
+      }
+    },
+    "pattern": [
+      "A",
+      "B",
+      "B"
+    ],
+    "result": {
+      "item": "celestial_core:virtual_gold_shovel"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/virtual_gold/craft/virtual_gold_shovel.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "A": {
+        "item": "celestial_core:virtual_gold_ingot"
+      },
+      "B": {
+        "item": "celestial_core:fire_essence"
+      }
+    },
+    "pattern": [
+      "A",
+      "A",
+      "B"
+    ],
+    "result": {
+      "item": "celestial_core:virtual_gold_sword"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/generated_tools/virtual_gold/craft/virtual_gold_sword.json"
+  },
+  {
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+      {
+        "item": "minecraft:iron_ingot"
+      },
+      {
+        "item": "minecraft:prismarine_crystals"
+      },
+      {
+        "item": "minecraft:prismarine_crystals"
+      },
+      {
+        "item": "minecraft:prismarine_shard"
+      },
+      {
+        "item": "minecraft:prismarine_shard"
+      }
+    ],
+    "result": {
+      "item": "celestial_core:ocean_ingot"
+    },
+    "sourceFile": "celestial_core/data/celestial_core/recipes/ocean_ingot.json"
+  },
+  {
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+      {
+        "item": "celestial_core:ocean_ingot"
+      },
+      {
+        "item": "celestial_core:guardian_spike"
+      },
+      {
+        "item": "celestial_core:guardian_spike"
+      },
+      {
+        "item": "celestial_core:guardian_spike"
+      },
+      {
+        "item": "celestial_core:guardian_spike"
+      }
+    ],
+    "result": {
+      "item": "celestial_core:reinforced_ocean_ingot"
+    },
+    "sourceFile": "celestial_core/data/celestial_core/recipes/reinforced_ocean_ingot.json"
+  },
+  {
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+      {
+        "item": "celestial_core:reinforced_ocean_block"
+      }
+    ],
+    "result": {
+      "count": 9,
+      "item": "celestial_core:reinforced_ocean_ingot"
+    },
+    "sourceFile": "celestial_core/data/celestial_core/recipes/reinforced_ocean_ingotfrom_block.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "B": {
+        "item": "celestial_core:reinforced_ocean_nugget"
+      }
+    },
+    "pattern": [
+      "BBB",
+      "BBB",
+      "BBB"
+    ],
+    "result": {
+      "item": "celestial_core:reinforced_ocean_ingot"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/reinforced_ocean_ingotfrom_nugget.json"
+  },
+  {
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+      {
+        "item": "minecraft:copper_ingot"
+      },
+      {
+        "item": "minecraft:gold_ingot"
+      },
+      {
+        "item": "celestial_core:sakura_fragment"
+      },
+      {
+        "item": "celestial_core:sakura_fragment"
+      }
+    ],
+    "result": {
+      "item": "celestial_core:sakura_steel"
+    },
+    "sourceFile": "celestial_core/data/celestial_core/recipes/sakura_steel.json"
+  },
+  {
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+      {
+        "item": "celestial_core:sakura_steel_block"
+      }
+    ],
+    "result": {
+      "count": 9,
+      "item": "celestial_core:sakura_steel"
+    },
+    "sourceFile": "celestial_core/data/celestial_core/recipes/sakura_steelfrom_block.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "B": {
+        "item": "celestial_core:sakura_steel_nugget"
+      }
+    },
+    "pattern": [
+      "BBB",
+      "BBB",
+      "BBB"
+    ],
+    "result": {
+      "item": "celestial_core:sakura_steel"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/sakura_steelfrom_nugget.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "B": {
+        "item": "celestial_core:reinforced_ocean_ingot"
+      }
+    },
+    "pattern": [
+      "BBB",
+      "BBB",
+      "BBB"
+    ],
+    "result": {
+      "item": "celestial_core:reinforced_ocean_block"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/storage/reinforced_ocean_block.json"
+  },
+  {
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+      {
+        "item": "celestial_core:reinforced_ocean_ingot"
+      }
+    ],
+    "result": {
+      "count": 9,
+      "item": "celestial_core:reinforced_ocean_nugget"
+    },
+    "sourceFile": "celestial_core/data/celestial_core/recipes/storage/reinforced_ocean_nugget.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "B": {
+        "item": "celestial_core:sakura_steel"
+      }
+    },
+    "pattern": [
+      "BBB",
+      "BBB",
+      "BBB"
+    ],
+    "result": {
+      "item": "celestial_core:sakura_steel_block"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/storage/sakura_steel_block.json"
+  },
+  {
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+      {
+        "item": "celestial_core:sakura_steel"
+      }
+    ],
+    "result": {
+      "count": 9,
+      "item": "celestial_core:sakura_steel_nugget"
+    },
+    "sourceFile": "celestial_core/data/celestial_core/recipes/storage/sakura_steel_nugget.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "B": {
+        "item": "celestial_core:virtual_gold_ingot"
+      }
+    },
+    "pattern": [
+      "BBB",
+      "BBB",
+      "BBB"
+    ],
+    "result": {
+      "item": "celestial_core:virtual_gold_block"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/storage/virtual_gold_block.json"
+  },
+  {
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+      {
+        "item": "celestial_core:virtual_gold_ingot"
+      }
+    ],
+    "result": {
+      "count": 9,
+      "item": "celestial_core:virtual_gold_nugget"
+    },
+    "sourceFile": "celestial_core/data/celestial_core/recipes/storage/virtual_gold_nugget.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "E": {
+        "item": "minecraft:emerald"
+      },
+      "G": {
+        "item": "minecraft:gold_ingot"
+      },
+      "L": {
+        "item": "celestial_core:light_fragment"
+      },
+      "O": {
+        "item": "celestial_core:broken_totem"
+      }
+    },
+    "pattern": [
+      "EGE",
+      "GOG",
+      " L "
+    ],
+    "result": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/totem_of_undying.json"
+  },
+  {
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+      {
+        "item": "celestial_core:virtual_gold_block"
+      }
+    ],
+    "result": {
+      "count": 9,
+      "item": "celestial_core:virtual_gold_ingot"
+    },
+    "sourceFile": "celestial_core/data/celestial_core/recipes/virtual_gold_ingotfrom_block.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "B": {
+        "item": "celestial_core:virtual_gold_nugget"
+      }
+    },
+    "pattern": [
+      "BBB",
+      "BBB",
+      "BBB"
+    ],
+    "result": {
+      "item": "celestial_core:virtual_gold_ingot"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_core/data/celestial_core/recipes/virtual_gold_ingotfrom_nugget.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "abyss_core"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "celestial_artifacts:nebula_cube"
+      },
+      "B": {
+        "item": "minecraft:ender_pearl"
+      },
+      "C": {
+        "item": "minecraft:prismarine_shard"
+      },
+      "D": {
+        "item": "celestial_core:void_essence"
+      },
+      "E": {
+        "item": "celestial_artifacts:the_end_dust"
+      }
+    },
+    "pattern": [
+      "EAE",
+      "CBC",
+      "DCD"
+    ],
+    "result": {
+      "item": "celestial_artifacts:abyss_core"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/abyss_core.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "abyss_will_badge"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:echo_shard"
+      },
+      "B": {
+        "item": "celestial_artifacts:nihility_etching"
+      },
+      "C": {
+        "item": "celestial_artifacts:end_etching"
+      },
+      "D": {
+        "item": "celestial_artifacts:the_end_dust"
+      },
+      "E": {
+        "item": "minecraft:disc_fragment_5"
+      },
+      "F": {
+        "item": "celestial_artifacts:nebula_cube"
+      }
+    },
+    "pattern": [
+      "DCD",
+      "FBF",
+      "EAE"
+    ],
+    "result": {
+      "item": "celestial_artifacts:abyss_will_badge"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/abyss_will_badge.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "C": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "I": {
+        "item": "minecraft:gold_ingot"
+      },
+      "O": {
+        "item": "celestial_artifacts:nebula_cube"
+      }
+    },
+    "pattern": [
+      "ICI",
+      "COC",
+      "ICI"
+    ],
+    "result": {
+      "item": "celestial_artifacts:amethyst_reinforce_plate"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/amethyst_reinforce_plate.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "amethyst_ring"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "celestial_artifacts:gold_ring"
+      },
+      "B": {
+        "item": "minecraft:amethyst_shard"
+      }
+    },
+    "pattern": [
+      " B ",
+      "BAB",
+      "   "
+    ],
+    "result": {
+      "item": "celestial_artifacts:amethyst_ring"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/amethyst_ring.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "angel_desire"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "celestial_core:pure_nether_star"
+      },
+      "B": {
+        "item": "minecraft:phantom_membrane"
+      },
+      "C": {
+        "item": "minecraft:feather"
+      },
+      "D": {
+        "item": "celestial_core:light_fragment"
+      }
+    },
+    "pattern": [
+      "CDC",
+      "BAB",
+      "C C"
+    ],
+    "result": {
+      "item": "celestial_artifacts:angel_desire"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/angel_desire.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "angel_heart"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "celestial_core:pure_nether_star"
+      },
+      "B": {
+        "item": "celestial_core:soaring_wings"
+      },
+      "C": {
+        "item": "celestial_artifacts:nebula_cube"
+      },
+      "D": {
+        "item": "celestial_artifacts:end_etching"
+      }
+    },
+    "pattern": [
+      " B ",
+      "BAB",
+      "CDC"
+    ],
+    "result": {
+      "item": "celestial_artifacts:angel_heart"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/angel_heart.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "angel_pearl"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "1": {
+        "item": "celestial_artifacts:origin_etching"
+      },
+      "2": {
+        "item": "celestial_artifacts:desire_etching"
+      },
+      "A": {
+        "item": "minecraft:ender_pearl"
+      },
+      "B": {
+        "item": "celestial_core:soaring_wings"
+      },
+      "C": {
+        "item": "celestial_artifacts:nebula_cube"
+      },
+      "D": {
+        "item": "celestial_core:pure_nether_star"
+      }
+    },
+    "pattern": [
+      "1D2",
+      "BAB",
+      "CCC"
+    ],
+    "result": {
+      "item": "celestial_artifacts:angel_pearl"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/angel_pearl.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "A": {
+        "item": "minecraft:ender_pearl"
+      },
+      "B": {
+        "item": "minecraft:echo_shard"
+      },
+      "C": {
+        "item": "celestial_core:warden_sclerite"
+      },
+      "D": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "E": {
+        "item": "minecraft:glass_pane"
+      }
+    },
+    "pattern": [
+      " BA",
+      "CEB",
+      "DC "
+    ],
+    "result": {
+      "item": "celestial_artifacts:backtrack_mirror"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/backtrack_mirror.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "bearing_stamen"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "celestial_core:fire_essence"
+      },
+      "B": {
+        "item": "celestial_core:ocean_essence"
+      },
+      "C": {
+        "item": "minecraft:ghast_tear"
+      },
+      "D": {
+        "item": "minecraft:mossy_cobblestone"
+      },
+      "E": {
+        "item": "celestial_artifacts:life_etching"
+      },
+      "F": {
+        "item": "minecraft:spore_blossom"
+      }
+    },
+    "pattern": [
+      "DFD",
+      "BEA",
+      "DCD"
+    ],
+    "result": {
+      "item": "celestial_artifacts:bearing_stamen"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/bearing_stamen.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "chaotic_pendant"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:enchanted_book"
+      },
+      "B": {
+        "item": "minecraft:blaze_powder"
+      },
+      "C": {
+        "item": "celestial_artifacts:the_end_dust"
+      },
+      "D": {
+        "item": "celestial_artifacts:unowned_pendant"
+      }
+    },
+    "pattern": [
+      " C ",
+      "BDB",
+      " A "
+    ],
+    "result": {
+      "item": "celestial_artifacts:chaotic_pendant"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/chaotic_pendant.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "C": {
+        "item": "minecraft:copper_ingot"
+      },
+      "I": {
+        "item": "minecraft:iron_ingot"
+      },
+      "O": {
+        "item": "minecraft:obsidian"
+      }
+    },
+    "pattern": [
+      "ICI",
+      "COC",
+      "ICI"
+    ],
+    "result": {
+      "item": "celestial_artifacts:copper_reinforce_plate"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/copper_reinforce_plate.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "corrupt_badge"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "celestial_core:shulker_scrap"
+      },
+      "B": {
+        "item": "celestial_artifacts:the_end_dust"
+      },
+      "C": {
+        "item": "minecraft:ender_pearl"
+      },
+      "D": {
+        "item": "celestial_artifacts:chaotic_etching"
+      },
+      "E": {
+        "item": "celestial_artifacts:end_etching"
+      },
+      "F": {
+        "item": "celestial_artifacts:nebula_cube"
+      }
+    },
+    "pattern": [
+      "FEF",
+      "CBA",
+      "FDF"
+    ],
+    "result": {
+      "item": "celestial_artifacts:corrupt_badge"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/corrupt_badge.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "cursed_protector"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "celestial_core:shulker_scrap"
+      },
+      "B": {
+        "item": "celestial_core:death_essence"
+      },
+      "C": {
+        "item": "celestial_artifacts:chaotic_etching"
+      },
+      "D": {
+        "item": "celestial_artifacts:truth_etching"
+      },
+      "E": {
+        "item": "celestial_artifacts:nebula_cube"
+      }
+    },
+    "pattern": [
+      "ABA",
+      "ACA",
+      "EDE"
+    ],
+    "result": {
+      "item": "celestial_artifacts:cursed_protector"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/cursed_protector.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "cursed_talisman"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "1": {
+        "item": "celestial_artifacts:origin_etching"
+      },
+      "2": {
+        "item": "celestial_artifacts:chaotic_etching"
+      },
+      "A": {
+        "item": "celestial_artifacts:the_end_dust"
+      },
+      "B": {
+        "item": "celestial_core:midnight_fragment"
+      },
+      "C": {
+        "item": "celestial_artifacts:nebula_cube"
+      },
+      "D": {
+        "item": "celestial_core:heart_fragment"
+      },
+      "E": {
+        "item": "celestial_artifacts:unowned_pendant"
+      }
+    },
+    "pattern": [
+      "ABA",
+      "1E2",
+      "CDC"
+    ],
+    "result": {
+      "item": "celestial_artifacts:cursed_talisman"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/cursed_talisman.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "cursed_totem"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:echo_shard"
+      },
+      "B": {
+        "item": "celestial_artifacts:nebula_cube"
+      },
+      "C": {
+        "item": "celestial_core:death_essence"
+      },
+      "D": {
+        "item": "minecraft:totem_of_undying"
+      },
+      "E": {
+        "item": "celestial_artifacts:end_etching"
+      },
+      "F": {
+        "item": "celestial_artifacts:life_etching"
+      }
+    },
+    "pattern": [
+      "AEA",
+      "CDC",
+      "BFB"
+    ],
+    "result": {
+      "item": "celestial_artifacts:cursed_totem"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/cursed_totem.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "deer_inscribed_amulet"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "D": {
+        "item": "celestial_core:light_fragment"
+      },
+      "G": {
+        "item": "minecraft:diamond"
+      },
+      "I": {
+        "item": "minecraft:feather"
+      },
+      "T": {
+        "item": "celestial_artifacts:deers_mercy_amulet"
+      },
+      "X": {
+        "item": "celestial_artifacts:life_etching"
+      }
+    },
+    "pattern": [
+      "I I",
+      "GTG",
+      "DXD"
+    ],
+    "result": {
+      "item": "celestial_artifacts:deer_inscribed_amulet"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/deer_inscribed_amulet.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "deers_mercy_amulet"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "D": {
+        "item": "minecraft:glowstone_dust"
+      },
+      "G": {
+        "item": "minecraft:gold_ingot"
+      },
+      "I": {
+        "item": "minecraft:iron_ingot"
+      },
+      "T": {
+        "item": "celestial_core:treasure_fragment"
+      }
+    },
+    "pattern": [
+      "I I",
+      "GTG",
+      "D D"
+    ],
+    "result": {
+      "item": "celestial_artifacts:deers_mercy_amulet"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/deers_mercy_amulet.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "destroyer_badge"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:piglin_head"
+      },
+      "B": {
+        "item": "minecraft:gold_ingot"
+      },
+      "C": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "D": {
+        "item": "celestial_core:death_essence"
+      }
+    },
+    "pattern": [
+      "CBC",
+      "BAB",
+      "DCD"
+    ],
+    "result": {
+      "item": "celestial_artifacts:destroyer_badge"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/destroyer_badge.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "diamond_ring"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:diamond"
+      },
+      "T": {
+        "item": "celestial_core:treasure_fragment"
+      }
+    },
+    "pattern": [
+      " A ",
+      "ATA",
+      " A "
+    ],
+    "result": {
+      "item": "celestial_artifacts:diamond_ring"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/diamond_ring.json"
+  },
+  {
+    "type": "minecraft:smithing_transform",
+    "addition": {
+      "item": "celestial_core:earth_core"
+    },
+    "base": {
+      "item": "minecraft:netherite_axe"
+    },
+    "result": {
+      "item": "celestial_artifacts:earth_axe"
+    },
+    "template": {
+      "item": "celestial_artifacts:nebula_cube"
+    },
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/earth_axe.json"
+  },
+  {
+    "type": "minecraft:smithing_transform",
+    "addition": {
+      "item": "celestial_core:earth_core"
+    },
+    "base": {
+      "item": "minecraft:netherite_hoe"
+    },
+    "result": {
+      "item": "celestial_artifacts:earth_hoe"
+    },
+    "template": {
+      "item": "celestial_artifacts:nebula_cube"
+    },
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/earth_hoe.json"
+  },
+  {
+    "type": "minecraft:smithing_transform",
+    "addition": {
+      "item": "celestial_core:earth_core"
+    },
+    "base": {
+      "item": "minecraft:netherite_pickaxe"
+    },
+    "result": {
+      "item": "celestial_artifacts:earth_pickaxe"
+    },
+    "template": {
+      "item": "celestial_artifacts:nebula_cube"
+    },
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/earth_pickaxe.json"
+  },
+  {
+    "type": "minecraft:smithing_transform",
+    "addition": {
+      "item": "celestial_core:earth_core"
+    },
+    "base": {
+      "item": "minecraft:netherite_shovel"
+    },
+    "result": {
+      "item": "celestial_artifacts:earth_shovel"
+    },
+    "template": {
+      "item": "celestial_artifacts:nebula_cube"
+    },
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/earth_shovel.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "emerald_bracelet"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:emerald"
+      },
+      "B": {
+        "item": "celestial_core:treasure_fragment"
+      },
+      "C": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "pattern": [
+      " A ",
+      "ABA",
+      " C "
+    ],
+    "result": {
+      "item": "celestial_artifacts:emerald_bracelet"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/emerald_bracelet.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "emerald_necklace"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:diamond"
+      },
+      "B": {
+        "item": "minecraft:iron_ingot"
+      },
+      "C": {
+        "item": "minecraft:emerald"
+      },
+      "D": {
+        "item": "celestial_core:treasure_fragment"
+      }
+    },
+    "pattern": [
+      "AAA",
+      "ADA",
+      "BCB"
+    ],
+    "result": {
+      "item": "celestial_artifacts:emerald_necklace"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/emerald_necklace.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "emerald_ring"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:emerald"
+      },
+      "T": {
+        "item": "celestial_core:treasure_fragment"
+      }
+    },
+    "pattern": [
+      " A ",
+      "ATA",
+      " A "
+    ],
+    "result": {
+      "item": "celestial_artifacts:emerald_ring"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/emerald_ring.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "E": {
+        "item": "minecraft:ender_pearl"
+      },
+      "G": {
+        "item": "minecraft:obsidian"
+      },
+      "L": {
+        "item": "celestial_core:midnight_fragment"
+      },
+      "T": {
+        "item": "celestial_core:warden_sclerite"
+      }
+    },
+    "pattern": [
+      "EGE",
+      " T ",
+      "L  "
+    ],
+    "result": {
+      "item": "celestial_artifacts:ender_jump_scepter"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/ender_jump_scepter.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "ender_protector"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "celestial_core:void_essence"
+      },
+      "B": {
+        "item": "minecraft:ender_eye"
+      },
+      "C": {
+        "item": "celestial_core:shulker_scrap"
+      },
+      "D": {
+        "item": "minecraft:glow_ink_sac"
+      },
+      "E": {
+        "item": "minecraft:amethyst_shard"
+      }
+    },
+    "pattern": [
+      "EAE",
+      "ABA",
+      "DCD"
+    ],
+    "result": {
+      "item": "celestial_artifacts:ender_protector"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/ender_protector.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "evil_eye"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:ender_eye"
+      },
+      "B": {
+        "item": "minecraft:blaze_powder"
+      },
+      "C": {
+        "item": "minecraft:ink_sac"
+      },
+      "D": {
+        "item": "celestial_core:midnight_fragment"
+      }
+    },
+    "pattern": [
+      " B ",
+      "BAB",
+      "DCD"
+    ],
+    "result": {
+      "item": "celestial_artifacts:evil_eye"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/evil_eye.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "flame_arrow_bag"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:blaze_powder"
+      },
+      "B": {
+        "item": "minecraft:redstone"
+      },
+      "C": {
+        "item": "celestial_artifacts:magic_arrow_bag"
+      }
+    },
+    "pattern": [
+      "BAB",
+      "ACA",
+      "BAB"
+    ],
+    "result": {
+      "item": "celestial_artifacts:flame_arrow_bag"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/flame_arrow_bag.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "flight_ring"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "celestial_artifacts:gold_ring"
+      },
+      "B": {
+        "item": "minecraft:feather"
+      },
+      "C": {
+        "item": "celestial_core:soaring_wings"
+      }
+    },
+    "pattern": [
+      " C ",
+      "BAB",
+      "   "
+    ],
+    "result": {
+      "item": "celestial_artifacts:flight_ring"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/flight_ring.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "forest_cloak"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:green_wool"
+      },
+      "B": {
+        "item": "celestial_core:light_fragment"
+      }
+    },
+    "pattern": [
+      "AAA",
+      "ABA",
+      "A A"
+    ],
+    "result": {
+      "item": "celestial_artifacts:forest_cloak"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/forest_cloak.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "freeze_ring"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "celestial_artifacts:diamond_ring"
+      },
+      "B": {
+        "item": "minecraft:blue_ice"
+      },
+      "C": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "pattern": [
+      " B ",
+      "CAC",
+      " C "
+    ],
+    "result": {
+      "item": "celestial_artifacts:freeze_ring"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/freeze_ring.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "E": {
+        "item": "minecraft:emerald"
+      },
+      "G": {
+        "item": "minecraft:gold_ingot"
+      },
+      "L": {
+        "item": "celestial_core:heart_fragment"
+      },
+      "O": {
+        "item": "minecraft:totem_of_undying"
+      }
+    },
+    "pattern": [
+      "EGE",
+      "GOG",
+      " L "
+    ],
+    "result": {
+      "item": "celestial_artifacts:gaia_totem"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/gaia_totem.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "gallop_necklace"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:gold_ingot"
+      },
+      "B": {
+        "item": "celestial_artifacts:unowned_pendant"
+      },
+      "C": {
+        "item": "minecraft:rabbit_foot"
+      },
+      "D": {
+        "item": "minecraft:sugar"
+      },
+      "T": {
+        "item": "celestial_core:treasure_fragment"
+      }
+    },
+    "pattern": [
+      "ATA",
+      "ABA",
+      "DCD"
+    ],
+    "result": {
+      "item": "celestial_artifacts:gallop_necklace"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/gallop_necklace.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "gluttony_badge"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:iron_ingot"
+      },
+      "B": {
+        "item": "minecraft:rotten_flesh"
+      },
+      "C": {
+        "item": "celestial_core:death_essence"
+      }
+    },
+    "pattern": [
+      "BAB",
+      "ACA",
+      "BAB"
+    ],
+    "result": {
+      "item": "celestial_artifacts:gluttony_badge"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/gluttony_badge.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "gold_ring"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:gold_ingot"
+      },
+      "T": {
+        "item": "celestial_core:treasure_fragment"
+      }
+    },
+    "pattern": [
+      " A ",
+      "ATA",
+      " A "
+    ],
+    "result": {
+      "item": "celestial_artifacts:gold_ring"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/gold_ring.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "greedy_heart"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "celestial_core:heart_fragment"
+      },
+      "B": {
+        "item": "minecraft:nether_star"
+      },
+      "C": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "D": {
+        "item": "minecraft:gold_block"
+      }
+    },
+    "pattern": [
+      "CBC",
+      "BAB",
+      "DBD"
+    ],
+    "result": {
+      "item": "celestial_artifacts:greedy_heart"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/greedy_heart.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "hidden_bracelet"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:disc_fragment_5"
+      },
+      "B": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "C": {
+        "item": "celestial_artifacts:the_end_dust"
+      },
+      "D": {
+        "item": "celestial_artifacts:truth_etching"
+      },
+      "E": {
+        "item": "minecraft:blaze_powder"
+      },
+      "F": {
+        "item": "celestial_core:death_essence"
+      },
+      "G": {
+        "item": "celestial_artifacts:nebula_cube"
+      }
+    },
+    "pattern": [
+      "GBG",
+      "ADC",
+      "FEF"
+    ],
+    "result": {
+      "item": "celestial_artifacts:hidden_bracelet"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/hidden_bracelet.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "holy_necklace"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:gold_ingot"
+      },
+      "B": {
+        "item": "celestial_artifacts:cross_necklace"
+      },
+      "C": {
+        "item": "celestial_core:light_fragment"
+      },
+      "D": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "pattern": [
+      "AAA",
+      "ABA",
+      "DCD"
+    ],
+    "result": {
+      "item": "celestial_artifacts:holy_necklace"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/holy_necklace.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "holy_sword"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "celestial_core:fire_essence"
+      },
+      "B": {
+        "item": "celestial_core:light_fragment"
+      },
+      "C": {
+        "item": "celestial_core:soaring_wings"
+      },
+      "D": {
+        "item": "celestial_artifacts:nebula_cube"
+      },
+      "E": {
+        "item": "celestial_artifacts:desire_etching"
+      }
+    },
+    "pattern": [
+      "DAD",
+      "CEC",
+      "DBD"
+    ],
+    "result": {
+      "item": "celestial_artifacts:holy_sword"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/holy_sword.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "holy_talisman"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "celestial_core:pure_nether_star"
+      },
+      "B": {
+        "item": "celestial_artifacts:origin_etching"
+      },
+      "C": {
+        "item": "celestial_artifacts:nebula_cube"
+      },
+      "D": {
+        "item": "celestial_artifacts:life_etching"
+      },
+      "E": {
+        "item": "celestial_core:light_fragment"
+      },
+      "F": {
+        "item": "celestial_core:midnight_fragment"
+      },
+      "G": {
+        "item": "celestial_core:soaring_wings"
+      }
+    },
+    "pattern": [
+      "FBG",
+      "CAD",
+      "ECC"
+    ],
+    "result": {
+      "item": "celestial_artifacts:holy_talisman"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/holy_talisman.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "iron_scabbard"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:iron_ingot"
+      },
+      "B": {
+        "item": "minecraft:leather"
+      },
+      "T": {
+        "item": "celestial_core:treasure_fragment"
+      }
+    },
+    "pattern": [
+      "BA ",
+      "ATA",
+      "AAB"
+    ],
+    "result": {
+      "item": "celestial_artifacts:iron_scabbard"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/iron_scabbard.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "knight_shelter"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:nether_star"
+      },
+      "B": {
+        "item": "minecraft:gold_ingot"
+      },
+      "C": {
+        "item": "celestial_core:light_fragment"
+      },
+      "D": {
+        "item": "celestial_artifacts:origin_etching"
+      },
+      "E": {
+        "item": "celestial_artifacts:nebula_cube"
+      }
+    },
+    "pattern": [
+      "ADA",
+      "BCB",
+      "EBE"
+    ],
+    "result": {
+      "item": "celestial_artifacts:knight_shelter"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/knight_shelter.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "life_bracelet"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:redstone"
+      },
+      "B": {
+        "item": "celestial_core:treasure_fragment"
+      },
+      "C": {
+        "item": "minecraft:ghast_tear"
+      }
+    },
+    "pattern": [
+      " A ",
+      "ABA",
+      " C "
+    ],
+    "result": {
+      "item": "celestial_artifacts:life_bracelet"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/life_bracelet.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "lock_of_abyss"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "celestial_artifacts:nebula_cube"
+      },
+      "B": {
+        "item": "celestial_artifacts:chaotic_etching"
+      },
+      "C": {
+        "item": "celestial_core:heart_fragment"
+      },
+      "D": {
+        "item": "celestial_artifacts:the_end_dust"
+      },
+      "E": {
+        "item": "celestial_core:warden_sclerite"
+      }
+    },
+    "pattern": [
+      "AAA",
+      "ECE",
+      "DBD"
+    ],
+    "result": {
+      "item": "celestial_artifacts:lock_of_abyss"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/lock_of_abyss.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "magic_arrow_bag"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "B": {
+        "item": "minecraft:arrow"
+      },
+      "C": {
+        "item": "minecraft:leather"
+      },
+      "T": {
+        "item": "celestial_core:treasure_fragment"
+      }
+    },
+    "pattern": [
+      "ABB",
+      "CTB",
+      "ACA"
+    ],
+    "result": {
+      "item": "celestial_artifacts:magic_arrow_bag"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/magic_arrow_bag.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "nether_fire"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "celestial_artifacts:netherite_ring"
+      },
+      "B": {
+        "item": "minecraft:blaze_powder"
+      },
+      "C": {
+        "item": "minecraft:redstone"
+      },
+      "D": {
+        "item": "celestial_core:fire_essence"
+      }
+    },
+    "pattern": [
+      " C ",
+      "BAB",
+      " D "
+    ],
+    "result": {
+      "item": "celestial_artifacts:nether_fire"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/nether_fire.json"
+  },
+  {
+    "type": "minecraft:smithing_transform",
+    "addition": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "base": {
+      "item": "celestial_artifacts:diamond_ring"
+    },
+    "result": {
+      "item": "celestial_artifacts:netherite_ring"
+    },
+    "template": {
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    },
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/netherite_ring.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "nostalgic_butterfly_ring"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:iron_ingot"
+      },
+      "T": {
+        "item": "celestial_core:treasure_fragment"
+      },
+      "X": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "pattern": [
+      " AX",
+      "ATA",
+      " A "
+    ],
+    "result": {
+      "item": "celestial_artifacts:nostalgic_butterfly_ring"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/nostalgic_butterfly_ring.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "G": {
+        "item": "minecraft:gold_ingot"
+      },
+      "I": {
+        "item": "minecraft:leather"
+      },
+      "T": {
+        "item": "celestial_core:treasure_fragment"
+      }
+    },
+    "pattern": [
+      " G ",
+      "ITI",
+      "III"
+    ],
+    "result": {
+      "item": "celestial_artifacts:potions_bag"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/potions_bag.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "prayer_crown"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:redstone_block"
+      },
+      "B": {
+        "item": "minecraft:gold_ingot"
+      },
+      "C": {
+        "item": "minecraft:iron_ingot"
+      },
+      "D": {
+        "item": "celestial_artifacts:cross_necklace"
+      }
+    },
+    "pattern": [
+      "B B",
+      "BAB",
+      "CDC"
+    ],
+    "result": {
+      "item": "celestial_artifacts:prayer_crown"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/prayer_crown.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "precious_bracelet"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "B": {
+        "item": "minecraft:ender_pearl"
+      },
+      "C": {
+        "item": "celestial_core:treasure_fragment"
+      },
+      "D": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "pattern": [
+      " A ",
+      "ABA",
+      "DCD"
+    ],
+    "result": {
+      "item": "celestial_artifacts:precious_bracelet"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/precious_bracelet.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "precious_necklace"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:diamond"
+      },
+      "B": {
+        "item": "minecraft:experience_bottle"
+      },
+      "C": {
+        "item": "minecraft:netherite_scrap"
+      },
+      "D": {
+        "item": "celestial_core:treasure_fragment"
+      }
+    },
+    "pattern": [
+      "AAA",
+      "ABA",
+      "CDC"
+    ],
+    "result": {
+      "item": "celestial_artifacts:precious_necklace"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/precious_necklace.json"
+  },
+  {
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+      {
+        "item": "minecraft:redstone"
+      },
+      {
+        "item": "minecraft:experience_bottle"
+      },
+      {
+        "item": "celestial_artifacts:the_end_dust"
+      }
+    ],
+    "result": {
+      "item": "celestial_artifacts:purified_powder"
+    },
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/purified_powder.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "A": {
+        "item": "minecraft:echo_shard"
+      },
+      "B": {
+        "item": "celestial_core:light_fragment"
+      },
+      "C": {
+        "item": "celestial_core:void_essence"
+      },
+      "D": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "E": {
+        "item": "minecraft:glass_pane"
+      }
+    },
+    "pattern": [
+      " BA",
+      "CEB",
+      "DC "
+    ],
+    "result": {
+      "item": "celestial_artifacts:repent_mirror"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/repent_mirror.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "ring_of_life"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:cherry_sapling"
+      },
+      "B": {
+        "item": "celestial_artifacts:emerald_ring"
+      },
+      "C": {
+        "item": "minecraft:bamboo"
+      },
+      "D": {
+        "item": "minecraft:green_dye"
+      },
+      "E": {
+        "item": "minecraft:pitcher_plant"
+      },
+      "F": {
+        "item": "minecraft:glow_berries"
+      },
+      "G": {
+        "item": "minecraft:wheat_seeds"
+      },
+      "H": {
+        "item": "minecraft:nether_wart"
+      },
+      "I": {
+        "item": "minecraft:mangrove_propagule"
+      }
+    },
+    "pattern": [
+      "ACD",
+      "IBE",
+      "FGH"
+    ],
+    "result": {
+      "item": "celestial_artifacts:ring_of_life"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/ring_of_life.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "sacrificial_object"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "1": {
+        "item": "celestial_artifacts:desire_etching"
+      },
+      "2": {
+        "item": "celestial_artifacts:truth_etching"
+      },
+      "A": {
+        "item": "celestial_artifacts:the_end_dust"
+      },
+      "B": {
+        "item": "celestial_core:light_fragment"
+      },
+      "C": {
+        "item": "celestial_artifacts:nebula_cube"
+      },
+      "D": {
+        "item": "celestial_core:death_essence"
+      },
+      "E": {
+        "item": "celestial_artifacts:unowned_pendant"
+      }
+    },
+    "pattern": [
+      "ABA",
+      "1E2",
+      "CDC"
+    ],
+    "result": {
+      "item": "celestial_artifacts:sacrificial_object"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/sacrificial_object.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "sakura_hairpin"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:cherry_log"
+      },
+      "B": {
+        "item": "celestial_core:sakura_steel"
+      },
+      "C": {
+        "item": "celestial_core:sakura_fragment"
+      },
+      "D": {
+        "item": "celestial_core:light_fragment"
+      }
+    },
+    "pattern": [
+      "ABC",
+      "BAD",
+      " CA"
+    ],
+    "result": {
+      "item": "celestial_artifacts:sakura_hairpin"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/sakura_hairpin.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "scarlet_bracelet"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "1": {
+        "item": "celestial_artifacts:nihility_etching"
+      },
+      "2": {
+        "item": "celestial_artifacts:truth_etching"
+      },
+      "A": {
+        "item": "celestial_artifacts:red_ruby_bracelet"
+      },
+      "B": {
+        "item": "celestial_core:warden_sclerite"
+      },
+      "C": {
+        "item": "celestial_artifacts:nebula_cube"
+      }
+    },
+    "pattern": [
+      "CBC",
+      "1A2",
+      "CBC"
+    ],
+    "result": {
+      "item": "celestial_artifacts:scarlet_bracelet"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/scarlet_bracelet.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "sea_god_crown"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:prismarine_shard"
+      },
+      "B": {
+        "item": "minecraft:diamond"
+      },
+      "C": {
+        "item": "minecraft:heart_of_the_sea"
+      },
+      "D": {
+        "item": "celestial_core:ocean_essence"
+      }
+    },
+    "pattern": [
+      "A A",
+      "ADA",
+      "BCB"
+    ],
+    "result": {
+      "item": "celestial_artifacts:sea_god_crown"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/sea_god_crown.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "sea_god_scroll"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:trident"
+      },
+      "B": {
+        "item": "minecraft:paper"
+      },
+      "C": {
+        "item": "minecraft:heart_of_the_sea"
+      },
+      "D": {
+        "item": "minecraft:prismarine_shard"
+      },
+      "E": {
+        "item": "celestial_core:ocean_essence"
+      },
+      "F": {
+        "item": "minecraft:prismarine_crystals"
+      }
+    },
+    "pattern": [
+      "DEB",
+      "ACD",
+      "FDF"
+    ],
+    "result": {
+      "item": "celestial_artifacts:sea_god_scroll"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/sea_god_scroll.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "shadow_pendant"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "B": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "C": {
+        "item": "celestial_core:void_essence"
+      },
+      "D": {
+        "item": "celestial_artifacts:the_end_dust"
+      },
+      "E": {
+        "item": "celestial_artifacts:unowned_pendant"
+      },
+      "F": {
+        "item": "celestial_core:death_essence"
+      },
+      "M": {
+        "item": "celestial_core:midnight_fragment"
+      },
+      "X": {
+        "item": "celestial_artifacts:nebula_cube"
+      }
+    },
+    "pattern": [
+      "XAF",
+      "CED",
+      "MBX"
+    ],
+    "result": {
+      "item": "celestial_artifacts:shadow_pendant"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/shadow_pendant.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "skywalker_scroll"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:paper"
+      },
+      "B": {
+        "item": "minecraft:ender_pearl"
+      },
+      "C": {
+        "item": "minecraft:glow_ink_sac"
+      },
+      "D": {
+        "item": "celestial_core:light_fragment"
+      }
+    },
+    "pattern": [
+      "CBA",
+      "BAB",
+      "ABD"
+    ],
+    "result": {
+      "item": "celestial_artifacts:skywalker_scroll"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/skywalker_scroll.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "solar_magnet"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:iron_ingot"
+      },
+      "B": {
+        "item": "minecraft:redstone"
+      },
+      "C": {
+        "item": "celestial_core:fire_essence"
+      },
+      "D": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "pattern": [
+      "B B",
+      "ADA",
+      "ACA"
+    ],
+    "result": {
+      "item": "celestial_artifacts:solar_magnet"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/solar_magnet.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "soul_box"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "celestial_artifacts:nebula_cube"
+      },
+      "B": {
+        "item": "celestial_core:heart_fragment"
+      },
+      "C": {
+        "item": "celestial_core:light_fragment"
+      },
+      "D": {
+        "item": "celestial_artifacts:nihility_etching"
+      },
+      "E": {
+        "item": "celestial_artifacts:life_etching"
+      },
+      "F": {
+        "item": "celestial_core:warden_sclerite"
+      }
+    },
+    "pattern": [
+      "FEF",
+      "ABA",
+      "CDC"
+    ],
+    "result": {
+      "item": "celestial_artifacts:soul_box"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/soul_box.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "star_necklace"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:lapis_lazuli"
+      },
+      "B": {
+        "item": "minecraft:blaze_powder"
+      },
+      "C": {
+        "item": "celestial_core:midnight_fragment"
+      },
+      "D": {
+        "item": "minecraft:gold_ingot"
+      }
+    },
+    "pattern": [
+      "AAA",
+      "ABA",
+      "DCD"
+    ],
+    "result": {
+      "item": "celestial_artifacts:star_necklace"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/star_necklace.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "titan_scabbard"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "celestial_artifacts:iron_scabbard"
+      },
+      "B": {
+        "item": "celestial_core:light_fragment"
+      },
+      "C": {
+        "item": "minecraft:experience_bottle"
+      },
+      "D": {
+        "item": "minecraft:gold_ingot"
+      },
+      "E": {
+        "item": "minecraft:lime_dye"
+      }
+    },
+    "pattern": [
+      " DB",
+      "EAD",
+      "CE "
+    ],
+    "result": {
+      "item": "celestial_artifacts:titan_scabbard"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/titan_scabbard.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "treasure_hunter_necklace"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:iron_ingot"
+      },
+      "B": {
+        "item": "celestial_artifacts:the_end_dust"
+      },
+      "C": {
+        "item": "minecraft:diamond"
+      },
+      "D": {
+        "item": "celestial_core:treasure_fragment"
+      }
+    },
+    "pattern": [
+      "AAA",
+      "ABA",
+      "CDC"
+    ],
+    "result": {
+      "item": "celestial_artifacts:treasure_hunter_necklace"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/treasure_hunter_necklace.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "twisted_scabbard"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "celestial_artifacts:iron_scabbard"
+      },
+      "B": {
+        "item": "minecraft:end_crystal"
+      },
+      "C": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "D": {
+        "item": "celestial_core:death_essence"
+      }
+    },
+    "pattern": [
+      " CB",
+      "CAC",
+      "DC "
+    ],
+    "result": {
+      "item": "celestial_artifacts:twisted_scabbard"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/twisted_scabbard.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "twisted_scroll"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:paper"
+      },
+      "B": {
+        "item": "celestial_core:void_essence"
+      },
+      "C": {
+        "item": "celestial_core:death_essence"
+      },
+      "D": {
+        "item": "celestial_core:midnight_fragment"
+      },
+      "X": {
+        "item": "celestial_artifacts:nebula_cube"
+      }
+    },
+    "pattern": [
+      "XAA",
+      "ADB",
+      "AAC"
+    ],
+    "result": {
+      "item": "celestial_artifacts:twisted_scroll"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/twisted_scroll.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "undead_charm"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:skeleton_skull"
+      },
+      "B": {
+        "item": "celestial_artifacts:life_etching"
+      },
+      "C": {
+        "item": "celestial_artifacts:desire_etching"
+      },
+      "D": {
+        "item": "celestial_artifacts:nebula_cube"
+      },
+      "E": {
+        "item": "celestial_core:shulker_scrap"
+      }
+    },
+    "pattern": [
+      "DCD",
+      "EAE",
+      "DBD"
+    ],
+    "result": {
+      "item": "celestial_artifacts:undead_charm"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/undead_charm.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "war_dead_badge"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "celestial_core:fire_essence"
+      },
+      "B": {
+        "item": "celestial_core:death_essence"
+      },
+      "C": {
+        "item": "celestial_artifacts:the_end_dust"
+      },
+      "D": {
+        "item": "celestial_artifacts:nebula_cube"
+      },
+      "E": {
+        "item": "celestial_artifacts:nihility_etching"
+      }
+    },
+    "pattern": [
+      "DCD",
+      "BEA",
+      "DCD"
+    ],
+    "result": {
+      "item": "celestial_artifacts:war_dead_badge"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/war_dead_badge.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "conditions": [
+      {
+        "type": "l2library:boolean_config",
+        "expected": true,
+        "line": [
+          "itemToggle",
+          "yellow_duck"
+        ],
+        "path": "celestial_configs/celestial_artifacts-common.toml"
+      }
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:yellow_wool"
+      },
+      "B": {
+        "item": "celestial_core:ocean_essence"
+      },
+      "C": {
+        "item": "celestial_artifacts:life_etching"
+      }
+    },
+    "pattern": [
+      "ABA",
+      "A A",
+      "ACA"
+    ],
+    "result": {
+      "item": "celestial_artifacts:yellow_duck"
+    },
+    "show_notification": true,
+    "sourceFile": "celestial_artifacts/data/celestial_artifacts/recipes/yellow_duck.json"
+  }
+]

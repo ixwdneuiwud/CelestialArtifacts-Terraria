@@ -1,0 +1,14 @@
+# Attribution and licensing
+
+**Celestial Artifacts 1.6.0 and Celestial Core 1.6.1** are originally by **Xiaoyue / Minecraft-Celestial and contributors**. Original Java code, text, item art, slot art and armor textures remain attributed to their respective contributors. This is an unofficial GPT-assisted Terraria C# adaptation maintained by ixwdneuiwud, not an official Minecraft-Celestial release.
+
+- Celestial Artifacts: https://github.com/Minecraft-Celestial/CelestialArtifacts
+- Celestial Core: https://github.com/Minecraft-Celestial/CelestialCore
+- Both original root LICENSE files and JAR metadata identify **LGPL-2.1**. Unmodified license texts are included in `licenses/`; the translated/adapted code and bundled Celestial resources are distributed under that license.
+- **Modification date: 2026-10-31.** Java/Forge mechanics were adapted to C#/tModLoader equipment, prefixes, damage categories, native potion/projectile logic, crafting, drops, saves and networking. Armor and item PNGs were resized/packed for Terraria. Slot `_ui` variants lift the dark RGB palette while retaining alpha. Public snapshot cleanup removes the privately combined add-on/nightmare implementations. Core potion art now refers to the installed Terraria Bottled Water sprite at runtime; no Enigmatic Addons potion artwork is redistributed.
+
+**Enigmatic Legacy dependency.** Build and runtime depend on the separately distributed Enigmatic Legacy Terraria adaptation. Its original material is by Aizistral / Aizistral Studios under the custom Enigmatic Legacy License, II Edition; its unmodified upstream license is included for reference. Its C# source and source-availability terms are at https://github.com/ixwdneuiwud/EnigmaticLegacy-Terraria . Its files are not relicensed as LGPL by this repository. Preserve its original attribution and open-source obligations when distributing the combined installation. Terraria/tModLoader and Calamity retain their own terms; their binaries are not included here.
+
+**Minecraft vanilla icons.** Nether Star, equipment boot-slot and Totem of Undying artwork remain the property of Mojang/Microsoft. Where used by this module, these icons are restored from a local Minecraft 1.20.1 client for the binary build and excluded from Git. Their original entries and pixel hashes are recorded in `external-assets.json`; restore with `tools/restore_external_assets.py`. The original mod licenses do not relicense Minecraft artwork. This notice records provenance and does not claim permission from Mojang/Microsoft or an official affiliation.
+
+No original JARs, other port sources/assets, credentials, personal configurations, user characters/worlds or game/mod binaries are published. In particular, this source tree contains neither Enigmatic Addons nor Seeking Immortals; their publicly visible repositories do not supply a general redistribution license.

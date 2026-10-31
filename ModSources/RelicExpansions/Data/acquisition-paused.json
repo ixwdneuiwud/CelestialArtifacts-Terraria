@@ -1,0 +1,49 @@
+{
+  "reason": "五件××战利品以及厄运土豆、魅力手环按用户口径暂缓获取；其余原结构来源已改绑原版宝箱",
+  "items": [
+    {
+      "id": "celestial_core:desert_pyramid_loot_box",
+      "originalSources": [
+        "celestial_core/data/celestial_core/loot_modifiers/chests and celestial_artifacts/data/celestial_artifacts/loot_modifiers/fishing_box"
+      ]
+    },
+    {
+      "id": "celestial_core:igloo_loot_box",
+      "originalSources": [
+        "celestial_core/data/celestial_core/loot_modifiers/chests and celestial_artifacts/data/celestial_artifacts/loot_modifiers/fishing_box"
+      ]
+    },
+    {
+      "id": "celestial_core:jungle_pyramid_loot_box",
+      "originalSources": [
+        "celestial_core/data/celestial_core/loot_modifiers/chests and celestial_artifacts/data/celestial_artifacts/loot_modifiers/fishing_box"
+      ]
+    },
+    {
+      "id": "celestial_core:manson_loot_box",
+      "originalSources": [
+        "celestial_core/data/celestial_core/loot_modifiers/chests and celestial_artifacts/data/celestial_artifacts/loot_modifiers/fishing_box"
+      ]
+    },
+    {
+      "id": "celestial_core:pillager_outpost_loot_box",
+      "originalSources": [
+        "celestial_core/data/celestial_core/loot_modifiers/chests and celestial_artifacts/data/celestial_artifacts/loot_modifiers/fishing_box"
+      ]
+    },
+    {
+      "id": "celestial_artifacts:unlucky_potato",
+      "reason": "用户明确暂缓获取与新增功能",
+      "originalSources": [
+        "用户于2026-10-29明确暂缓"
+      ]
+    },
+    {
+      "id": "celestial_artifacts:charming_bracelet",
+      "reason": "用户明确暂缓获取与新增功能",
+      "originalSources": [
+        "用户于2026-10-29明确暂缓"
+      ]
+    }
+  ]
+}

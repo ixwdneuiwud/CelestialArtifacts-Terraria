@@ -1,0 +1,30 @@
+[h1]遗物移植兼容核心：Terraria 非官方移植[/h1]
+[b]本 Terraria 移植的开发、代码改写、资源适配及修复完全由 AI（GPT）完成。[/b]用户提出移植目标与适配口径；原 Minecraft 模组及其原素材仍归原作者与各权利人所有。这是非官方移植。
+
+星月核心和星月遗物使用的共享前置。提供伤害类别适配、专用饰品槽、效果事件、合成、掉落、存档和网络逻辑。此公开版本仅服务已公开的星月系列内容。
+适用于 tModLoader 1.4.4；本次在 2026.8.3.0 构建并进行隔离运行检查。使用 Terraria 原生近战、远程、魔法、召唤等类别与装备加成，灾厄为可选兼容对象。部分材料、获取渠道、二维行为和数值经过适配；用户明确暂停或尚未确定的机制继续保留待补，不能当作 Minecraft 原版完全等价版本。
+
+[h2]视频介绍[/h2]
+内容较多，物品介绍与武器演示请看视频：
+[url=https://b23.tv/RW9Jiy9]基于GPT的星月遗物泰拉版 · 哔哩哔哩[/url]
+
+[h2]安装与前置[/h2]
+必须同时安装：EnigmaticLegacy。创意工坊“必需物品”将逐项关联。
+每个模组单独订阅、单独发布；不要重复安装同名本地旧包。共享兼容核心公开版不包含其他私人移植模块。
+
+[h2]原作与开源源码[/h2]
+原模组：Celestial Artifacts / Celestial Core 共享 Terraria 运行逻辑
+原作者：Xiaoyue / Minecraft-Celestial 及贡献者
+[url=https://github.com/Minecraft-Celestial/CelestialArtifacts]原模组 GitHub 仓库[/url]
+[url=https://github.com/Minecraft-Celestial]原作者／项目组织 GitHub 主页[/url]
+[url=https://github.com/ixwdneuiwud/CelestialArtifacts-Terraria]当前 Terraria 移植开源仓库[/url]
+[url=https://github.com/ixwdneuiwud/CelestialArtifacts-Terraria/blob/main/docs/validation.md]当前公开快照的验证范围[/url]
+
+[h2]移植许可依据与素材归属[/h2]
+星月遗物与星月核心的原仓库 LICENSE 和原 JAR 元数据标注 LGPL-2.1。本移植保留许可证、作者归属、修改声明、完整对应源码和构建脚本；独立依赖和第三方素材继续遵循各自条款。
+[url=https://github.com/ixwdneuiwud/CelestialArtifacts-Terraria/blob/main/docs/license-review.md]许可条款、原始证据与本移植的遵循方式[/url]
+[url=https://github.com/ixwdneuiwud/CelestialArtifacts-Terraria/blob/main/THIRD_PARTY_NOTICES.md]第三方素材与依赖归属[/url]
+Minecraft 原版图标继续保留，其权利归 Mojang/Microsoft；原模组许可证不重新授权这些原版素材。以上为公开条款与遵循记录，不声称已取得原作者或 Mojang/Microsoft 的单独授权。
+
+[h2]Bug 反馈[/h2]
+反馈 QQ 群：[b]1132970727[/b]。请附 tModLoader 版本、模组列表、复现步骤和报错日志。

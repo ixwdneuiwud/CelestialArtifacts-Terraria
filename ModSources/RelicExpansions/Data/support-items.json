@@ -1,0 +1,11 @@
+[
+  {
+    "id": "minecraft:totem_of_undying",
+    "name": "不死图腾",
+    "englishName": "Totem of Undying",
+    "kind": "utility",
+    "internalName": "TotemOfUndying",
+    "sourceMod": "minecraft",
+    "texture": "Assets/Items/minecraft/totem_of_undying"
+  }
+]

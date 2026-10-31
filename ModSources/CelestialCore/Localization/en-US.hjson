@@ -1,0 +1,415 @@
+Mods: {
+	CelestialCore: {
+		Items: {
+			celestial_core__broken_totem: {
+				DisplayName: Broken Totem
+				Tooltip: ""
+			}
+
+			celestial_core__death_essence: {
+				DisplayName: Death Essence
+				Tooltip: ""
+			}
+
+			celestial_core__desert_pyramid_loot_box: {
+				DisplayName: Desert Pyramid Loot Box
+				Tooltip: ""
+			}
+
+			celestial_core__earth_core: {
+				DisplayName: Earth Core
+				Tooltip: ""
+			}
+
+			celestial_core__fire_essence: {
+				DisplayName: Fire Essence
+				Tooltip: ""
+			}
+
+			celestial_core__guardian_spike: {
+				DisplayName: Guardian Spike
+				Tooltip: ""
+			}
+
+			celestial_core__heart_fragment: {
+				DisplayName: Heart Fragment
+				Tooltip: ""
+			}
+
+			celestial_core__igloo_loot_box: {
+				DisplayName: Igloo Loot Box
+				Tooltip: ""
+			}
+
+			celestial_core__jungle_pyramid_loot_box: {
+				DisplayName: Jungle Pyramid Loot Box
+				Tooltip: ""
+			}
+
+			celestial_core__light_fragment: {
+				DisplayName: Light Fragment
+				Tooltip: ""
+			}
+
+			celestial_core__manson_loot_box: {
+				DisplayName: Manson Loot Box
+				Tooltip: ""
+			}
+
+			celestial_core__midnight_fragment: {
+				DisplayName: Midnight Fragment
+				Tooltip: ""
+			}
+
+			celestial_core__ocean_axe: {
+				DisplayName: Ocean Axe
+				Tooltip: ""
+			}
+
+			celestial_core__ocean_boots: {
+				DisplayName: Ocean Boots
+				Tooltip: ""
+			}
+
+			celestial_core__ocean_chestplate: {
+				DisplayName: Ocean Chestplate
+				Tooltip: ""
+			}
+
+			celestial_core__ocean_essence: {
+				DisplayName: Ocean Essence
+				Tooltip: ""
+			}
+
+			celestial_core__ocean_helmet: {
+				DisplayName: Ocean Helmet
+				Tooltip: ""
+			}
+
+			celestial_core__ocean_hoe: {
+				DisplayName: Ocean Hoe
+				Tooltip: ""
+			}
+
+			celestial_core__ocean_ingot: {
+				DisplayName: Ocean Ingot
+				Tooltip: ""
+			}
+
+			celestial_core__ocean_leggings: {
+				DisplayName: Ocean Leggings
+				Tooltip: ""
+			}
+
+			celestial_core__ocean_pickaxe: {
+				DisplayName: Ocean Pickaxe
+				Tooltip: ""
+			}
+
+			celestial_core__ocean_shovel: {
+				DisplayName: Ocean Shovel
+				Tooltip: ""
+			}
+
+			celestial_core__ocean_sword: {
+				DisplayName: Ocean Sword
+				Tooltip: ""
+			}
+
+			celestial_core__pillager_outpost_loot_box: {
+				DisplayName: Pillager Outpost Loot Box
+				Tooltip: ""
+			}
+
+			celestial_core__pure_nether_star: {
+				DisplayName: Pure Nether Star
+				Tooltip: ""
+			}
+
+			celestial_core__reinforced_ocean_block: {
+				DisplayName: Reinforced Ocean Block
+				Tooltip: ""
+			}
+
+			celestial_core__reinforced_ocean_ingot: {
+				DisplayName: Reinforced Ocean Ingot
+				Tooltip: ""
+			}
+
+			celestial_core__reinforced_ocean_nugget: {
+				DisplayName: Reinforced Ocean Nugget
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_axe: {
+				DisplayName: Sakura Axe
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_boots: {
+				DisplayName: Sakura Boots
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_chestplate: {
+				DisplayName: Sakura Chestplate
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_fragment: {
+				DisplayName: Sakura Fragment
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_helmet: {
+				DisplayName: Sakura Helmet
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_hoe: {
+				DisplayName: Sakura Hoe
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_leggings: {
+				DisplayName: Sakura Leggings
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_pickaxe: {
+				DisplayName: Sakura Pickaxe
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_shovel: {
+				DisplayName: Sakura Shovel
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_steel: {
+				DisplayName: Sakura Steel
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_steel_block: {
+				DisplayName: Sakura Steel Block
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_steel_nugget: {
+				DisplayName: Sakura Steel Nugget
+				Tooltip: ""
+			}
+
+			celestial_core__sakura_sword: {
+				DisplayName: Sakura Sword
+				Tooltip: ""
+			}
+
+			celestial_core__shulker_scrap: {
+				DisplayName: Shulker Scrap
+				Tooltip: ""
+			}
+
+			celestial_core__soaring_wings: {
+				DisplayName: Soaring Wings
+				Tooltip: ""
+			}
+
+			celestial_core__treasure_fragment: {
+				DisplayName: Treasure Fragment
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_axe: {
+				DisplayName: Virtual Gold Axe
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_block: {
+				DisplayName: Virtual Gold Block
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_boots: {
+				DisplayName: Virtual Gold Boots
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_chestplate: {
+				DisplayName: Virtual Gold Chestplate
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_helmet: {
+				DisplayName: Virtual Gold Helmet
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_hoe: {
+				DisplayName: Virtual Gold Hoe
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_ingot: {
+				DisplayName: Virtual Gold Ingot
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_leggings: {
+				DisplayName: Virtual Gold Leggings
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_nugget: {
+				DisplayName: Virtual Gold Nugget
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_pickaxe: {
+				DisplayName: Virtual Gold Pickaxe
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_shovel: {
+				DisplayName: Virtual Gold Shovel
+				Tooltip: ""
+			}
+
+			celestial_core__virtual_gold_sword: {
+				DisplayName: Virtual Gold Sword
+				Tooltip: ""
+			}
+
+			celestial_core__void_essence: {
+				DisplayName: Void Essence
+				Tooltip: ""
+			}
+
+			celestial_core__warden_sclerite: {
+				DisplayName: Warden Sclerite
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritRate: {
+				DisplayName: Critical Rate Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritRateSplash: {
+				DisplayName: Splash Critical Rate Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritRateLingering: {
+				DisplayName: Lingering Critical Rate Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritRate: {
+				DisplayName: Long Critical Rate Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritRateSplash: {
+				DisplayName: Splash Long Critical Rate Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritRateLingering: {
+				DisplayName: Lingering Long Critical Rate Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritDamage: {
+				DisplayName: Critical Damage Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritDamageSplash: {
+				DisplayName: Splash Critical Damage Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritDamageLingering: {
+				DisplayName: Lingering Critical Damage Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritDamage: {
+				DisplayName: Long Critical Damage Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritDamageSplash: {
+				DisplayName: Splash Long Critical Damage Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritDamageLingering: {
+				DisplayName: Lingering Long Critical Damage Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonRegenRate: {
+				DisplayName: Healing Efficiency Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonRegenRateSplash: {
+				DisplayName: Splash Healing Efficiency Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonRegenRateLingering: {
+				DisplayName: Lingering Healing Efficiency Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongRegenRate: {
+				DisplayName: Long Healing Efficiency Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongRegenRateSplash: {
+				DisplayName: Splash Long Healing Efficiency Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongRegenRateLingering: {
+				DisplayName: Lingering Long Healing Efficiency Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonArrowDamage: {
+				DisplayName: Arrow Damage Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonArrowDamageSplash: {
+				DisplayName: Splash Arrow Damage Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonArrowDamageLingering: {
+				DisplayName: Lingering Arrow Damage Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongArrowDamage: {
+				DisplayName: Long Arrow Damage Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongArrowDamageSplash: {
+				DisplayName: Splash Long Arrow Damage Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongArrowDamageLingering: {
+				DisplayName: Lingering Long Arrow Damage Potion
+				Tooltip: ""
+			}
+		}
+	}
+}

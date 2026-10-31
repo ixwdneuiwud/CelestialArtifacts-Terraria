@@ -1,0 +1,166 @@
+[
+  {
+    "case": "legacy-only",
+    "date": "2026-10-31",
+    "passed": true,
+    "mode": "isolated-runtime",
+    "checks": 292,
+    "failed": [],
+    "missing": [],
+    "requested": [
+      "EnigmaticLegacy"
+    ],
+    "loadedMods": [
+      {
+        "Name": "ModLoader",
+        "version": "2026.8.3.0"
+      },
+      {
+        "Name": "EnigmaticLegacy",
+        "version": "0.1.19"
+      }
+    ],
+    "tModLoader": "1.4.4.9",
+    "packageSHA256": {
+      "EnigmaticLegacy": "b574db9683e84396605f9023540db8733d0d854a048d589cd091dcd1189351bd"
+    }
+  },
+  {
+    "case": "core-only",
+    "date": "2026-10-31",
+    "passed": true,
+    "mode": "registration",
+    "checks": 10,
+    "failed": [],
+    "missing": [],
+    "requested": [
+      "EnigmaticLegacy",
+      "RelicExpansions",
+      "CelestialCore"
+    ],
+    "loadedMods": [
+      {
+        "Name": "ModLoader",
+        "version": "2026.8.3.0"
+      },
+      {
+        "Name": "EnigmaticLegacy",
+        "version": "0.1.19"
+      },
+      {
+        "Name": "RelicExpansions",
+        "version": "0.2.2"
+      },
+      {
+        "Name": "CelestialCore",
+        "version": "0.1.2"
+      }
+    ],
+    "tModLoader": "1.4.4.9",
+    "packageSHA256": {
+      "EnigmaticLegacy": "b574db9683e84396605f9023540db8733d0d854a048d589cd091dcd1189351bd",
+      "RelicExpansions": "1141703df3c065a65d8518bcc28e3876e489fab5b886dc2e02e99922f8dde1d6",
+      "CelestialCore": "99b221234c3a28eadfe523aef4b8c8913e9f6866b1fd967504973fc8cb21ef97"
+    }
+  },
+  {
+    "case": "celestial",
+    "date": "2026-10-31",
+    "passed": true,
+    "mode": "isolated-runtime",
+    "checks": 441,
+    "failed": [],
+    "missing": [],
+    "requested": [
+      "EnigmaticLegacy",
+      "RelicExpansions",
+      "CelestialCore",
+      "CelestialArtifacts"
+    ],
+    "loadedMods": [
+      {
+        "Name": "ModLoader",
+        "version": "2026.8.3.0"
+      },
+      {
+        "Name": "EnigmaticLegacy",
+        "version": "0.1.19"
+      },
+      {
+        "Name": "RelicExpansions",
+        "version": "0.2.2"
+      },
+      {
+        "Name": "CelestialCore",
+        "version": "0.1.2"
+      },
+      {
+        "Name": "CelestialArtifacts",
+        "version": "0.1.2"
+      }
+    ],
+    "tModLoader": "1.4.4.9",
+    "packageSHA256": {
+      "EnigmaticLegacy": "b574db9683e84396605f9023540db8733d0d854a048d589cd091dcd1189351bd",
+      "RelicExpansions": "1141703df3c065a65d8518bcc28e3876e489fab5b886dc2e02e99922f8dde1d6",
+      "CelestialCore": "99b221234c3a28eadfe523aef4b8c8913e9f6866b1fd967504973fc8cb21ef97",
+      "CelestialArtifacts": "4e310417f7bf36792165b77da628fdbbcb73018299bb43d4c811fd249100cfa4"
+    }
+  },
+  {
+    "case": "calamity",
+    "date": "2026-10-31",
+    "passed": true,
+    "mode": "isolated-runtime",
+    "checks": 445,
+    "failed": [],
+    "missing": [],
+    "requested": [
+      "EnigmaticLegacy",
+      "RelicExpansions",
+      "CelestialCore",
+      "CelestialArtifacts",
+      "CalamityMod",
+      "CalamityModMusic"
+    ],
+    "loadedMods": [
+      {
+        "Name": "ModLoader",
+        "version": "2026.8.3.0"
+      },
+      {
+        "Name": "CalamityModMusic",
+        "version": "2.1"
+      },
+      {
+        "Name": "CalamityMod",
+        "version": "2.2.4"
+      },
+      {
+        "Name": "EnigmaticLegacy",
+        "version": "0.1.19"
+      },
+      {
+        "Name": "RelicExpansions",
+        "version": "0.2.2"
+      },
+      {
+        "Name": "CelestialCore",
+        "version": "0.1.2"
+      },
+      {
+        "Name": "CelestialArtifacts",
+        "version": "0.1.2"
+      }
+    ],
+    "tModLoader": "1.4.4.9",
+    "packageSHA256": {
+      "EnigmaticLegacy": "5eed7e46df6f25d8454583d8eb8c8f65656d85348a82fb8df362e00141a37b79",
+      "RelicExpansions": "d5472f6c43fc64b272ca93fb2fc40937df38bbc8269bcf4c16c11419e5898861",
+      "CelestialCore": "b18634fe271e6ed28dbb7ac4e5b465456de3f67cf2317f8ee014c781927eafa8",
+      "CelestialArtifacts": "a8bd23c494d3446a7e7f10e0570332bb3e76453a629063c545d65aeeb434c685",
+      "CalamityMod": "d50fea9025f88ee2073c00e3482976ca1e6ea54d0b8770eb7810bb7b280397d6",
+      "CalamityModMusic": "ca202bc18ae690d5ea7267b42c9ec8162241a19aafc9efdf40eff0a59eada9e5"
+    }
+  }
+]

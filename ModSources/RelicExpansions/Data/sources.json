@@ -1,0 +1,14 @@
+[
+  {
+    "id": "celestial_core",
+    "source": "[星月核心] celestial_core-1.6.1.jar",
+    "bytes": 1427473,
+    "sha256": "2d63d1bf4ed81b3f53e1dd35356df39559c9764618eb01ab37c09d9e6dc1bf64"
+  },
+  {
+    "id": "celestial_artifacts",
+    "source": "[星月遗物] celestial_artifacts-1.6.0.jar",
+    "bytes": 795378,
+    "sha256": "60134b87a29b6642dbff7ac33968ebe29bf81b4cd65b472274539e55064131a3"
+  }
+]

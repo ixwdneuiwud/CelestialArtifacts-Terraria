@@ -1,0 +1,540 @@
+Mods: {
+	CelestialArtifacts: {
+		Items: {
+			celestial_artifacts__the_end_dust: {
+				DisplayName: 终焉之尘
+				Tooltip: ""
+			}
+
+			celestial_artifacts__nebula_cube: {
+				DisplayName: 星云立方
+				Tooltip: ""
+			}
+
+			celestial_artifacts__gold_ring: {
+				DisplayName: 金戒指
+				Tooltip: ""
+			}
+
+			celestial_artifacts__amethyst_ring: {
+				DisplayName: 紫水晶戒指
+				Tooltip: ""
+			}
+
+			celestial_artifacts__diamond_ring: {
+				DisplayName: 钻石戒指
+				Tooltip: ""
+			}
+
+			celestial_artifacts__emerald_ring: {
+				DisplayName: 绿宝石戒指
+				Tooltip: ""
+			}
+
+			celestial_artifacts__flight_ring: {
+				DisplayName: 飞仙戒指
+				Tooltip: ""
+			}
+
+			celestial_artifacts__netherite_ring: {
+				DisplayName: 下界合金戒指
+				Tooltip: ""
+			}
+
+			celestial_artifacts__ring_of_life: {
+				DisplayName: 生息之戒
+				Tooltip: ""
+			}
+
+			celestial_artifacts__thunder_ring: {
+				DisplayName: 雷电之戒
+				Tooltip: ""
+			}
+
+			celestial_artifacts__nether_fire: {
+				DisplayName: 地狱之火
+				Tooltip: ""
+			}
+
+			celestial_artifacts__freeze_ring: {
+				DisplayName: 冰冻之戒
+				Tooltip: ""
+			}
+
+			celestial_artifacts__nostalgic_butterfly_ring: {
+				DisplayName: 眷蝶之戒
+				Tooltip: ""
+			}
+
+			celestial_artifacts__war_dead_badge: {
+				DisplayName: 战争亡者之徽
+				Tooltip: ""
+			}
+
+			celestial_artifacts__undead_charm: {
+				DisplayName: 不死者护符
+				Tooltip: ""
+			}
+
+			celestial_artifacts__destroyer_badge: {
+				DisplayName: 毁灭者徽章
+				Tooltip: ""
+			}
+
+			celestial_artifacts__twisted_brain: {
+				DisplayName: 扭曲之脑
+				Tooltip: ""
+			}
+
+			celestial_artifacts__corrupt_badge: {
+				DisplayName: 腐化徽章
+				Tooltip: ""
+			}
+
+			celestial_artifacts__cursed_talisman: {
+				DisplayName: 噬咒护符
+				Tooltip: ""
+			}
+
+			celestial_artifacts__cursed_protector: {
+				DisplayName: 受诅咒的坚盾
+				Tooltip: ""
+			}
+
+			celestial_artifacts__cursed_totem: {
+				DisplayName: 被咒者的图腾
+				Tooltip: ""
+			}
+
+			celestial_artifacts__holy_talisman: {
+				DisplayName: 神圣七彩护符
+				Tooltip: ""
+			}
+
+			celestial_artifacts__holy_sword: {
+				DisplayName: 大天使之证
+				Tooltip: ""
+			}
+
+			celestial_artifacts__angel_heart: {
+				DisplayName: 天使之心
+				Tooltip: ""
+			}
+
+			celestial_artifacts__angel_pearl: {
+				DisplayName: 天使珍珠
+				Tooltip: ""
+			}
+
+			celestial_artifacts__demon_curse: {
+				DisplayName: 大恶魔之咒
+				Tooltip: ""
+			}
+
+			celestial_artifacts__knight_shelter: {
+				DisplayName: 骑士庇护
+				Tooltip: ""
+			}
+
+			celestial_artifacts__soul_box: {
+				DisplayName: 魂灵匣
+				Tooltip: ""
+			}
+
+			celestial_artifacts__solar_magnet: {
+				DisplayName: 太阳磁铁
+				Tooltip: ""
+			}
+
+			celestial_artifacts__gluttony_badge: {
+				DisplayName: 暴食徽章
+				Tooltip: ""
+			}
+
+			celestial_artifacts__magic_horseshoe: {
+				DisplayName: 魔法马掌
+				Tooltip: ""
+			}
+
+			celestial_artifacts__bearing_stamen: {
+				DisplayName: 生息胸花
+				Tooltip: ""
+			}
+
+			celestial_artifacts__abyss_will_badge: {
+				DisplayName: 深渊意志徽章
+				Tooltip: ""
+			}
+
+			celestial_artifacts__sands_talisman: {
+				DisplayName: 金沙护符
+				Tooltip: ""
+			}
+
+			celestial_artifacts__sacrificial_object: {
+				DisplayName: 古代殉葬品
+				Tooltip: ""
+			}
+
+			celestial_artifacts__deers_mercy_amulet: {
+				DisplayName: 铭鹿护符
+				Tooltip: ""
+			}
+
+			celestial_artifacts__deer_inscribed_amulet: {
+				DisplayName: 悯鹿护符
+				Tooltip: ""
+			}
+
+			celestial_artifacts__heart_of_revenge: {
+				DisplayName: 复仇之心
+				Tooltip: ""
+			}
+
+			celestial_artifacts__twisted_heart: {
+				DisplayName: 扭曲之心
+				Tooltip: ""
+			}
+
+			celestial_artifacts__greedy_heart: {
+				DisplayName: 贪婪之心
+				Tooltip: ""
+			}
+
+			celestial_artifacts__demon_heart: {
+				DisplayName: 恶魔之心
+				Tooltip: ""
+			}
+
+			celestial_artifacts__traveler_scroll: {
+				DisplayName: 旅行者卷轴
+				Tooltip: ""
+			}
+
+			celestial_artifacts__sea_god_scroll: {
+				DisplayName: 海神卷轴
+				Tooltip: ""
+			}
+
+			celestial_artifacts__skywalker_scroll: {
+				DisplayName: 传送卷轴
+				Tooltip: ""
+			}
+
+			celestial_artifacts__twisted_scroll: {
+				DisplayName: 扭曲卷轴
+				Tooltip: ""
+			}
+
+			celestial_artifacts__emerald_bracelet: {
+				DisplayName: 绿宝石手环
+				Tooltip: ""
+			}
+
+			celestial_artifacts__life_bracelet: {
+				DisplayName: 生命手环
+				Tooltip: ""
+			}
+
+			celestial_artifacts__precious_bracelet: {
+				DisplayName: 珍钻手环
+				Tooltip: ""
+			}
+
+			celestial_artifacts__red_ruby_bracelet: {
+				DisplayName: 绯红宝石手环
+				Tooltip: ""
+			}
+
+			celestial_artifacts__hidden_bracelet: {
+				DisplayName: 隐匿手环
+				Tooltip: ""
+			}
+
+			celestial_artifacts__scarlet_bracelet: {
+				DisplayName: 猩红手环
+				Tooltip: ""
+			}
+
+			celestial_artifacts__charming_bracelet: {
+				DisplayName: 魅力手环
+				Tooltip: ""
+			}
+
+			celestial_artifacts__spirit_bracelet: {
+				DisplayName: 精灵手环
+				Tooltip: ""
+			}
+
+			celestial_artifacts__unowned_pendant: {
+				DisplayName: 神秘吊坠
+				Tooltip: ""
+			}
+
+			celestial_artifacts__chaotic_pendant: {
+				DisplayName: 混沌吊坠
+				Tooltip: ""
+			}
+
+			celestial_artifacts__shadow_pendant: {
+				DisplayName: 怨影吊坠
+				Tooltip: ""
+			}
+
+			celestial_artifacts__star_necklace: {
+				DisplayName: 星星项链
+				Tooltip: ""
+			}
+
+			celestial_artifacts__cross_necklace: {
+				DisplayName: 十字项链
+				Tooltip: ""
+			}
+
+			celestial_artifacts__gallop_necklace: {
+				DisplayName: 疾行项链
+				Tooltip: ""
+			}
+
+			celestial_artifacts__fang_necklace: {
+				DisplayName: 毒牙项链
+				Tooltip: ""
+			}
+
+			celestial_artifacts__precious_necklace: {
+				DisplayName: 珍钻项链
+				Tooltip: ""
+			}
+
+			celestial_artifacts__holy_necklace: {
+				DisplayName: 神圣项链
+				Tooltip: ""
+			}
+
+			celestial_artifacts__heirloom_necklace: {
+				DisplayName: 家传项链
+				Tooltip: ""
+			}
+
+			celestial_artifacts__emerald_necklace: {
+				DisplayName: 绿宝石项链
+				Tooltip: ""
+			}
+
+			celestial_artifacts__ender_protector: {
+				DisplayName: 末影庇佑者
+				Tooltip: ""
+			}
+
+			celestial_artifacts__red_heart_necklace: {
+				DisplayName: 红心项链
+				Tooltip: ""
+			}
+
+			celestial_artifacts__lock_of_abyss: {
+				DisplayName: 深渊之锁
+				Tooltip: ""
+			}
+
+			celestial_artifacts__spirit_necklace: {
+				DisplayName: 精灵项链
+				Tooltip: ""
+			}
+
+			celestial_artifacts__treasure_hunter_necklace: {
+				DisplayName: 寻宝者项链
+				Tooltip: ""
+			}
+
+			celestial_artifacts__forest_cloak: {
+				DisplayName: 丛林披风
+				Tooltip: ""
+			}
+
+			celestial_artifacts__sea_god_crown: {
+				DisplayName: 海神王冠
+				Tooltip: ""
+			}
+
+			celestial_artifacts__prayer_crown: {
+				DisplayName: 祷告者冠冕
+				Tooltip: ""
+			}
+
+			celestial_artifacts__abyss_core: {
+				DisplayName: 深渊之核
+				Tooltip: ""
+			}
+
+			celestial_artifacts__guardian_eye: {
+				DisplayName: 守卫者之眼
+				Tooltip: ""
+			}
+
+			celestial_artifacts__evil_eye: {
+				DisplayName: 邪恶之瞳
+				Tooltip: ""
+			}
+
+			celestial_artifacts__spirit_crown: {
+				DisplayName: 精灵花冠
+				Tooltip: ""
+			}
+
+			celestial_artifacts__sakura_hairpin: {
+				DisplayName: 樱花发簪
+				Tooltip: ""
+			}
+
+			celestial_artifacts__yellow_duck: {
+				DisplayName: 小黄鸭
+				Tooltip: ""
+			}
+
+			celestial_artifacts__angel_desire: {
+				DisplayName: 天使的祈愿
+				Tooltip: ""
+			}
+
+			celestial_artifacts__magic_arrow_bag: {
+				DisplayName: 魔法箭袋
+				Tooltip: ""
+			}
+
+			celestial_artifacts__flame_arrow_bag: {
+				DisplayName: 火焰箭袋
+				Tooltip: ""
+			}
+
+			celestial_artifacts__spirit_arrow_bag: {
+				DisplayName: 精灵箭袋
+				Tooltip: ""
+			}
+
+			celestial_artifacts__iron_scabbard: {
+				DisplayName: 铁剑鞘
+				Tooltip: ""
+			}
+
+			celestial_artifacts__leech_scabbard: {
+				DisplayName: 水蛭剑鞘
+				Tooltip: ""
+			}
+
+			celestial_artifacts__titan_scabbard: {
+				DisplayName: 泰坦剑鞘
+				Tooltip: ""
+			}
+
+			celestial_artifacts__twisted_scabbard: {
+				DisplayName: 扭曲剑鞘
+				Tooltip: ""
+			}
+
+			celestial_artifacts__catastrophe_scroll: {
+				DisplayName: 灾厄之册
+				Tooltip: ""
+			}
+
+			celestial_artifacts__chaotic_etching: {
+				DisplayName: 混沌刻蚀板
+				Tooltip: ""
+			}
+
+			celestial_artifacts__origin_etching: {
+				DisplayName: 始源刻蚀板
+				Tooltip: ""
+			}
+
+			celestial_artifacts__life_etching: {
+				DisplayName: 生命刻蚀板
+				Tooltip: ""
+			}
+
+			celestial_artifacts__truth_etching: {
+				DisplayName: 真理刻蚀板
+				Tooltip: ""
+			}
+
+			celestial_artifacts__desire_etching: {
+				DisplayName: 欲望刻蚀板
+				Tooltip: ""
+			}
+
+			celestial_artifacts__nihility_etching: {
+				DisplayName: 虚无刻蚀板
+				Tooltip: ""
+			}
+
+			celestial_artifacts__end_etching: {
+				DisplayName: 终焉刻蚀板
+				Tooltip: ""
+			}
+
+			celestial_artifacts__earth_axe: {
+				DisplayName: 大地斧
+				Tooltip: ""
+			}
+
+			celestial_artifacts__earth_pickaxe: {
+				DisplayName: 大地镐
+				Tooltip: ""
+			}
+
+			celestial_artifacts__earth_shovel: {
+				DisplayName: 大地铲
+				Tooltip: ""
+			}
+
+			celestial_artifacts__earth_hoe: {
+				DisplayName: 大地镰
+				Tooltip: ""
+			}
+
+			celestial_artifacts__repent_mirror: {
+				DisplayName: 忏悔之镜
+				Tooltip: ""
+			}
+
+			celestial_artifacts__backtrack_mirror: {
+				DisplayName: 回溯之镜
+				Tooltip: ""
+			}
+
+			celestial_artifacts__purified_powder: {
+				DisplayName: 净化粉末
+				Tooltip: ""
+			}
+
+			celestial_artifacts__copper_reinforce_plate: {
+				DisplayName: 铜加固板
+				Tooltip: ""
+			}
+
+			celestial_artifacts__amethyst_reinforce_plate: {
+				DisplayName: 紫水晶加固板
+				Tooltip: ""
+			}
+
+			celestial_artifacts__potions_bag: {
+				DisplayName: 药水袋
+				Tooltip: ""
+			}
+
+			celestial_artifacts__gaia_totem: {
+				DisplayName: 盖亚图腾
+				Tooltip: ""
+			}
+
+			celestial_artifacts__ender_jump_scepter: {
+				DisplayName: 末影折跃权杖
+				Tooltip: ""
+			}
+
+			celestial_artifacts__unlucky_potato: {
+				DisplayName: 厄运土豆
+				Tooltip: ""
+			}
+		}
+	}
+}

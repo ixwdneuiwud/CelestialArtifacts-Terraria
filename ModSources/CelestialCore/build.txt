@@ -1,0 +1,8 @@
+displayName = 星月核心 / CelestialCore
+author = Terraria port; original authors credited in Data/sources.json
+version = 0.1.2
+modReferences = EnigmaticLegacy@0.1.19, RelicExpansions@0.2.2
+side = Both
+includeSource = true
+buildIgnore = *.csproj, *.user, bin/*, obj/*, docs/*, README.md
+homepage = https://github.com/ixwdneuiwud/CelestialArtifacts-Terraria

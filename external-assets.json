@@ -1,0 +1,14 @@
+[
+  {
+    "path": "ModSources/RelicExpansions/Assets/Items/minecraft/totem_of_undying.png",
+    "entry": "assets/minecraft/textures/item/totem_of_undying.png",
+    "sha256": "1bd9bb61f02723172a550ecb8151306b8df4774438b8d42ac6e6009bd58ac663",
+    "owner": "Mojang / Microsoft",
+    "version": "Minecraft 1.20.1",
+    "size": [
+      32,
+      32
+    ],
+    "rgbaSha256": "5837cb517ca2f864eb29952c6d293f57fbf7827184dc5869d4d22ce8888549d9"
+  }
+]

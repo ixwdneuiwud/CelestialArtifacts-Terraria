@@ -1,0 +1,2337 @@
+{
+  "celestial_core:broken_totem": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:death_essence": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:desert_pyramid_loot_box": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:earth_core": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:fire_essence": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:guardian_spike": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:heart_fragment": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:igloo_loot_box": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:jungle_pyramid_loot_box": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:light_fragment": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:manson_loot_box": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:midnight_fragment": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:ocean_axe": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "持有时水中挖掘速度五倍",
+      "肉山前三系武器工具，虚金高于海洋高于樱花；原生挥舞、采掘和前缀"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:ocean_boots": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原生防具/靴分类和前缀；原 MC 盔甲纹理转换成泰拉穿戴帧",
+      "肉山前分级防御；每件海洋韧性+0.5、虚金+0.75，海洋全套水下呼吸、虚金全套防火",
+      "肉山前防御等级：虚金高于海洋高于樱花"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:ocean_chestplate": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原生防具/靴分类和前缀；原 MC 盔甲纹理转换成泰拉穿戴帧",
+      "肉山前分级防御；每件海洋韧性+0.5、虚金+0.75，海洋全套水下呼吸、虚金全套防火",
+      "肉山前防御等级：虚金高于海洋高于樱花"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:ocean_essence": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:ocean_helmet": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原生防具/靴分类和前缀；原 MC 盔甲纹理转换成泰拉穿戴帧",
+      "肉山前分级防御；每件海洋韧性+0.5、虚金+0.75，海洋全套水下呼吸、虚金全套防火",
+      "肉山前防御等级：虚金高于海洋高于樱花"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:ocean_hoe": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "持有时水中挖掘速度五倍",
+      "肉山前三系武器工具，虚金高于海洋高于樱花；原生挥舞、采掘和前缀"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:ocean_ingot": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:ocean_leggings": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原生防具/靴分类和前缀；原 MC 盔甲纹理转换成泰拉穿戴帧",
+      "肉山前分级防御；每件海洋韧性+0.5、虚金+0.75，海洋全套水下呼吸、虚金全套防火",
+      "肉山前防御等级：虚金高于海洋高于樱花"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:ocean_pickaxe": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "持有时水中挖掘速度五倍",
+      "肉山前三系武器工具，虚金高于海洋高于樱花；原生挥舞、采掘和前缀"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:ocean_shovel": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "持有时水中挖掘速度五倍",
+      "肉山前三系武器工具，虚金高于海洋高于樱花；原生挥舞、采掘和前缀"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:ocean_sword": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "持有时水中挖掘速度五倍",
+      "肉山前三系武器工具，虚金高于海洋高于樱花；原生挥舞、采掘和前缀"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:pillager_outpost_loot_box": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:pure_nether_star": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:reinforced_ocean_block": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:reinforced_ocean_ingot": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:reinforced_ocean_nugget": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:sakura_axe": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "肉山前三系武器工具，虚金高于海洋高于樱花；原生挥舞、采掘和前缀"
+    ],
+    "paused": [
+      "耐久自我修复"
+    ],
+    "reserved": []
+  },
+  "celestial_core:sakura_boots": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原生防具/靴分类和前缀；原 MC 盔甲纹理转换成泰拉穿戴帧",
+      "肉山前防御等级：虚金高于海洋高于樱花"
+    ],
+    "paused": [
+      "耐久自我修复"
+    ],
+    "reserved": []
+  },
+  "celestial_core:sakura_chestplate": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原生防具/靴分类和前缀；原 MC 盔甲纹理转换成泰拉穿戴帧",
+      "肉山前防御等级：虚金高于海洋高于樱花"
+    ],
+    "paused": [
+      "耐久自我修复"
+    ],
+    "reserved": []
+  },
+  "celestial_core:sakura_fragment": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:sakura_helmet": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原生防具/靴分类和前缀；原 MC 盔甲纹理转换成泰拉穿戴帧",
+      "肉山前防御等级：虚金高于海洋高于樱花"
+    ],
+    "paused": [
+      "耐久自我修复"
+    ],
+    "reserved": []
+  },
+  "celestial_core:sakura_hoe": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "肉山前三系武器工具，虚金高于海洋高于樱花；原生挥舞、采掘和前缀"
+    ],
+    "paused": [
+      "耐久自我修复"
+    ],
+    "reserved": []
+  },
+  "celestial_core:sakura_leggings": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原生防具/靴分类和前缀；原 MC 盔甲纹理转换成泰拉穿戴帧",
+      "肉山前防御等级：虚金高于海洋高于樱花"
+    ],
+    "paused": [
+      "耐久自我修复"
+    ],
+    "reserved": []
+  },
+  "celestial_core:sakura_pickaxe": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "肉山前三系武器工具，虚金高于海洋高于樱花；原生挥舞、采掘和前缀"
+    ],
+    "paused": [
+      "耐久自我修复"
+    ],
+    "reserved": []
+  },
+  "celestial_core:sakura_shovel": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "肉山前三系武器工具，虚金高于海洋高于樱花；原生挥舞、采掘和前缀"
+    ],
+    "paused": [
+      "耐久自我修复"
+    ],
+    "reserved": []
+  },
+  "celestial_core:sakura_steel": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:sakura_steel_block": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:sakura_steel_nugget": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:sakura_sword": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "肉山前三系武器工具，虚金高于海洋高于樱花；原生挥舞、采掘和前缀"
+    ],
+    "paused": [
+      "耐久自我修复"
+    ],
+    "reserved": []
+  },
+  "celestial_core:shulker_scrap": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:soaring_wings": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:treasure_fragment": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:virtual_gold_axe": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "肉山前三系武器工具，虚金高于海洋高于樱花；原生挥舞、采掘和前缀"
+    ],
+    "paused": [
+      "按附魔数量的增益"
+    ],
+    "reserved": []
+  },
+  "celestial_core:virtual_gold_block": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:virtual_gold_boots": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原生防具/靴分类和前缀；原 MC 盔甲纹理转换成泰拉穿戴帧",
+      "肉山前分级防御；每件海洋韧性+0.5、虚金+0.75，海洋全套水下呼吸、虚金全套防火",
+      "肉山前防御等级：虚金高于海洋高于樱花"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:virtual_gold_chestplate": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原生防具/靴分类和前缀；原 MC 盔甲纹理转换成泰拉穿戴帧",
+      "肉山前分级防御；每件海洋韧性+0.5、虚金+0.75，海洋全套水下呼吸、虚金全套防火",
+      "肉山前防御等级：虚金高于海洋高于樱花"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:virtual_gold_helmet": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原生防具/靴分类和前缀；原 MC 盔甲纹理转换成泰拉穿戴帧",
+      "肉山前分级防御；每件海洋韧性+0.5、虚金+0.75，海洋全套水下呼吸、虚金全套防火",
+      "肉山前防御等级：虚金高于海洋高于樱花"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:virtual_gold_hoe": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "肉山前三系武器工具，虚金高于海洋高于樱花；原生挥舞、采掘和前缀"
+    ],
+    "paused": [
+      "按附魔数量的增益"
+    ],
+    "reserved": []
+  },
+  "celestial_core:virtual_gold_ingot": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:virtual_gold_leggings": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原生防具/靴分类和前缀；原 MC 盔甲纹理转换成泰拉穿戴帧",
+      "肉山前分级防御；每件海洋韧性+0.5、虚金+0.75，海洋全套水下呼吸、虚金全套防火",
+      "肉山前防御等级：虚金高于海洋高于樱花"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:virtual_gold_nugget": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "击杀穿甲敌怪50%掉落1个；支持第三方通过RegisterArmoredNPC登记敌怪，保留原9残骸合1锭配方"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:virtual_gold_pickaxe": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "肉山前三系武器工具，虚金高于海洋高于樱花；原生挥舞、采掘和前缀"
+    ],
+    "paused": [
+      "按附魔数量的增益"
+    ],
+    "reserved": []
+  },
+  "celestial_core:virtual_gold_shovel": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "肉山前三系武器工具，虚金高于海洋高于樱花；原生挥舞、采掘和前缀"
+    ],
+    "paused": [
+      "按附魔数量的增益"
+    ],
+    "reserved": []
+  },
+  "celestial_core:virtual_gold_sword": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "肉山前三系武器工具，虚金高于海洋高于樱花；原生挥舞、采掘和前缀"
+    ],
+    "paused": [
+      "按附魔数量的增益"
+    ],
+    "reserved": []
+  },
+  "celestial_core:void_essence": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:warden_sclerite": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:the_end_dust": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:nebula_cube": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原物品和贴图；按原作配方作为材料或占位，不擅增 MC 专属获取"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:gold_ring": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "幸运 +1"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:amethyst_ring": {
+    "attrs": [
+      {
+        "stat": "damage",
+        "op": "multBase",
+        "value": 0.1
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "夜视"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:diamond_ring": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "持续力量 I"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:emerald_ring": {
+    "attrs": [
+      {
+        "stat": "luck",
+        "op": "add",
+        "value": 1.0
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:flight_ring": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原生翅膀飞行，无飞行时间限制"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:netherite_ring": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "防火",
+      "位于地狱高度时减伤 10%"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:ring_of_life": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [],
+    "paused": [
+      "作物催熟"
+    ],
+    "reserved": []
+  },
+  "celestial_artifacts:thunder_ring": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "免疫已标记的闪电弹幕伤害"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:nether_fire": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "防火",
+      "攻击使目标着火 5 秒"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:freeze_ring": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "免疫冰冻和寒冷"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:nostalgic_butterfly_ring": {
+    "attrs": [
+      {
+        "stat": "crit",
+        "op": "add",
+        "value": 0.2
+      },
+      {
+        "stat": "critDamage",
+        "op": "add",
+        "value": -0.2
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "与铭鹿护符共同装备时，暴击伤害额外 +15%"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:war_dead_badge": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "随失血提高攻击、韧性和移速",
+      "混沌诅咒触发时，半血以下攻击按附近实体数恢复缺失生命"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:undead_charm": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "致命伤害触发复生，冷却 180 秒"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:destroyer_badge": {
+    "attrs": [
+      {
+        "stat": "damage",
+        "op": "multTotal",
+        "value": 0.4
+      },
+      {
+        "stat": "incomingDamage",
+        "op": "multTotal",
+        "value": 0.5
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "半血以下最终伤害额外 +20%"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:twisted_brain": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 1,
+    "implemented": [
+      "17% 概率闪避并获得力量与抗性 5 秒",
+      "抢夺改为每级 +10% 双倍战利品概率，与基础包共用一次判定"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:corrupt_badge": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "每个有效负面状态增加 14% 伤害、3% 攻速、9% 挖掘速度",
+      "N 主动施加中毒和缓慢 15 秒，冷却 60 秒"
+    ],
+    "paused": [
+      "饥饿"
+    ],
+    "reserved": []
+  },
+  "celestial_artifacts:cursed_talisman": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [],
+    "paused": [
+      "按诅咒附魔数量增加暴击率和暴击伤害",
+      "此规则不使用千咒卷轴的负前缀替代"
+    ],
+    "reserved": []
+  },
+  "celestial_artifacts:cursed_protector": {
+    "attrs": [
+      {
+        "stat": "knockbackResistance",
+        "op": "add",
+        "value": 1.0
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "正面来源减伤 30%",
+      "单次伤害超过当前生命 35% 时再减伤 25%"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:cursed_totem": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "受伤积累灵魂，上限 5",
+      "消耗 5 灵魂抵挡一次致死伤害"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:holy_talisman": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "每 10 秒对 8 个原作方块范围内敌怪施加虚弱，时长随实体数增加",
+      "敌怪接触减伤 25%，亡灵为 35%",
+      "致命保护冷却 60 秒"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:holy_sword": {
+    "attrs": [
+      {
+        "stat": "crit",
+        "op": "add",
+        "value": 0.15
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "缺失生命提高伤害",
+      "受伤反射 12%",
+      "攻击亡灵恢复实际造成的伤害"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:angel_heart": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "半血以下减伤 20%",
+      "每 2 秒恢复 1 原作生命点",
+      "每 30 秒移除普通负面状态"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:angel_pearl": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "每个正面状态增加8%治疗效率和1原作防御点",
+      "每5秒给予同维度16格内其他存活玩家5秒I级再生，不包含佩戴者自身"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:demon_curse": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "把正向治疗效率加成转换为攻击和移速，停止治疗"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:knight_shelter": {
+    "attrs": [
+      {
+        "stat": "armor",
+        "op": "add",
+        "value": 8.0
+      },
+      {
+        "stat": "flatReduction",
+        "op": "add",
+        "value": 4.0
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [],
+    "paused": [],
+    "reserved": [
+      "泰拉格挡动作与格挡成功事件，尚未指定"
+    ]
+  },
+  "celestial_artifacts:soul_box": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "受伤使攻击者灵魂碎裂",
+      "致命保护冷却 240 秒，反击并施加强化灵魂碎裂"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:solar_magnet": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "昼间伤害 +25%",
+      "扩大拾取范围",
+      "清除着火与灼烧"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:gluttony_badge": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原生食物消耗后获得力量 I 和再生 I，持续 2 秒"
+    ],
+    "paused": [
+      "饥饿和饱食度减伤"
+    ],
+    "reserved": []
+  },
+  "celestial_artifacts:magic_horseshoe": {
+    "attrs": [
+      {
+        "stat": "speed",
+        "op": "multBase",
+        "value": 0.25
+      },
+      {
+        "stat": "luck",
+        "op": "add",
+        "value": 1.0
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "坠落伤害降低 95%"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:bearing_stamen": {
+    "attrs": [
+      {
+        "stat": "health",
+        "op": "add",
+        "value": 20.0
+      },
+      {
+        "stat": "healing",
+        "op": "add",
+        "value": 0.25
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "持续再生 II"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:abyss_will_badge": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "攻击和受击按原概率产生倍率波动",
+      "N 开启深渊意志，持续 15 秒后保留 20% 当前生命"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:sands_talisman": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 1,
+    "implemented": [
+      "沙漠或地狱伤害 +30%",
+      "抢夺改为每级 +10% 双倍战利品概率，与基础包共用一次判定"
+    ],
+    "paused": [
+      "经验获取加成"
+    ],
+    "reserved": []
+  },
+  "celestial_artifacts:sacrificial_object": {
+    "attrs": [
+      {
+        "stat": "incomingDamage",
+        "op": "multTotal",
+        "value": -0.05
+      }
+    ],
+    "fortune": 0,
+    "loot": 1,
+    "implemented": [
+      "死亡时 50% 掉落金锭",
+      "附近生命上限低于玩家的普通敌怪各有 45% 概率被献祭",
+      "排除 Boss 和多节从属身体",
+      "抢夺改为每级 +10% 双倍战利品概率，与基础包共用一次判定"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:deers_mercy_amulet": {
+    "attrs": [
+      {
+        "stat": "health",
+        "op": "add",
+        "value": 10.0
+      },
+      {
+        "stat": "damage",
+        "op": "add",
+        "value": 2.0
+      }
+    ],
+    "fortune": 1,
+    "loot": 1,
+    "implemented": [
+      "属性按原作默认值换算",
+      "抢夺改为每级 +10% 双倍战利品概率，与基础包共用一次判定",
+      "时运改为每级 +10% 双倍挖矿概率，与基础包共用一次判定"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:deer_inscribed_amulet": {
+    "attrs": [
+      {
+        "stat": "health",
+        "op": "multBase",
+        "value": 0.15
+      },
+      {
+        "stat": "armor",
+        "op": "add",
+        "value": 5.0
+      },
+      {
+        "stat": "toughness",
+        "op": "add",
+        "value": 2.0
+      },
+      {
+        "stat": "damage",
+        "op": "add",
+        "value": 5.0
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "攻击每 10 秒施加虚弱和流血",
+      "与旧忆之蝶共同装备时暴击伤害 +15%"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:heart_of_revenge": {
+    "attrs": [
+      {
+        "stat": "arrowDamage",
+        "op": "add",
+        "value": 0.06
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "受伤后三秒内增加 25% 最终伤害并获得力量和抗性"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:twisted_heart": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 1,
+    "implemented": [
+      "依虚无诅咒状态改变伤害与韧性加成方向",
+      "抢夺改为每级 +10% 双倍战利品概率，与基础包共用一次判定"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:greedy_heart": {
+    "attrs": [],
+    "fortune": 1,
+    "loot": 1,
+    "implemented": [
+      "抢夺改为每级 +10% 双倍战利品概率，与基础包共用一次判定",
+      "时运改为每级 +10% 双倍挖矿概率，与基础包共用一次判定"
+    ],
+    "paused": [
+      "经验获取加成"
+    ],
+    "reserved": []
+  },
+  "celestial_artifacts:demon_heart": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留诅咒层数对应的原属性；达到五诅咒后免疫普通及分级虚弱、缓慢"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:traveler_scroll": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "移动、飞行及游泳速度 +25%",
+      "跨越主世界与地狱高度边界后获得迅捷 I 和再生 I，持续 15 秒"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:sea_god_scroll": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "水中五倍挖掘速度，持续力量 II 和抗性 I",
+      "与海神冠冕协同强化长矛"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:skywalker_scroll": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "下键 + N 记录位置",
+      "N 返回当前世界已记录位置，冷却 60 秒"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:twisted_scroll": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 1,
+    "implemented": [
+      "附近普通敌怪各有 60% 概率复制一次",
+      "不复制 Boss、多节身体、无敌实体或已复制实体",
+      "抢夺改为每级 +10% 双倍战利品概率，与基础包共用一次判定"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:emerald_bracelet": {
+    "attrs": [
+      {
+        "stat": "crit",
+        "op": "add",
+        "value": 0.1
+      }
+    ],
+    "fortune": 1,
+    "loot": 0,
+    "implemented": [
+      "幸运至少为 2 时，受伤有 10% 概率获得吸收 II 五秒",
+      "绿宝石套装额外幸运 +2、暴击率 +15%",
+      "时运改为每级 +10% 双倍挖矿概率，与基础包共用一次判定"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:life_bracelet": {
+    "attrs": [
+      {
+        "stat": "healing",
+        "op": "add",
+        "value": 0.15
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "持续再生 I"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:precious_bracelet": {
+    "attrs": [
+      {
+        "stat": "reach",
+        "op": "add",
+        "value": 1.0
+      }
+    ],
+    "fortune": 1,
+    "loot": 0,
+    "implemented": [
+      "增加一个戒指专用槽",
+      "已标记魔法弹幕减伤 40%",
+      "时运改为每级 +10% 双倍挖矿概率，与基础包共用一次判定"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:red_ruby_bracelet": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "已标记火焰弹幕减伤 90%，受击获得力量 I 三秒"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:hidden_bracelet": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "初次装备等待7秒，随后持续隐匿；首次攻击结束隐身并增强该次伤害，再等待7秒"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:scarlet_bracelet": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "攻击时消耗超过半血的生命，换取按目标生命计算的伤害，原作上限 50%"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:charming_bracelet": {
+    "attrs": [
+      {
+        "stat": "armor",
+        "op": "add",
+        "value": 2.0
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [],
+    "paused": [],
+    "reserved": [
+      "敌人仇恨与声望的进一步映射",
+      "不替换其他模组的 Boss 目标 AI"
+    ]
+  },
+  "celestial_artifacts:spirit_bracelet": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "弓的使用速度翻倍",
+      "箭矢命中获得迅捷五秒",
+      "完整精灵套装拥有持续射击、背击、缓慢与箭矢防护协同"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:unowned_pendant": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原作空效果饰品，保留分类、贴图和前缀"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:chaotic_pendant": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 1,
+    "implemented": [
+      "原附魔强度加成改为魔力回复 +3",
+      "抢夺改为每级 +10% 双倍战利品概率，与基础包共用一次判定"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:shadow_pendant": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "黑暗提高伤害与减伤",
+      "造成伤害的 25% 转为治疗"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:star_necklace": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "背击伤害 +40%",
+      "夜晚持续抗性 I"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:cross_necklace": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "受伤后额外增加 0.5 秒无敌时间"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:gallop_necklace": {
+    "attrs": [
+      {
+        "stat": "speed",
+        "op": "multBase",
+        "value": 0.08
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "移速提高固定伤害"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:fang_necklace": {
+    "attrs": [
+      {
+        "stat": "attackSpeed",
+        "op": "multBase",
+        "value": 0.1
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "目标有防御时伤害 +25%",
+      "命中有 50% 概率施加中毒五秒"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:precious_necklace": {
+    "attrs": [
+      {
+        "stat": "critDamage",
+        "op": "add",
+        "value": 0.2
+      }
+    ],
+    "fortune": 1,
+    "loot": 0,
+    "implemented": [
+      "增加一个护符专用槽",
+      "时运改为每级 +10% 双倍挖矿概率，与基础包共用一次判定"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:holy_necklace": {
+    "attrs": [
+      {
+        "stat": "health",
+        "op": "add",
+        "value": 4.0
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "额外受伤无敌时间",
+      "治疗触发抗性 I 两秒，冷却三秒"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:heirloom_necklace": {
+    "attrs": [
+      {
+        "stat": "armor",
+        "op": "add",
+        "value": 2.0
+      },
+      {
+        "stat": "speed",
+        "op": "multBase",
+        "value": 0.05
+      }
+    ],
+    "fortune": 1,
+    "loot": 0,
+    "implemented": [
+      "角色首次进入世界获得",
+      "基础属性换算",
+      "时运改为每级 +10% 双倍挖矿概率，与基础包共用一次判定"
+    ],
+    "paused": [
+      "经验获取加成"
+    ],
+    "reserved": []
+  },
+  "celestial_artifacts:emerald_necklace": {
+    "attrs": [],
+    "fortune": 1,
+    "loot": 0,
+    "implemented": [
+      "击杀敌怪基础 2% 概率额外获得一枚金币，受幸运修正",
+      "绿宝石套装协同",
+      "时运改为每级 +10% 双倍挖矿概率，与基础包共用一次判定"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:ender_protector": {
+    "attrs": [
+      {
+        "stat": "toughness",
+        "op": "add",
+        "value": 4.0
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [],
+    "paused": [],
+    "reserved": [
+      "格挡成功后的传送事件，尚未指定"
+    ]
+  },
+  "celestial_artifacts:red_heart_necklace": {
+    "attrs": [
+      {
+        "stat": "health",
+        "op": "multBase",
+        "value": 0.05
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "最大生命增加 5%"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:lock_of_abyss": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "连续攻击积累深渊层数，第八次触发 2.5 倍额外深渊伤害",
+      "十秒未刷新重置"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:spirit_necklace": {
+    "attrs": [
+      {
+        "stat": "arrowDamage",
+        "op": "add",
+        "value": 0.25
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "受伤获得迅捷五秒",
+      "完整精灵套装协同"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:treasure_hunter_necklace": {
+    "attrs": [],
+    "fortune": 1,
+    "loot": 0,
+    "implemented": [
+      "时运改为每级 +10% 双倍挖矿概率，与基础包共用一次判定"
+    ],
+    "paused": [],
+    "reserved": [
+      "原 MC 结构额外宝藏的泰拉来源"
+    ]
+  },
+  "celestial_artifacts:forest_cloak": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "跳跃增强 25%",
+      "弹幕有 20% 概率闪避"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:sea_god_crown": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "水中呼吸与夜视",
+      "N 召雨，冷却 30 秒",
+      "与海神卷轴协同"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:prayer_crown": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "下键时减伤 25%",
+      "受伤额外无敌 0.5 秒",
+      "下键受伤有 50% 概率治疗所受伤害的 25%"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:abyss_core": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "单次伤害达到 12 原作点时压低为 12 点，冷却 60 秒"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:guardian_eye": {
+    "attrs": [
+      {
+        "stat": "swimSpeed",
+        "op": "multBase",
+        "value": 0.15
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "水中呼吸、游泳强化及减伤 20%"
+    ],
+    "paused": [
+      "向附近实体施加挖掘疲劳"
+    ],
+    "reserved": []
+  },
+  "celestial_artifacts:evil_eye": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "免疫黑暗、失明映射和遮蔽"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:spirit_crown": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "附近实体不超过三只时箭伤 +45%",
+      "箭矢伤害随目标距离增加",
+      "精灵套装协同"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:sakura_hairpin": {
+    "attrs": [
+      {
+        "stat": "health",
+        "op": "add",
+        "value": 10.0
+      },
+      {
+        "stat": "armor",
+        "op": "multBase",
+        "value": 0.1
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "幸运转换为暴击率"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:yellow_duck": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "水中停止下沉，下键允许下潜"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:angel_desire": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "免坠落伤害",
+      "飞行速度强化，空中攻击伤害 +50%"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:magic_arrow_bag": {
+    "attrs": [
+      {
+        "stat": "arrowDamage",
+        "op": "add",
+        "value": 0.1
+      },
+      {
+        "stat": "arrowKnockback",
+        "op": "add",
+        "value": 1.0
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "仅增强箭矢伤害与箭矢击退",
+      "精灵箭袋另增加箭速，烈焰箭袋使目标着火"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:flame_arrow_bag": {
+    "attrs": [
+      {
+        "stat": "arrowDamage",
+        "op": "add",
+        "value": 0.1
+      },
+      {
+        "stat": "arrowKnockback",
+        "op": "add",
+        "value": 1.0
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "仅增强箭矢伤害与箭矢击退",
+      "精灵箭袋另增加箭速，烈焰箭袋使目标着火"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:spirit_arrow_bag": {
+    "attrs": [
+      {
+        "stat": "arrowDamage",
+        "op": "add",
+        "value": 0.2
+      },
+      {
+        "stat": "arrowSpeed",
+        "op": "add",
+        "value": 0.5
+      },
+      {
+        "stat": "arrowKnockback",
+        "op": "add",
+        "value": 2.0
+      }
+    ],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "仅增强箭矢伤害与箭矢击退",
+      "精灵箭袋另增加箭速，烈焰箭袋使目标着火"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:iron_scabbard": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "周期性进入强化刀刃窗口",
+      "水蛭剑鞘近战吸血，泰坦对高生命目标增伤，扭曲剑鞘击杀叠加并随时间衰减攻击"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:leech_scabbard": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "周期性进入强化刀刃窗口",
+      "水蛭剑鞘近战吸血，泰坦对高生命目标增伤，扭曲剑鞘击杀叠加并随时间衰减攻击"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:titan_scabbard": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "周期性进入强化刀刃窗口",
+      "水蛭剑鞘近战吸血，泰坦对高生命目标增伤，扭曲剑鞘击杀叠加并随时间衰减攻击"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:twisted_scabbard": {
+    "attrs": [
+      {
+        "stat": "knockback",
+        "op": "multBase",
+        "value": 1.0
+      },
+      {
+        "stat": "attackSpeed",
+        "op": "multBase",
+        "value": 0.25
+      },
+      {
+        "stat": "healing",
+        "op": "multTotal",
+        "value": -0.5
+      }
+    ],
+    "fortune": 0,
+    "loot": 1,
+    "implemented": [
+      "周期性进入强化刀刃窗口",
+      "水蛭剑鞘近战吸血，泰坦对高生命目标增伤，扭曲剑鞘击杀叠加并随时间衰减攻击",
+      "抢夺改为每级 +10% 双倍战利品概率，与基础包共用一次判定"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:catastrophe_scroll": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "初始专用灾厄槽",
+      "装备后绑定，增加七个刻蚀板槽和三个护符槽",
+      "按原触发事件记录诅咒",
+      "相应刻蚀板把该诅咒转换为祝福"
+    ],
+    "paused": [
+      "耐久触发的始源诅咒",
+      "未对应的原作结构/生物触发"
+    ],
+    "reserved": []
+  },
+  "celestial_artifacts:chaotic_etching": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "仅可放刻蚀板专用槽或通用饰品槽",
+      "佩戴灾厄之册且对应诅咒已触发时，启用对应原作祝福"
+    ],
+    "paused": [
+      "依赖附魔的祝福或触发"
+    ],
+    "reserved": []
+  },
+  "celestial_artifacts:origin_etching": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "仅可放刻蚀板专用槽或通用饰品槽",
+      "佩戴灾厄之册且对应诅咒已触发时，启用对应原作祝福"
+    ],
+    "paused": [
+      "依赖附魔的祝福或触发"
+    ],
+    "reserved": []
+  },
+  "celestial_artifacts:life_etching": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "仅可放刻蚀板专用槽或通用饰品槽",
+      "佩戴灾厄之册且对应诅咒已触发时，启用对应原作祝福"
+    ],
+    "paused": [
+      "依赖附魔的祝福或触发"
+    ],
+    "reserved": []
+  },
+  "celestial_artifacts:truth_etching": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "仅可放刻蚀板专用槽或通用饰品槽",
+      "佩戴灾厄之册且对应诅咒已触发时，启用对应原作祝福"
+    ],
+    "paused": [
+      "依赖附魔的祝福或触发"
+    ],
+    "reserved": []
+  },
+  "celestial_artifacts:desire_etching": {
+    "attrs": [],
+    "fortune": 1,
+    "loot": 1,
+    "implemented": [
+      "仅可放刻蚀板专用槽或通用饰品槽",
+      "佩戴灾厄之册且对应诅咒已触发时，启用对应原作祝福",
+      "抢夺改为每级 +10% 双倍战利品概率，与基础包共用一次判定",
+      "时运改为每级 +10% 双倍挖矿概率，与基础包共用一次判定"
+    ],
+    "paused": [
+      "依赖附魔的祝福或触发"
+    ],
+    "reserved": []
+  },
+  "celestial_artifacts:nihility_etching": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "仅可放刻蚀板专用槽或通用饰品槽",
+      "佩戴灾厄之册且对应诅咒已触发时，启用对应原作祝福"
+    ],
+    "paused": [
+      "依赖附魔的祝福或触发"
+    ],
+    "reserved": []
+  },
+  "celestial_artifacts:end_etching": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "仅可放刻蚀板专用槽或通用饰品槽",
+      "佩戴灾厄之册且对应诅咒已触发时，启用对应原作祝福"
+    ],
+    "paused": [
+      "依赖附魔的祝福或触发"
+    ],
+    "reserved": []
+  },
+  "celestial_artifacts:earth_axe": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原生挥舞与采掘，伤害、攻速和工具能力与海洋系列对应工具一致"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:earth_pickaxe": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原生挥舞与采掘，伤害、攻速和工具能力与海洋系列对应工具一致"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:earth_shovel": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原生挥舞与采掘，伤害、攻速和工具能力与海洋系列对应工具一致"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:earth_hoe": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原生挥舞与采掘，伤害、攻速和工具能力与海洋系列对应工具一致"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:repent_mirror": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原生安全传送",
+      "悔过之镜返回当前世界死亡位置，回溯之镜返回出生点，冷却十秒"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:backtrack_mirror": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原生安全传送",
+      "悔过之镜返回当前世界死亡位置，回溯之镜返回出生点，冷却十秒"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:purified_powder": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原贴图及原配方材料身份"
+    ],
+    "paused": [
+      "附魔或耐久改造"
+    ],
+    "reserved": []
+  },
+  "celestial_artifacts:copper_reinforce_plate": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原贴图及原配方材料身份"
+    ],
+    "paused": [
+      "附魔或耐久改造"
+    ],
+    "reserved": []
+  },
+  "celestial_artifacts:amethyst_reinforce_plate": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "保留原贴图及原配方材料身份"
+    ],
+    "paused": [
+      "附魔或耐久改造"
+    ],
+    "reserved": []
+  },
+  "celestial_artifacts:potions_bag": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "27 格药水存储",
+      "普通使用打开界面，下键使用袋中有效原生药水",
+      "遵守其他模组使用和消耗钩子"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:gaia_totem": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "背包携带时消耗一件抵挡致死伤害"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_artifacts:ender_jump_scepter": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [],
+    "paused": [],
+    "reserved": [
+      "实体传送动作和目标选择"
+    ]
+  },
+  "celestial_artifacts:unlucky_potato": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "可食用并获得缓慢一分钟"
+    ],
+    "paused": [
+      "饥饿/饱食度"
+    ],
+    "reserved": []
+  },
+  "celestial_core:common_crit_rate": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:common_crit_rate_splash": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:common_crit_rate_lingering": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:common_long_crit_rate": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:common_long_crit_rate_splash": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:common_long_crit_rate_lingering": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:common_crit_damage": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:common_crit_damage_splash": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:common_crit_damage_lingering": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:common_long_crit_damage": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:common_long_crit_damage_splash": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:common_long_crit_damage_lingering": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:common_regen_rate": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:common_regen_rate_splash": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:common_regen_rate_lingering": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:common_long_regen_rate": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:common_long_regen_rate_splash": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:common_long_regen_rate_lingering": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:common_arrow_damage": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:common_arrow_damage_splash": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:common_arrow_damage_lingering": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:common_long_arrow_damage": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:common_long_arrow_damage_splash": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  },
+  "celestial_core:common_long_arrow_damage_lingering": {
+    "attrs": [],
+    "fortune": 0,
+    "loot": 0,
+    "implemented": [
+      "原药效、等级和时长；饮用/喷溅/滞留分别接入，负药遵守 PvP"
+    ],
+    "paused": [],
+    "reserved": []
+  }
+}

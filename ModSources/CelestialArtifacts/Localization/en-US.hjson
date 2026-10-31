@@ -1,0 +1,540 @@
+Mods: {
+	CelestialArtifacts: {
+		Items: {
+			celestial_artifacts__the_end_dust: {
+				DisplayName: The End Dust
+				Tooltip: ""
+			}
+
+			celestial_artifacts__nebula_cube: {
+				DisplayName: Nebula Cube
+				Tooltip: ""
+			}
+
+			celestial_artifacts__gold_ring: {
+				DisplayName: Gold Ring
+				Tooltip: ""
+			}
+
+			celestial_artifacts__amethyst_ring: {
+				DisplayName: Amethyst Ring
+				Tooltip: ""
+			}
+
+			celestial_artifacts__diamond_ring: {
+				DisplayName: Diamond Ring
+				Tooltip: ""
+			}
+
+			celestial_artifacts__emerald_ring: {
+				DisplayName: Emerald Ring
+				Tooltip: ""
+			}
+
+			celestial_artifacts__flight_ring: {
+				DisplayName: Flight Ring
+				Tooltip: ""
+			}
+
+			celestial_artifacts__netherite_ring: {
+				DisplayName: Netherite Ring
+				Tooltip: ""
+			}
+
+			celestial_artifacts__ring_of_life: {
+				DisplayName: Ring Of Life
+				Tooltip: ""
+			}
+
+			celestial_artifacts__thunder_ring: {
+				DisplayName: Thunder Ring
+				Tooltip: ""
+			}
+
+			celestial_artifacts__nether_fire: {
+				DisplayName: Nether Fire
+				Tooltip: ""
+			}
+
+			celestial_artifacts__freeze_ring: {
+				DisplayName: Freeze Ring
+				Tooltip: ""
+			}
+
+			celestial_artifacts__nostalgic_butterfly_ring: {
+				DisplayName: Nostalgic Butterfly Ring
+				Tooltip: ""
+			}
+
+			celestial_artifacts__war_dead_badge: {
+				DisplayName: War Dead Badge
+				Tooltip: ""
+			}
+
+			celestial_artifacts__undead_charm: {
+				DisplayName: Undead Charm
+				Tooltip: ""
+			}
+
+			celestial_artifacts__destroyer_badge: {
+				DisplayName: Destroyer Badge
+				Tooltip: ""
+			}
+
+			celestial_artifacts__twisted_brain: {
+				DisplayName: Twisted Brain
+				Tooltip: ""
+			}
+
+			celestial_artifacts__corrupt_badge: {
+				DisplayName: Corrupt Badge
+				Tooltip: ""
+			}
+
+			celestial_artifacts__cursed_talisman: {
+				DisplayName: Cursed Talisman
+				Tooltip: ""
+			}
+
+			celestial_artifacts__cursed_protector: {
+				DisplayName: Cursed Protector
+				Tooltip: ""
+			}
+
+			celestial_artifacts__cursed_totem: {
+				DisplayName: Cursed Totem
+				Tooltip: ""
+			}
+
+			celestial_artifacts__holy_talisman: {
+				DisplayName: Holy Talisman
+				Tooltip: ""
+			}
+
+			celestial_artifacts__holy_sword: {
+				DisplayName: Holy Sword
+				Tooltip: ""
+			}
+
+			celestial_artifacts__angel_heart: {
+				DisplayName: Angel Heart
+				Tooltip: ""
+			}
+
+			celestial_artifacts__angel_pearl: {
+				DisplayName: Angel Pearl
+				Tooltip: ""
+			}
+
+			celestial_artifacts__demon_curse: {
+				DisplayName: Demon Curse
+				Tooltip: ""
+			}
+
+			celestial_artifacts__knight_shelter: {
+				DisplayName: Knight Shelter
+				Tooltip: ""
+			}
+
+			celestial_artifacts__soul_box: {
+				DisplayName: Soul Box
+				Tooltip: ""
+			}
+
+			celestial_artifacts__solar_magnet: {
+				DisplayName: Solar Magnet
+				Tooltip: ""
+			}
+
+			celestial_artifacts__gluttony_badge: {
+				DisplayName: Gluttony Badge
+				Tooltip: ""
+			}
+
+			celestial_artifacts__magic_horseshoe: {
+				DisplayName: Magic Horseshoe
+				Tooltip: ""
+			}
+
+			celestial_artifacts__bearing_stamen: {
+				DisplayName: Bearing Stamen
+				Tooltip: ""
+			}
+
+			celestial_artifacts__abyss_will_badge: {
+				DisplayName: Abyss Will Badge
+				Tooltip: ""
+			}
+
+			celestial_artifacts__sands_talisman: {
+				DisplayName: Sands Talisman
+				Tooltip: ""
+			}
+
+			celestial_artifacts__sacrificial_object: {
+				DisplayName: Sacrificial Object
+				Tooltip: ""
+			}
+
+			celestial_artifacts__deers_mercy_amulet: {
+				DisplayName: Deers Mercy Amulet
+				Tooltip: ""
+			}
+
+			celestial_artifacts__deer_inscribed_amulet: {
+				DisplayName: Deer Inscribed Amulet
+				Tooltip: ""
+			}
+
+			celestial_artifacts__heart_of_revenge: {
+				DisplayName: Heart Of Revenge
+				Tooltip: ""
+			}
+
+			celestial_artifacts__twisted_heart: {
+				DisplayName: Twisted Heart
+				Tooltip: ""
+			}
+
+			celestial_artifacts__greedy_heart: {
+				DisplayName: Greedy Heart
+				Tooltip: ""
+			}
+
+			celestial_artifacts__demon_heart: {
+				DisplayName: Demon Heart
+				Tooltip: ""
+			}
+
+			celestial_artifacts__traveler_scroll: {
+				DisplayName: Traveler Scroll
+				Tooltip: ""
+			}
+
+			celestial_artifacts__sea_god_scroll: {
+				DisplayName: Sea God Scroll
+				Tooltip: ""
+			}
+
+			celestial_artifacts__skywalker_scroll: {
+				DisplayName: Skywalker Scroll
+				Tooltip: ""
+			}
+
+			celestial_artifacts__twisted_scroll: {
+				DisplayName: Twisted Scroll
+				Tooltip: ""
+			}
+
+			celestial_artifacts__emerald_bracelet: {
+				DisplayName: Emerald Bracelet
+				Tooltip: ""
+			}
+
+			celestial_artifacts__life_bracelet: {
+				DisplayName: Life Bracelet
+				Tooltip: ""
+			}
+
+			celestial_artifacts__precious_bracelet: {
+				DisplayName: Precious Bracelet
+				Tooltip: ""
+			}
+
+			celestial_artifacts__red_ruby_bracelet: {
+				DisplayName: Red Ruby Bracelet
+				Tooltip: ""
+			}
+
+			celestial_artifacts__hidden_bracelet: {
+				DisplayName: Hidden Bracelet
+				Tooltip: ""
+			}
+
+			celestial_artifacts__scarlet_bracelet: {
+				DisplayName: Scarlet Bracelet
+				Tooltip: ""
+			}
+
+			celestial_artifacts__charming_bracelet: {
+				DisplayName: Charming Bracelet
+				Tooltip: ""
+			}
+
+			celestial_artifacts__spirit_bracelet: {
+				DisplayName: Spirit Bracelet
+				Tooltip: ""
+			}
+
+			celestial_artifacts__unowned_pendant: {
+				DisplayName: Unowned Pendant
+				Tooltip: ""
+			}
+
+			celestial_artifacts__chaotic_pendant: {
+				DisplayName: Chaotic Pendant
+				Tooltip: ""
+			}
+
+			celestial_artifacts__shadow_pendant: {
+				DisplayName: Shadow Pendant
+				Tooltip: ""
+			}
+
+			celestial_artifacts__star_necklace: {
+				DisplayName: Star Necklace
+				Tooltip: ""
+			}
+
+			celestial_artifacts__cross_necklace: {
+				DisplayName: Cross Necklace
+				Tooltip: ""
+			}
+
+			celestial_artifacts__gallop_necklace: {
+				DisplayName: Gallop Necklace
+				Tooltip: ""
+			}
+
+			celestial_artifacts__fang_necklace: {
+				DisplayName: Fang Necklace
+				Tooltip: ""
+			}
+
+			celestial_artifacts__precious_necklace: {
+				DisplayName: Precious Necklace
+				Tooltip: ""
+			}
+
+			celestial_artifacts__holy_necklace: {
+				DisplayName: Holy Necklace
+				Tooltip: ""
+			}
+
+			celestial_artifacts__heirloom_necklace: {
+				DisplayName: Heirloom Necklace
+				Tooltip: ""
+			}
+
+			celestial_artifacts__emerald_necklace: {
+				DisplayName: Emerald Necklace
+				Tooltip: ""
+			}
+
+			celestial_artifacts__ender_protector: {
+				DisplayName: Ender Protector
+				Tooltip: ""
+			}
+
+			celestial_artifacts__red_heart_necklace: {
+				DisplayName: Red Heart Necklace
+				Tooltip: ""
+			}
+
+			celestial_artifacts__lock_of_abyss: {
+				DisplayName: Lock Of Abyss
+				Tooltip: ""
+			}
+
+			celestial_artifacts__spirit_necklace: {
+				DisplayName: Spirit Necklace
+				Tooltip: ""
+			}
+
+			celestial_artifacts__treasure_hunter_necklace: {
+				DisplayName: Treasure Hunter Necklace
+				Tooltip: ""
+			}
+
+			celestial_artifacts__forest_cloak: {
+				DisplayName: Forest Cloak
+				Tooltip: ""
+			}
+
+			celestial_artifacts__sea_god_crown: {
+				DisplayName: Sea God Crown
+				Tooltip: ""
+			}
+
+			celestial_artifacts__prayer_crown: {
+				DisplayName: Prayer Crown
+				Tooltip: ""
+			}
+
+			celestial_artifacts__abyss_core: {
+				DisplayName: Abyss Core
+				Tooltip: ""
+			}
+
+			celestial_artifacts__guardian_eye: {
+				DisplayName: Guardian Eye
+				Tooltip: ""
+			}
+
+			celestial_artifacts__evil_eye: {
+				DisplayName: Evil Eye
+				Tooltip: ""
+			}
+
+			celestial_artifacts__spirit_crown: {
+				DisplayName: Spirit Crown
+				Tooltip: ""
+			}
+
+			celestial_artifacts__sakura_hairpin: {
+				DisplayName: Sakura Hairpin
+				Tooltip: ""
+			}
+
+			celestial_artifacts__yellow_duck: {
+				DisplayName: Yellow Duck
+				Tooltip: ""
+			}
+
+			celestial_artifacts__angel_desire: {
+				DisplayName: Angel Desire
+				Tooltip: ""
+			}
+
+			celestial_artifacts__magic_arrow_bag: {
+				DisplayName: Magic Arrow Bag
+				Tooltip: ""
+			}
+
+			celestial_artifacts__flame_arrow_bag: {
+				DisplayName: Flame Arrow Bag
+				Tooltip: ""
+			}
+
+			celestial_artifacts__spirit_arrow_bag: {
+				DisplayName: Spirit Arrow Bag
+				Tooltip: ""
+			}
+
+			celestial_artifacts__iron_scabbard: {
+				DisplayName: Iron Scabbard
+				Tooltip: ""
+			}
+
+			celestial_artifacts__leech_scabbard: {
+				DisplayName: Leech Scabbard
+				Tooltip: ""
+			}
+
+			celestial_artifacts__titan_scabbard: {
+				DisplayName: Titan Scabbard
+				Tooltip: ""
+			}
+
+			celestial_artifacts__twisted_scabbard: {
+				DisplayName: Twisted Scabbard
+				Tooltip: ""
+			}
+
+			celestial_artifacts__catastrophe_scroll: {
+				DisplayName: Catastrophe Scroll
+				Tooltip: ""
+			}
+
+			celestial_artifacts__chaotic_etching: {
+				DisplayName: Chaotic Etching
+				Tooltip: ""
+			}
+
+			celestial_artifacts__origin_etching: {
+				DisplayName: Origin Etching
+				Tooltip: ""
+			}
+
+			celestial_artifacts__life_etching: {
+				DisplayName: Life Etching
+				Tooltip: ""
+			}
+
+			celestial_artifacts__truth_etching: {
+				DisplayName: Truth Etching
+				Tooltip: ""
+			}
+
+			celestial_artifacts__desire_etching: {
+				DisplayName: Desire Etching
+				Tooltip: ""
+			}
+
+			celestial_artifacts__nihility_etching: {
+				DisplayName: Nihility Etching
+				Tooltip: ""
+			}
+
+			celestial_artifacts__end_etching: {
+				DisplayName: End Etching
+				Tooltip: ""
+			}
+
+			celestial_artifacts__earth_axe: {
+				DisplayName: Earth Axe
+				Tooltip: ""
+			}
+
+			celestial_artifacts__earth_pickaxe: {
+				DisplayName: Earth Pickaxe
+				Tooltip: ""
+			}
+
+			celestial_artifacts__earth_shovel: {
+				DisplayName: Earth Shovel
+				Tooltip: ""
+			}
+
+			celestial_artifacts__earth_hoe: {
+				DisplayName: Earth Hoe
+				Tooltip: ""
+			}
+
+			celestial_artifacts__repent_mirror: {
+				DisplayName: Repent Mirror
+				Tooltip: ""
+			}
+
+			celestial_artifacts__backtrack_mirror: {
+				DisplayName: Backtrack Mirror
+				Tooltip: ""
+			}
+
+			celestial_artifacts__purified_powder: {
+				DisplayName: Purified Powder
+				Tooltip: ""
+			}
+
+			celestial_artifacts__copper_reinforce_plate: {
+				DisplayName: Copper Reinforce Plate
+				Tooltip: ""
+			}
+
+			celestial_artifacts__amethyst_reinforce_plate: {
+				DisplayName: Amethyst Reinforce Plate
+				Tooltip: ""
+			}
+
+			celestial_artifacts__potions_bag: {
+				DisplayName: Potions Bag
+				Tooltip: ""
+			}
+
+			celestial_artifacts__gaia_totem: {
+				DisplayName: Gaia Totem
+				Tooltip: ""
+			}
+
+			celestial_artifacts__ender_jump_scepter: {
+				DisplayName: Ender Jump Scepter
+				Tooltip: ""
+			}
+
+			celestial_artifacts__unlucky_potato: {
+				DisplayName: Unlucky Potato
+				Tooltip: ""
+			}
+		}
+	}
+}

@@ -1,0 +1,135 @@
+Mods: {
+	RelicExpansions: {
+		Items: {
+			TotemOfUndying: {
+				DisplayName: 不死图腾
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritRate: {
+				DisplayName: 暴击率药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritRateSplash: {
+				DisplayName: 喷溅型暴击率药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritRateLingering: {
+				DisplayName: 滞留型暴击率药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritRate: {
+				DisplayName: 暴击率（延长）药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritRateSplash: {
+				DisplayName: 喷溅型暴击率（延长）药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritRateLingering: {
+				DisplayName: 滞留型暴击率（延长）药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritDamage: {
+				DisplayName: 暴击伤害药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritDamageSplash: {
+				DisplayName: 喷溅型暴击伤害药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritDamageLingering: {
+				DisplayName: 滞留型暴击伤害药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritDamage: {
+				DisplayName: 暴击伤害（延长）药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritDamageSplash: {
+				DisplayName: 喷溅型暴击伤害（延长）药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritDamageLingering: {
+				DisplayName: 滞留型暴击伤害（延长）药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonRegenRate: {
+				DisplayName: 治疗效率药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonRegenRateSplash: {
+				DisplayName: 喷溅型治疗效率药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonRegenRateLingering: {
+				DisplayName: 滞留型治疗效率药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongRegenRate: {
+				DisplayName: 治疗效率（延长）药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongRegenRateSplash: {
+				DisplayName: 喷溅型治疗效率（延长）药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongRegenRateLingering: {
+				DisplayName: 滞留型治疗效率（延长）药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonArrowDamage: {
+				DisplayName: 箭矢伤害药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonArrowDamageSplash: {
+				DisplayName: 喷溅型箭矢伤害药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonArrowDamageLingering: {
+				DisplayName: 滞留型箭矢伤害药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongArrowDamage: {
+				DisplayName: 箭矢伤害（延长）药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongArrowDamageSplash: {
+				DisplayName: 喷溅型箭矢伤害（延长）药水
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongArrowDamageLingering: {
+				DisplayName: 滞留型箭矢伤害（延长）药水
+				Tooltip: ""
+			}
+		}
+
+		DamageClasses.AbyssDamage.DisplayName: 深渊伤害
+		Projectiles.ExpansionPotionProjectile.DisplayName: 药水
+		Conditions.catastrophe: 需要灾厄之册
+		// Keybinds.RelicSkill.DisplayName: Relic Skill
+	}
+}

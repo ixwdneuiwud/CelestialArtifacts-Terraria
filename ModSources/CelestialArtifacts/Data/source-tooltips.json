@@ -1,0 +1,3172 @@
+{
+  "celestial_artifacts:the_end_dust": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.tooltip.end_dust",
+        "zh": "携带catastrophe scroll]杀死怪物时2%概率掉落",
+        "en": "2% chance to drop when players equipped with catastrophe scroll] kill monsters targeting them",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:nebula_cube": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.tooltip.nebula_cube",
+        "zh": "玩家达成刻蚀板条件但是未获得刻蚀版时作为替代掉落",
+        "en": "Dropped when player failed to get etchings while meeting conditions",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:gold_ring": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.modular.effect_refresh",
+        "zh": "佩戴时提供: 幸运",
+        "en": "Grants wearer: Luck",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:amethyst_ring": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.modular.effect_refresh",
+        "zh": "佩戴时提供: 夜视",
+        "en": "Grants wearer: Night Vision",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:diamond_ring": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.modular.effect_refresh",
+        "zh": "佩戴时提供: 力量",
+        "en": "Grants wearer: Strength",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:emerald_ring": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.alt",
+        "zh": "按[ALT]显示套装效果",
+        "en": "Press [ALT] to display set effects",
+        "guard": "!alt"
+      }
+    ],
+    "shift": [],
+    "alt": [
+      {
+        "key": "celestial_artifacts.modular.set",
+        "zh": "同时穿戴[绿宝石戒指、绿宝石项链、绿宝石手环]时激活以下效果：",
+        "en": "Requires [Emerald Ring, Emerald Necklace, Emerald Bracelet] to take effect:",
+        "guard": ""
+      }
+    ],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:flight_ring": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_artifacts.ring.flight",
+        "zh": "获得飞行能力",
+        "en": "Gain creative flying ability",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\curios\\ring\\FlightRing.java"
+  },
+  "celestial_artifacts:netherite_ring": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.condition.nether",
+        "zh": "当你处于下界时: ",
+        "en": "When you are in nether: ",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.effect_refresh",
+        "zh": "佩戴时提供: 抗火",
+        "en": "Grants wearer: Fire Resistance",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.protect",
+        "zh": "当你处于下界时:  +10%伤害减免",
+        "en": "When you are in nether:  +10% Damage Reduction",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:ring_of_life": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.ring.ring_of_life",
+        "zh": "每5秒随机催熟1次周围的作物",
+        "en": "For every 5 seconds, boost growth on surrounding crops",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:thunder_ring": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.modular.negate_type",
+        "zh": "免疫闪电伤害",
+        "en": "Negates lightning damage",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:nether_fire": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.ring.nether_fire",
+        "zh": "受到攻击后使攻击者陷入5秒燃烧",
+        "en": "Burn target for 5 seconds on hit",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.negate_type",
+        "zh": "免疫火焰伤害",
+        "en": "Negates fire damage",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:freeze_ring": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.modular.negate_type",
+        "zh": "免疫冰冻伤害",
+        "en": "Negates freezing damage",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:nostalgic_butterfly_ring": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.alt",
+        "zh": "按[ALT]显示套装效果",
+        "en": "Press [ALT] to display set effects",
+        "guard": "!alt"
+      }
+    ],
+    "shift": [],
+    "alt": [
+      {
+        "key": "celestial_artifacts.modular.set",
+        "zh": "同时穿戴[悯鹿护符、眷蝶之戒]时激活以下效果：",
+        "en": "Requires [Deer Inscribed Amulet, Nostalgic Butterfly Ring] to take effect:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.sets.deer_butterfly_0",
+        "zh": "使用非深渊伤害类型攻击时",
+        "en": "When attacking with a non-Abyssal Damage type",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.sets.deer_butterfly_1",
+        "zh": "额外造成攻击伤害15%的魔法伤害或深渊伤害",
+        "en": "there is a chance to inflict additional Magic Damage or Abyssal Damage equal to 15% of Attack Damage",
+        "guard": ""
+      }
+    ],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:war_dead_badge": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_artifacts.charms.war_dead_badge_1",
+        "zh": "每损失1%生命",
+        "en": "For every 1% health lost:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.war_dead_badge_9",
+        "zh": "若背负混沌诅咒，当生命低于最大生命的50%时",
+        "en": "If you bear Chaotic Curse and your health is below 50%:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.war_dead_badge_11",
+        "zh": "周围每有1只怪物，攻击后恢复1%已损失生命",
+        "en": "For  mob around you, heals 1% after attack",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.current_bonus",
+        "zh": "当前增益:",
+        "en": "Current bonus:",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\curios\\charm\\WarDeadBadge.java"
+  },
+  "celestial_artifacts:undead_charm": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.curse",
+        "zh": "需要装备灾厄之册",
+        "en": "Requires Catastrophe Scroll to be equipped",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.charms.undead_charm",
+        "zh": "受到致命伤害时规避该伤害，冷却180秒",
+        "en": "Negate a fatal damage with 180 seconds cool down",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:destroyer_badge": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.condition.low_health",
+        "zh": "当你血量在50%及以下时:",
+        "en": "When you are at 50% or lower health:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.hurt_bonus",
+        "zh": "当你血量在50%及以下时: +20%伤害",
+        "en": "When you are at 50% or lower health: Increase damage by 20%",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:twisted_brain": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.curse",
+        "zh": "需要装备灾厄之册",
+        "en": "Requires Catastrophe Scroll to be equipped",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.charms.twisted_brain",
+        "zh": "受到伤害时有17%的概率规避该伤害并获得力量 2 (5s)",
+        "en": "17% chance to avoid incoming damage and gain Strength 2 (5s)",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:corrupt_badge": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_artifacts.charms.corrupt_badge_3",
+        "zh": "自身每有1种负面效果:",
+        "en": "For every harmful effect you have:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.dig_speed",
+        "zh": "挖掘速度",
+        "en": "Dig Speed",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.skill",
+        "zh": "主动技能:",
+        "en": "Active Skill: ",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.skill_cd",
+        "zh": "技能冷却:60秒",
+        "en": "Cool Down: 60 seconds",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.corrupt_badge_2",
+        "zh": "获得中毒 (15s), 霉运 (15s), 缓慢 (15s)",
+        "en": "Gain Poison (15s), Bad Luck (15s), and Slowness (15s)",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.current_bonus",
+        "zh": "当前增益:",
+        "en": "Current bonus:",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\curios\\charm\\CorruptBadge.java"
+  },
+  "celestial_artifacts:cursed_talisman": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_artifacts.charms.cursed_talisman_1",
+        "zh": "使用的武器与防具中每拥有1种诅咒附魔:",
+        "en": "For every cursed enchantment you have on your equipments:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.current_bonus",
+        "zh": "当前增益:",
+        "en": "Current bonus:",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\curios\\charm\\CursedTalisman.java"
+  },
+  "celestial_artifacts:cursed_protector": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.curse",
+        "zh": "需要装备灾厄之册",
+        "en": "Requires Catastrophe Scroll to be equipped",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.condition.front_damage",
+        "zh": "受到正面伤害时: ",
+        "en": "When attacked by mobs in front:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.cursed_protector_0",
+        "zh": "副手装备的盾牌不会再进入冷却",
+        "en": "Shields on your offhand will not be disabled",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.cursed_protector_1",
+        "zh": "受到伤害大于当前生命的35%时，伤害降低25%",
+        "en": "When you take damage higher than 35% of your current health, reduce it by 25%",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.protect",
+        "zh": "受到正面伤害时:  +30%伤害减免",
+        "en": "When attacked by mobs in front: +30% Damage Reduction",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:cursed_totem": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.curse",
+        "zh": "需要装备灾厄之册",
+        "en": "Requires Catastrophe Scroll to be equipped",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.charms.cursed_totem_1",
+        "zh": "使用不死图腾时给予最近的攻击者凋零 3 (30s)",
+        "en": "When you trigger totem, inflict attacker with Wither 3 (30s)",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.cursed_totem_2",
+        "zh": "受到非致命伤害时会积攒1层[怨念]，上限5层",
+        "en": "When you take non-fatal damage, stack 1 [Resentment]. Capped at 5.",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.cursed_totem_3",
+        "zh": "受到致命伤害时，则消耗5层[怨念]并规避该伤害",
+        "en": "When you take fatal damage, consume 5 [Resentment] and negate the damage.",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.cursed_totem_4",
+        "zh": "当前已积攒的[怨念]: {soulTotemStacks}",
+        "en": "Current [Resentment]: {soulTotemStacks}",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:holy_talisman": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.charms.holy_talisman_1",
+        "zh": "每10秒，对周围的怪物施加总数乘2秒的虚弱效果",
+        "en": "For every 10 seconds, inflict surrounding mobs with Weakness for mob count x 2 seconds",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.holy_talisman_2",
+        "zh": "受到伤害降低25%，若攻击者属于亡灵生物，受到伤害则降低35%",
+        "en": "Reduce incoming damage by 25%. If it's from undead mobs, reduce by 35% instead.",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.holy_talisman_3",
+        "zh": "受到致命攻击时将保留1点血量并获得与最大生命相等的伤害吸收，冷却60秒",
+        "en": "Negate a fatal damage and gain absorption equal to your max health. Cool down: 60 seconds",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:holy_sword": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.charms.holy_sword_1",
+        "zh": "受到伤害时反弹12%受到伤害",
+        "en": "Reflect 12% of damage you take",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.holy_sword_2",
+        "zh": "攻击亡灵生物时造成伤害全额用于治疗自身",
+        "en": "Heal the same amount when you deal damage to undead mob",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.holy_sword_3",
+        "zh": "每损失1点生命提高2%攻击伤害",
+        "en": "For every life point you lose, increase damage by 2%",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:angel_heart": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.condition.low_health",
+        "zh": "当你血量在50%及以下时:",
+        "en": "When you are at 50% or lower health:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.angel_heart_1",
+        "zh": "每2秒恢复1点生命值",
+        "en": "For every 2 seconds, heal 1 health",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.angel_heart_2",
+        "zh": "每30秒清除1次身上的负面效果",
+        "en": "For every 30 seconds, clear all harmful effects",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.protect",
+        "zh": "当你血量在50%及以下时: +20%伤害减免",
+        "en": "When you are at 50% or lower health: +20% Damage Reduction",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:angel_pearl": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_artifacts.charms.angel_pearl_1",
+        "zh": "持续使周围的玩家获得生命恢复效果",
+        "en": "Surrounding players gain regeneration:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.angel_pearl_2",
+        "zh": "每有1种正面效果:",
+        "en": "For every beneficial effect you have:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.current_bonus",
+        "zh": "当前增益:",
+        "en": "Current bonus:",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\curios\\charm\\AngelPearl.java"
+  },
+  "celestial_artifacts:demon_curse": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_artifacts.charms.demon_curse_0",
+        "zh": "玩家无法回血",
+        "en": "You cannot heal",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.demon_curse_1",
+        "zh": "每1%额外治疗力:",
+        "en": "For every 1% extra regen rate:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.current_bonus",
+        "zh": "当前增益:",
+        "en": "Current bonus:",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\curios\\charm\\DemonCurse.java"
+  },
+  "celestial_artifacts:knight_shelter": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.charms.knight_shelter_1",
+        "zh": "副手装备盾牌时，每4秒恢复1点生命，装备于主手时恢复速度加快",
+        "en": "When you have shield in off hand, heal 1 point every 4 seconds. Heals at double rate when you have shield in main hand.",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.knight_shelter_2",
+        "zh": "使用盾牌格挡伤害后对攻击者反伤格挡伤害的30%",
+        "en": "When you use shield to block damage reflect 30% of the damage blocked",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:soul_box": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.curse",
+        "zh": "需要装备灾厄之册",
+        "en": "Requires Catastrophe Scroll to be equipped",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.charms.soul_box_0",
+        "zh": "受到攻击时有30%概率对攻击者施加灵魂破裂 (5s)",
+        "en": "When hurt, 30% chance to inflict Soul Shatter (5s) to attacker",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.soul_box_1",
+        "zh": "受到致命攻击时规避该伤害，冷却240秒，并且:",
+        "en": "Negate a fatal damage with 240 seconds cool down, and:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.soul_box_2",
+        "zh": "对攻击者施加灵魂破裂 3 (60s)",
+        "en": "Inflict Soul Shatter 3 (60s) to attacker",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.soul_box_3",
+        "zh": "对攻击者造成1次相当于你最大生命250%的深渊伤害",
+        "en": "Hurt opponent with abyssal damage for 250% of your max health",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:solar_magnet": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.condition.day",
+        "zh": "白天时:",
+        "en": "At Day:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.solar_magnet",
+        "zh": "吸引周围的物品",
+        "en": "Attract surrounding items",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.put_down_fire",
+        "zh": "免疫燃烧",
+        "en": "Put down fire",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.hurt_bonus",
+        "zh": "白天时: +25%伤害",
+        "en": "At Day: Increase damage by 25%",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:gluttony_badge": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.charms.gluttony_badge_1",
+        "zh": "每次食用食物后获得力量 (2s)与生命恢复 (2s)",
+        "en": "Gain Strength (2s) and Regeneration (2s) after eating food",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.gluttony_badge_2",
+        "zh": "每拥有1点饱食度降低1%受到的伤害",
+        "en": "For every food point you have, reduce incoming damage by 1%",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.effect_refresh",
+        "zh": "佩戴时提供: 饥饿 3",
+        "en": "Grants wearer: Hunger 3",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:magic_horseshoe": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.modular.protect_type",
+        "zh": "+95% 摔落伤害减免",
+        "en": "+95% fall damage reduction",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:bearing_stamen": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.modular.effect_refresh",
+        "zh": "佩戴时提供: 生命恢复 2",
+        "en": "Grants wearer: Regeneration 2",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:abyss_will_badge": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.curse",
+        "zh": "需要装备灾厄之册",
+        "en": "Requires Catastrophe Scroll to be equipped",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.charms.abyss_will_badge_3",
+        "zh": "攻击时40%概率将此伤害提高至150%，10%概率提高至200%",
+        "en": "40% chance to deal 150% damage, and 10% chance to deal 200%",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.abyss_will_badge_4",
+        "zh": "受到攻击时40%概率将此伤害提高至250%，10%概率提高至200%",
+        "en": "40% chance to take 250% damage, and 10% chance to take 200%",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.abyss_will_badge_5",
+        "zh": "每20秒积攒1层[深渊呼唤]，上限10层",
+        "en": "For every 20 seconds, gain 1 [Abyssal Call]. Capped at 10",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.abyss_will_badge_6",
+        "zh": "每层[深渊呼唤]提高20%攻击伤害与25%受到伤害",
+        "en": "Every [Abyssal Call] increase attack damage by 20% and incoming damage by 25%",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.abyss_will_badge_7",
+        "zh": "当前已积攒的[深渊呼唤]: {abyssStacks}",
+        "en": "Current [Abyssal Call]: {abyssStacks}",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.skill",
+        "zh": "主动技能:",
+        "en": "Active Skill: ",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.skill_cd",
+        "zh": "技能冷却:15秒",
+        "en": "Cool Down: 15 seconds",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.abyss_will_badge_1",
+        "zh": "将[深渊呼唤]层数提高至15层，持续15秒",
+        "en": "Increase [Abyssal Call] to 15 for 15 seconds",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.abyss_will_badge_2",
+        "zh": "效果结束后将积攒的层数清0并将生命削减到当前生命的20%",
+        "en": "After skill ends, clear [Abyssal Call] and retain only 20% of current health",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:sands_talisman": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.condition.hot_region",
+        "zh": "处于炎热地区时:",
+        "en": "When in hot biomes:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.hurt_bonus",
+        "zh": "处于炎热地区时: +30%伤害",
+        "en": "When in hot biomes: Increase damage by 30%",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:sacrificial_object": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.curse",
+        "zh": "需要装备灾厄之册",
+        "en": "Requires Catastrophe Scroll to be equipped",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.charms.sacrificial_object_1",
+        "zh": "当你死亡时:",
+        "en": "When you die:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.sacrificial_object_2",
+        "zh": "50%概率在原地留下1块金锭",
+        "en": "50% chance to leave a gold ingot in place",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.sacrificial_object_3",
+        "zh": "45%概率使周围最大生命小于自身的敌对生物陪葬",
+        "en": "%a chance to kill surrounding enemies with lower max health than you",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:deers_mercy_amulet": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:deer_inscribed_amulet": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_artifacts.charms.deer_inscribed_amulet_1",
+        "zh": "每10秒强化下一次攻击，强化时攻击使目标陷入疲弱诅咒效果",
+        "en": "Strengthen the next attack every 10 seconds, during which the attack traps the target in a Enfeebled Laceration effect",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.deer_inscribed_amulet_2",
+        "zh": "佩戴灾厄之册时",
+        "en": "When wearing the catastrophe scroll:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.charms.deer_inscribed_amulet_3",
+        "zh": "每反转一条诅咒将使你造成的攻击伤害提高5%，全部反转时额外提高5%",
+        "en": "each curse reversal will increase the attack damage dealt by you by 5%, and an additional 5% will be dealt when reversing all curses",
+        "guard": ""
+      }
+    ],
+    "alt": [
+      {
+        "key": "celestial_artifacts.modular.set",
+        "zh": "同时穿戴[悯鹿护符、眷蝶之戒]时激活以下效果：",
+        "en": "Requires [Deer Inscribed Amulet, Nostalgic Butterfly Ring] to take effect:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.sets.deer_butterfly_0",
+        "zh": "使用非深渊伤害类型攻击时",
+        "en": "When attacking with a non-Abyssal Damage type",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.sets.deer_butterfly_1",
+        "zh": "额外造成攻击伤害15%的魔法伤害或深渊伤害",
+        "en": "there is a chance to inflict additional Magic Damage or Abyssal Damage equal to 15% of Attack Damage",
+        "guard": ""
+      }
+    ],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\curios\\charm\\DeerInscribedAmulet.java"
+  },
+  "celestial_artifacts:heart_of_revenge": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.condition.revenge",
+        "zh": "受到伤害后的3.0秒内: ",
+        "en": "When hurt, for the next 3.0 seconds: ",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.effect_hurt",
+        "zh": "受伤时获得: 力量 2 (3s)、抗性提升 (3s)",
+        "en": "On hurt, grants: Strength 2 (3s), Resistance (3s)",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.hurt_bonus",
+        "zh": "受到伤害后的3.0秒内:  +25%伤害",
+        "en": "When hurt, for the next 3.0 seconds:  Increase damage by 25%",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:twisted_heart": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_artifacts.heart.twisted_heart_1",
+        "zh": "盔甲韧性降低33%",
+        "en": "Reduce Armor Toughness by 33%",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.heart.twisted_heart_2",
+        "zh": "攻击伤害降低20%",
+        "en": "Reduce attack damage by 20%",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.heart.twisted_heart_3",
+        "zh": "若背负虚无诅咒，以上属性将反转为增益属性",
+        "en": "If you bear Nihility curse, reverse the above effects",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\curios\\heart\\TwistedHeart.java"
+  },
+  "celestial_artifacts:greedy_heart": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.curse",
+        "zh": "需要装备灾厄之册",
+        "en": "Requires Catastrophe Scroll to be equipped",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:demon_heart": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_artifacts.heart.demon_heart_1",
+        "zh": "每背负1条诅咒",
+        "en": "For every curse you bear:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.heart.demon_heart_2",
+        "zh": "盔甲韧性提高1",
+        "en": "+1 Armor Toughness",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.heart.demon_heart_3",
+        "zh": "攻击伤害提高10%",
+        "en": "+10% Attack Damage",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.heart.demon_heart_4",
+        "zh": "受到伤害降低5%",
+        "en": "-5% Incoming Damage",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.heart.demon_heart_5",
+        "zh": "背负大于等于3条诅咒时，阻止自身受到火焰燃烧",
+        "en": "When you bear 3 or more curses, you are not flammable.",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.heart.demon_heart_6",
+        "zh": "背负大于等于5条诅咒时，免疫缓慢与虚弱效果",
+        "en": "When you bear 5 or more curses, you are immune to Slowness and Weakness.",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\curios\\heart\\DemonHeart.java"
+  },
+  "celestial_artifacts:traveler_scroll": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.immune",
+        "zh": "不可摧毁",
+        "en": "This item cannot be destroyed",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.scroll.traveler",
+        "zh": "每次进入新的维度时将获得迅捷 II (15s)与生命恢复 (15s)",
+        "en": "Gain Speed II (15s) and Regeneration (15s) when changing dimensions",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:sea_god_scroll": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.alt",
+        "zh": "按[ALT]显示套装效果",
+        "en": "Press [ALT] to display set effects",
+        "guard": "!alt"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.condition.player_wet",
+        "zh": "当你处于水中或雨中时:",
+        "en": "When player is in water or rain:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.scroll.sea_god",
+        "zh": "处于水下时挖掘速度不会再受到影响",
+        "en": "Boost mining speed under water",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.effect_refresh",
+        "zh": "佩戴时提供: 力量 2、抗性提升",
+        "en": "Grants wearer: Strength 2, Resistance",
+        "guard": ""
+      }
+    ],
+    "alt": [
+      {
+        "key": "celestial_artifacts.modular.set",
+        "zh": "同时穿戴[海神王冠、海神卷轴]时激活以下效果：",
+        "en": "Requires [Sea God Crown, Sea God Scroll] to take effect:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.protect_type",
+        "zh": "+35% 水生生物伤害减免",
+        "en": "+35% water mob damage reduction",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.sets.sea_god",
+        "zh": "手持三叉戟时：",
+        "en": "When you hold trident:",
+        "guard": ""
+      }
+    ],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:skywalker_scroll": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.scroll.sky_walker_4",
+        "zh": "当前储存的坐标: {realm} - ({boundX},{boundY},0)",
+        "en": "Current stored position: {realm} - ({boundX},{boundY},0)",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.skill",
+        "zh": "主动技能:",
+        "en": "Active Skill: ",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.skill_cd",
+        "zh": "技能冷却:60秒",
+        "en": "Cool Down: 60 seconds",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.scroll.sky_walker_2",
+        "zh": "潜行时，储存当前位置的坐标，否则将你传送到储存的坐标处",
+        "en": "Store current position when sneaking, otherwise teleport you to stored position.",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.scroll.sky_walker_3",
+        "zh": "只能在同维度中传送",
+        "en": "Can only teleport in the same dimension",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:twisted_scroll": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.curse",
+        "zh": "需要装备灾厄之册",
+        "en": "Requires Catastrophe Scroll to be equipped",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.scroll.twist",
+        "zh": "遇到的怪物有60%概率分裂",
+        "en": "Mobs you encounter has 60% chance to duplicate",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:emerald_bracelet": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.alt",
+        "zh": "按[ALT]显示套装效果",
+        "en": "Press [ALT] to display set effects",
+        "guard": "!alt"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.condition.luck",
+        "zh": "当你有至少2.0点幸运时:",
+        "en": "When you have 2.0 or more Luck: ",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.effect_hurt_chance",
+        "zh": "受伤时10%概率获得: 伤害吸收 2 (5s)",
+        "en": "On hurt, 10% chance to grant: Absorption 2 (5s)",
+        "guard": ""
+      }
+    ],
+    "alt": [
+      {
+        "key": "celestial_artifacts.modular.set",
+        "zh": "同时穿戴[绿宝石戒指、绿宝石项链、绿宝石手环]时激活以下效果：",
+        "en": "Requires [Emerald Ring, Emerald Necklace, Emerald Bracelet] to take effect:",
+        "guard": ""
+      }
+    ],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:life_bracelet": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.modular.effect_refresh",
+        "zh": "佩戴时提供: 生命恢复",
+        "en": "Grants wearer: Regeneration",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:precious_bracelet": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.modular.protect_type",
+        "zh": "+40% 魔法伤害减免",
+        "en": "+40% magic damage reduction",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:red_ruby_bracelet": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.condition.hurt_fire",
+        "zh": "受到火焰伤害时:",
+        "en": "When you are hurt with fire damage:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.effect_hurt",
+        "zh": "受伤时获得: 力量 (3s)",
+        "en": "On hurt, grants: Strength (3s)",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.protect_type",
+        "zh": "+90% 火焰伤害减免",
+        "en": "+90% fire damage reduction",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:hidden_bracelet": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_artifacts.bracelet.hidden_0",
+        "zh": "隐匿消失后7秒获得隐匿",
+        "en": "Gain Hidden 7 seconds after Hidden disappears",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.bracelet.hidden_1",
+        "zh": "拥有隐匿时攻击伤害提高25%",
+        "en": "When you have Hidden, increase attack damage by 25%",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\curios\\bracelet\\HiddenBracelet.java"
+  },
+  "celestial_artifacts:scarlet_bracelet": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.curse",
+        "zh": "需要装备灾厄之册",
+        "en": "Requires Catastrophe Scroll to be equipped",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.bracelet.scarlet_0",
+        "zh": "攻击目标时额外消耗自身生命到最大生命的50%",
+        "en": "When you attack, consume your health till 50% of your max health",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.bracelet.scarlet_1",
+        "zh": "每消耗1点生命攻击提高相当于目标最大生命100%点伤害，上限50%",
+        "en": "For every HP consumed, increase your damage by 100% of target max health, capped at 50%",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:charming_bracelet": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.bracelet.charm_0",
+        "zh": "击杀僵尸时，周围的村民会提高1点对你的好感度",
+        "en": "When you kill zombies, increase your reputation by 1",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.bracelet.charm_1",
+        "zh": "受到攻击时周围的生物会优先攻击刚才攻击你的生物，冷却10秒",
+        "en": "When you are attacked, mobs around you will help you to revenge. Cool down: 10 seconds",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:spirit_bracelet": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.alt",
+        "zh": "按[ALT]显示套装效果",
+        "en": "Press [ALT] to display set effects",
+        "guard": "!alt"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.bracelet.spirit_0",
+        "zh": "拉弓与弩的速度提高100%",
+        "en": "Increase bow / crossbow pulling speed by 100%",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.bracelet.spirit_1",
+        "zh": "发射的箭矢命中后获得迅捷 (5s)",
+        "en": "Projectiles you shoot will inflict Speed (5s)",
+        "guard": ""
+      }
+    ],
+    "alt": [
+      {
+        "key": "celestial_artifacts.modular.set",
+        "zh": "同时穿戴[精灵手环、精灵花冠、精灵项链、精灵箭袋]时激活以下效果：",
+        "en": "Requires [Spirit Bracelet, Spirit Crown, Spirit Necklace, Spirit Arrow Bag] to take effect:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.sets.spirit_0",
+        "zh": "拉弓3秒后获得箭矢增强",
+        "en": "Gain Arrow Damage after pulling bow for 3",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.sets.spirit_1",
+        "zh": "从目标背后射出的弹射物伤害提高50%",
+        "en": "Increase projectile damage from behind by 50%",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.sets.spirit_2",
+        "zh": "拥有迅捷效果时",
+        "en": "When you have Speed:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.sets.spirit_3",
+        "zh": "射出的箭矢有50%概率施加缓慢 2 (3s)",
+        "en": "Your projectile has 50% chance to inflict Slowness 2 (3s)",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.protect_type",
+        "zh": "+20% 弹射物伤害减免",
+        "en": "+20% projectile damage reduction",
+        "guard": ""
+      }
+    ],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:unowned_pendant": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:chaotic_pendant": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.curse",
+        "zh": "需要装备灾厄之册",
+        "en": "Requires Catastrophe Scroll to be equipped",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.pendant.chaotic",
+        "zh": "从附魔台附魔出的附魔等级加3",
+        "en": "Increase enchantment level obtained from enchanting table by 3",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:shadow_pendant": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.curse",
+        "zh": "需要装备灾厄之册",
+        "en": "Requires Catastrophe Scroll to be equipped",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.pendant.shadow_1",
+        "zh": "造成伤害的25%用于治疗自身",
+        "en": "Heal with 25% of damage you dealt",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.pendant.shadow_2",
+        "zh": "幻翼不会再因为失眠而生成",
+        "en": "Prevent Phantom spawn",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.pendant.shadow_3",
+        "zh": "当处于亮度小于7的位置时，每小于1点:",
+        "en": "For every level of brightness below 7:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.pendant.shadow_4",
+        "zh": "攻击伤害提高5%",
+        "en": "Increase attack damage by 5%",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.pendant.shadow_5",
+        "zh": "受到伤害降低5%",
+        "en": "Reduce incoming damage by 5%",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:star_necklace": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.condition.attack_behind",
+        "zh": "从背后攻击目标时:",
+        "en": "When attacking from behind:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.condition.night",
+        "zh": "夜晚时:",
+        "en": "At Night:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.effect_refresh",
+        "zh": "佩戴时提供: 抗性提升",
+        "en": "Grants wearer: Resistance",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.hurt_bonus",
+        "zh": "从背后攻击目标时: +40%伤害",
+        "en": "When attacking from behind: Increase damage by 40%",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:cross_necklace": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:gallop_necklace": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.necklace.gallop",
+        "zh": "移动时攻击会增加相当于移动速度的150%的攻击伤害",
+        "en": "When you attack while moving, increase damage by 150% of your speed",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:fang_necklace": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.condition.target_has_armor",
+        "zh": "目标穿有护甲时:",
+        "en": "When target has armor:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.hurt_bonus",
+        "zh": "目标穿有护甲时: +25%伤害",
+        "en": "When target has armor: Increase damage by 25%",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:precious_necklace": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:holy_necklace": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.necklace.holy",
+        "zh": "每次受到治疗后获得抗性提升 (2s)，冷却3秒",
+        "en": "Gain Resistance (2s) after healing. Cool down: 3 seconds",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:heirloom_necklace": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:emerald_necklace": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.alt",
+        "zh": "按[ALT]显示套装效果",
+        "en": "Press [ALT] to display set effects",
+        "guard": "!alt"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.necklace.emerald",
+        "zh": "击杀生物后有2%基础概率额外掉落1个绿宝石",
+        "en": "2% chance to gain an emerald when killing mobs",
+        "guard": ""
+      }
+    ],
+    "alt": [
+      {
+        "key": "celestial_artifacts.modular.set",
+        "zh": "同时穿戴[绿宝石戒指、绿宝石项链、绿宝石手环]时激活以下效果：",
+        "en": "Requires [Emerald Ring, Emerald Necklace, Emerald Bracelet] to take effect:",
+        "guard": ""
+      }
+    ],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:ender_protector": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.curse",
+        "zh": "需要装备灾厄之册",
+        "en": "Requires Catastrophe Scroll to be equipped",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.necklace.ender_protector",
+        "zh": "使用盾牌格挡目标攻击后，有50%概率将目标传送走",
+        "en": "When you block damage with shield, 50% chance to teleport attacker away",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:red_heart_necklace": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:lock_of_abyss": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.curse",
+        "zh": "需要装备灾厄之册",
+        "en": "Requires Catastrophe Scroll to be equipped",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.necklace.lock_of_abyss_1",
+        "zh": "攻击后给予目标10秒缓慢效果",
+        "en": "Inflict target with 10 seconds of Slowness on hit",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.necklace.lock_of_abyss_2",
+        "zh": "若目标已有缓慢效果则将目标的缓慢效果提升1级",
+        "en": "Increase target Slowness level instead if it already has the effect.",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.necklace.lock_of_abyss_3",
+        "zh": "攻击时若目标拥有缓慢效果且等级大于7",
+        "en": "If target has 7 or higher Slowness effect when attacked:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.necklace.lock_of_abyss_4",
+        "zh": "移除该效果并对目标造成原伤害250%的深渊伤害",
+        "en": "Remove slowness and append abyssal damage equal to 250% of original damage",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:spirit_necklace": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.alt",
+        "zh": "按[ALT]显示套装效果",
+        "en": "Press [ALT] to display set effects",
+        "guard": "!alt"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.modular.effect_hurt",
+        "zh": "受伤时获得: 迅捷 (5s)",
+        "en": "On hurt, grants: Speed (5s)",
+        "guard": ""
+      }
+    ],
+    "alt": [
+      {
+        "key": "celestial_artifacts.modular.set",
+        "zh": "同时穿戴[精灵手环、精灵花冠、精灵项链、精灵箭袋]时激活以下效果：",
+        "en": "Requires [Spirit Bracelet, Spirit Crown, Spirit Necklace, Spirit Arrow Bag] to take effect:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.sets.spirit_0",
+        "zh": "拉弓3秒后获得箭矢增强",
+        "en": "Gain Arrow Damage after pulling bow for 3",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.sets.spirit_1",
+        "zh": "从目标背后射出的弹射物伤害提高50%",
+        "en": "Increase projectile damage from behind by 50%",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.sets.spirit_2",
+        "zh": "拥有迅捷效果时",
+        "en": "When you have Speed:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.sets.spirit_3",
+        "zh": "射出的箭矢有50%概率施加缓慢 2 (3s)",
+        "en": "Your projectile has 50% chance to inflict Slowness 2 (3s)",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.protect_type",
+        "zh": "+20% 弹射物伤害减免",
+        "en": "+20% projectile damage reduction",
+        "guard": ""
+      }
+    ],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:treasure_hunter_necklace": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.curse",
+        "zh": "需要装备灾厄之册",
+        "en": "Requires Catastrophe Scroll to be equipped",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.necklace.treasure_hunter_necklace",
+        "zh": "在某些群系中钓鱼时，您可能会捕捉到相应群系的结构战利品, 冷却6000秒",
+        "en": "When fishing in some biomes, you may catch the structural spoils of the corresponding biomes, cooldown for 6000 seconds",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:forest_cloak": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.modular.dodge_type",
+        "zh": "20%概率回避弹射物伤害",
+        "en": "20% chance to dodge projectile damage",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:sea_god_crown": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.alt",
+        "zh": "按[ALT]显示套装效果",
+        "en": "Press [ALT] to display set effects",
+        "guard": "!alt"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.condition.player_wet",
+        "zh": "当你处于水中或雨中时:",
+        "en": "When player is in water or rain:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.skill",
+        "zh": "主动技能:",
+        "en": "Active Skill: ",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.skill_cd",
+        "zh": "技能冷却:30秒",
+        "en": "Cool Down: 30 seconds",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.head.sea_god_crown",
+        "zh": "所处世界处于非雨天时将天气改为雨天",
+        "en": "Change weather to raining",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.effect_refresh",
+        "zh": "佩戴时提供: 水下呼吸 4、夜视",
+        "en": "Grants wearer: Water Breathing 4, Night Vision",
+        "guard": ""
+      }
+    ],
+    "alt": [
+      {
+        "key": "celestial_artifacts.modular.set",
+        "zh": "同时穿戴[海神王冠、海神卷轴]时激活以下效果：",
+        "en": "Requires [Sea God Crown, Sea God Scroll] to take effect:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.protect_type",
+        "zh": "+35% 水生生物伤害减免",
+        "en": "+35% water mob damage reduction",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.sets.sea_god",
+        "zh": "手持三叉戟时：",
+        "en": "When you hold trident:",
+        "guard": ""
+      }
+    ],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:prayer_crown": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.condition.sneak",
+        "zh": "潜行时: ",
+        "en": "When you are sneaking: ",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.head.prayer_crown",
+        "zh": "受到攻击后50%概率立即恢复受到伤害25%生命",
+        "en": "When you take damage, 50% chance to recover 25% of the damage took.",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.protect",
+        "zh": "潜行时:  +25%伤害减免",
+        "en": "When you are sneaking:  +25% Damage Reduction",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:abyss_core": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.curse",
+        "zh": "需要装备灾厄之册",
+        "en": "Requires Catastrophe Scroll to be equipped",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.head.abyss_core",
+        "zh": "受到伤害大于12点时，将此伤害降低为12点，冷却60秒",
+        "en": "When you take 12 or more damage, reduce it to 12. Cool down: 60 seconds",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:guardian_eye": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.condition.player_wet",
+        "zh": "当你处于水中或雨中时:",
+        "en": "When player is in water or rain:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.head.guardian_eye_1",
+        "zh": "持续给予周围的生物挖掘疲劳 2",
+        "en": "Inflict Mining Fatigue 2 to surrounding mobs.",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.head.guardian_eye_2",
+        "zh": "处于水下时不在消耗氧气",
+        "en": "Gain infinite water breathing",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.protect",
+        "zh": "当你处于水中或雨中时: +20%伤害减免",
+        "en": "When player is in water or rain: +20% Damage Reduction",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:evil_eye": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.head.evil_eye",
+        "zh": "免疫黑暗与失明效果",
+        "en": "Immune to Darkness and Blindness effects",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:spirit_crown": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.alt",
+        "zh": "按[ALT]显示套装效果",
+        "en": "Press [ALT] to display set effects",
+        "guard": "!alt"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.head.spirit_crown_1",
+        "zh": "周围实体数量小于3时，射出的箭矢伤害提高45%",
+        "en": "When there are 3 or fewer mobs around you, increase projectile damage by 45%",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.head.spirit_crown_2",
+        "zh": "与目标每相隔1方块的距离，射出的箭矢伤害提高2%",
+        "en": "For every block in between increase projectile damage by 2%",
+        "guard": ""
+      }
+    ],
+    "alt": [
+      {
+        "key": "celestial_artifacts.modular.set",
+        "zh": "同时穿戴[精灵手环、精灵花冠、精灵项链、精灵箭袋]时激活以下效果：",
+        "en": "Requires [Spirit Bracelet, Spirit Crown, Spirit Necklace, Spirit Arrow Bag] to take effect:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.sets.spirit_0",
+        "zh": "拉弓3秒后获得箭矢增强",
+        "en": "Gain Arrow Damage after pulling bow for 3",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.sets.spirit_1",
+        "zh": "从目标背后射出的弹射物伤害提高50%",
+        "en": "Increase projectile damage from behind by 50%",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.sets.spirit_2",
+        "zh": "拥有迅捷效果时",
+        "en": "When you have Speed:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.sets.spirit_3",
+        "zh": "射出的箭矢有50%概率施加缓慢 2 (3s)",
+        "en": "Your projectile has 50% chance to inflict Slowness 2 (3s)",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.protect_type",
+        "zh": "+20% 弹射物伤害减免",
+        "en": "+20% projectile damage reduction",
+        "guard": ""
+      }
+    ],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:sakura_hairpin": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_artifacts.head.sakura_hairpin",
+        "zh": "每拥有1点幸运：",
+        "en": "For every luck: ",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.current_bonus",
+        "zh": "当前增益:",
+        "en": "Current bonus:",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\curios\\head\\SakuraHairpin.java"
+  },
+  "celestial_artifacts:yellow_duck": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.head.yellow_duck",
+        "zh": "你能够在水面上行走",
+        "en": "You can walk on the water",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:angel_desire": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.head.angel_desire_1",
+        "zh": "飞行时：",
+        "en": "When flying: ",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.head.angel_desire_2",
+        "zh": "免疫受到的弹射物伤害",
+        "en": "Immune to projectile damage",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.head.angel_desire_3",
+        "zh": "穿戴鞘翅飞行时为其提供动力",
+        "en": "Boost elytra flying",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.hurt_bonus",
+        "zh": "飞行时： +50%伤害",
+        "en": "When flying:  Increase damage by 50%",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:magic_arrow_bag": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:flame_arrow_bag": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.back.flame",
+        "zh": "发射的箭矢命中目标后将使目标燃烧60秒",
+        "en": "Arrows you shoot will burn target for 60 seconds",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:spirit_arrow_bag": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.alt",
+        "zh": "按[ALT]显示套装效果",
+        "en": "Press [ALT] to display set effects",
+        "guard": "!alt"
+      }
+    ],
+    "shift": [],
+    "alt": [
+      {
+        "key": "celestial_artifacts.modular.set",
+        "zh": "同时穿戴[精灵手环、精灵花冠、精灵项链、精灵箭袋]时激活以下效果：",
+        "en": "Requires [Spirit Bracelet, Spirit Crown, Spirit Necklace, Spirit Arrow Bag] to take effect:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.sets.spirit_0",
+        "zh": "拉弓3秒后获得箭矢增强",
+        "en": "Gain Arrow Damage after pulling bow for 3",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.sets.spirit_1",
+        "zh": "从目标背后射出的弹射物伤害提高50%",
+        "en": "Increase projectile damage from behind by 50%",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.sets.spirit_2",
+        "zh": "拥有迅捷效果时",
+        "en": "When you have Speed:",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.sets.spirit_3",
+        "zh": "射出的箭矢有50%概率施加缓慢 2 (3s)",
+        "en": "Your projectile has 50% chance to inflict Slowness 2 (3s)",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.protect_type",
+        "zh": "+20% 弹射物伤害减免",
+        "en": "+20% projectile damage reduction",
+        "guard": ""
+      }
+    ],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:iron_scabbard": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.modular.effect_flash",
+        "zh": "每10.0秒获得: 强化刀刃",
+        "en": "For every 10.0 seconds, grants wearer: Reinforced Blade",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:leech_scabbard": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.back.leech",
+        "zh": "拥有强化刀刃效果时，攻击造成伤害的25%将用于治疗",
+        "en": "When you have Reinforced Blade effect, heal 25% of your melee damage dealt",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.effect_flash",
+        "zh": "每10.0秒获得: 强化刀刃",
+        "en": "For every 10.0 seconds, grants wearer: Reinforced Blade",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:titan_scabbard": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.condition.titan",
+        "zh": "强化刀刃状态下，当你对总血量比你高的生物造成近战伤害时: ",
+        "en": "With Reinforced Blade, when you deal melee damage to mobs with higher max health than you: ",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.effect_flash",
+        "zh": "每7.0秒获得: 强化刀刃",
+        "en": "For every 7.0 seconds, grants wearer: Reinforced Blade",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.hurt_bonus",
+        "zh": "强化刀刃状态下，当你对总血量比你高的生物造成近战伤害时:  +75%伤害",
+        "en": "With Reinforced Blade, when you deal melee damage to mobs with higher max health than you:  Increase damage by 75%",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:twisted_scabbard": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.curse",
+        "zh": "需要装备灾厄之册",
+        "en": "Requires Catastrophe Scroll to be equipped",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.back.twist_0",
+        "zh": "每次杀死生物都会积攒1层[扭曲附着]",
+        "en": "Every time you kill a mob, you gain 1 [Twist]",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.back.twist_1",
+        "zh": "每5秒流失1层[扭曲附着]",
+        "en": "You lose 1 [Twist] every 5 seconds",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.back.twist_2",
+        "zh": "每层[扭曲附着]提高5%近战伤害",
+        "en": "Every [Twist] increase your melee damage by 5%",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.back.twist_3",
+        "zh": "背负[终焉]诅咒时，增伤变为10%",
+        "en": "When you bear [End] curse, increase by 10% instead",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.curse.end_title",
+        "zh": "[终焉]",
+        "en": "[End]",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.back.twist_4",
+        "zh": "当前积攒的[扭曲附着]: {scabbardStacks} / 100",
+        "en": "Current [Twist]: {scabbardStacks} / 100",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.modular.effect_flash",
+        "zh": "每5.0秒获得: 强化刀刃",
+        "en": "For every 5.0 seconds, grants wearer: Reinforced Blade",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:catastrophe_scroll": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.shift",
+        "zh": "按[SHIFT]显示饰品效果",
+        "en": "Press [SHIFT] to display curio effects",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.modular.immune",
+        "zh": "不可摧毁",
+        "en": "This item cannot be destroyed",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.alt",
+        "zh": "按[ALT]显示诅咒效果细节",
+        "en": "Press [ALT] to display curse details",
+        "guard": "!shift&!alt"
+      }
+    ],
+    "shift": [
+      {
+        "key": "celestial_artifacts.curse.chaos_title",
+        "zh": "[混沌]",
+        "en": "[Chaotic]",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.curse.chaos_trigger",
+        "zh": "装备附魔盔甲时触发",
+        "en": "Activates when you equip enchanted armor",
+        "guard": "!state:curseHistory_chaos"
+      },
+      {
+        "key": "celestial_artifacts.curse.chaos_curse_0",
+        "zh": "受到的爆炸伤害提高75%",
+        "en": "Increase incoming explosion damage by 75%",
+        "guard": "state:curseHistory_chaos&!state:curseBless_chaos"
+      },
+      {
+        "key": "celestial_artifacts.curse.chaos_curse_1",
+        "zh": "受到的非爆炸伤害提高50%",
+        "en": "Increase other incoming damage by 50%",
+        "guard": "state:curseHistory_chaos&!state:curseBless_chaos"
+      },
+      {
+        "key": "celestial_artifacts.curse.chaos_bonus",
+        "zh": "每损失1%生命，提高0.5%伤害减免",
+        "en": "For every 1% HP you lose, reduce damage by 0.5%",
+        "guard": "state:curseHistory_chaos&state:curseBless_chaos"
+      },
+      {
+        "key": "celestial_artifacts.curse.origin_title",
+        "zh": "[始源]",
+        "en": "[Origin]",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.curse.origin_trigger",
+        "zh": "持有500耐久以上物品时触发",
+        "en": "Activates when you hold items with 500 or more durability",
+        "guard": "!state:curseHistory_origin"
+      },
+      {
+        "key": "celestial_artifacts.curse.origin_curse",
+        "zh": "攻击伤害降低50%",
+        "en": "Reduce attack damage by 50%",
+        "guard": "state:curseHistory_origin&!state:curseBless_origin"
+      },
+      {
+        "key": "celestial_artifacts.curse.origin_bonus",
+        "zh": "提高25%挖掘速度与攻击伤害",
+        "en": "Increase dig speed and attack damage by 25%",
+        "guard": "state:curseHistory_origin&state:curseBless_origin"
+      },
+      {
+        "key": "celestial_artifacts.curse.life_title",
+        "zh": "[生命]",
+        "en": "[Life]",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.curse.life_trigger",
+        "zh": "受到伤害时触发",
+        "en": "Activates when you take damage",
+        "guard": "!state:curseHistory_life"
+      },
+      {
+        "key": "celestial_artifacts.curse.life_curse",
+        "zh": "降低25%最大生命，降低50%治疗力",
+        "en": "Reduce max HP by 25%. Reduce regen rate by 50%.",
+        "guard": "state:curseHistory_life&!state:curseBless_life"
+      },
+      {
+        "key": "celestial_artifacts.curse.life_bonus",
+        "zh": "提高20%最大生命与30%治疗力",
+        "en": "Increase max HP by 20%. Increase regen rate by 30%.",
+        "guard": "state:curseHistory_life&state:curseBless_life"
+      },
+      {
+        "key": "celestial_artifacts.curse.truth_title",
+        "zh": "[真理]",
+        "en": "[Truth]",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.curse.truth_trigger",
+        "zh": "装备任意刻蚀板时触发",
+        "en": "Activates when you equip etchings",
+        "guard": "!state:curseHistory_truth"
+      },
+      {
+        "key": "celestial_artifacts.curse.truth_curse",
+        "zh": "受到生物攻击时至少会受到自身最大生命30%的伤害",
+        "en": "When you are attacked by entities, the damage will be at least 30% of your max HP",
+        "guard": "state:curseHistory_truth&!state:curseBless_truth"
+      },
+      {
+        "key": "celestial_artifacts.curse.truth_bonus",
+        "zh": "受到生物攻击时伤害不会超过自身最大生命的60%",
+        "en": "When you are attacked by entities, the damage will be at most 60% of your max HP",
+        "guard": "state:curseHistory_truth&state:curseBless_truth"
+      },
+      {
+        "key": "celestial_artifacts.curse.desire_title",
+        "zh": "[欲望]",
+        "en": "[Desire]",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.curse.desire_trigger",
+        "zh": "对被动生物造成伤害时触发",
+        "en": "Activates when you attack passive mobs.",
+        "guard": "!state:curseHistory_desire"
+      },
+      {
+        "key": "celestial_artifacts.curse.desire_curse",
+        "zh": "周围的生物将远离你，中立生物会主动攻击你",
+        "en": "Passive mobs will escape from you, and neutral mobs will attack you.",
+        "guard": "state:curseHistory_desire&!state:curseBless_desire"
+      },
+      {
+        "key": "celestial_artifacts.curse.desire_bonus",
+        "zh": "提高1点时运与抢夺等级",
+        "en": "Increase Fortune and Looting by 1",
+        "guard": "state:curseHistory_desire&state:curseBless_desire"
+      },
+      {
+        "key": "celestial_artifacts.curse.nihility_title",
+        "zh": "[虚无]",
+        "en": "[Nihility]",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.curse.nihility_trigger",
+        "zh": "获得增益效果时触发",
+        "en": "Activates when you gain beneficial effects.",
+        "guard": "!state:curseHistory_nihility"
+      },
+      {
+        "key": "celestial_artifacts.curse.nihility_curse",
+        "zh": "受到负面效果时长提高100%",
+        "en": "Harmful effects you get will have +100% duration",
+        "guard": "state:curseHistory_nihility&!state:curseBless_nihility"
+      },
+      {
+        "key": "celestial_artifacts.curse.nihility_bonus",
+        "zh": "降低75%受到的虚空伤害，受到攻击时使攻击者获得中毒 3 (10s)",
+        "en": "Reduce void damage by 75%. Inflict target with Poison 3 (10s)",
+        "guard": "state:curseHistory_nihility&state:curseBless_nihility"
+      },
+      {
+        "key": "celestial_artifacts.curse.end_title",
+        "zh": "[终焉]",
+        "en": "[End]",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.curse.end_trigger",
+        "zh": "与末影人对视时触发",
+        "en": "Activates when you look at enderman",
+        "guard": "!state:curseHistory_end"
+      },
+      {
+        "key": "celestial_artifacts.curse.end_curse",
+        "zh": "受到大于当前生命10%的伤害时会受到虚弱 2 (10s)与缓慢 2 (10s)影响",
+        "en": "When you take damage higher than 10% of your max health, gain Weakness 2 (10s) and Slowness 2 (10s)",
+        "guard": "state:curseHistory_end&!state:curseBless_end"
+      },
+      {
+        "key": "celestial_artifacts.curse.end_bonus",
+        "zh": "攻击后恢复自身相当于已损失生命20%生命",
+        "en": "When you deal damage, recover 20% of your lost health",
+        "guard": "state:curseHistory_end&state:curseBless_end"
+      }
+    ],
+    "alt": [
+      {
+        "key": "celestial_artifacts.curse.chaos_title",
+        "zh": "[混沌]",
+        "en": "[Chaotic]",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.chaos_trigger",
+        "zh": "装备附魔盔甲时触发",
+        "en": "Activates when you equip enchanted armor",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.chaos_curse_0",
+        "zh": "受到的爆炸伤害提高75%",
+        "en": "Increase incoming explosion damage by 75%",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.chaos_curse_1",
+        "zh": "受到的非爆炸伤害提高50%",
+        "en": "Increase other incoming damage by 50%",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.chaos_bonus",
+        "zh": "每损失1%生命，提高0.5%伤害减免",
+        "en": "For every 1% HP you lose, reduce damage by 0.5%",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.origin_title",
+        "zh": "[始源]",
+        "en": "[Origin]",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.origin_trigger",
+        "zh": "持有500耐久以上物品时触发",
+        "en": "Activates when you hold items with 500 or more durability",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.origin_curse",
+        "zh": "攻击伤害降低50%",
+        "en": "Reduce attack damage by 50%",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.origin_bonus",
+        "zh": "提高25%挖掘速度与攻击伤害",
+        "en": "Increase dig speed and attack damage by 25%",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.life_title",
+        "zh": "[生命]",
+        "en": "[Life]",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.life_trigger",
+        "zh": "受到伤害时触发",
+        "en": "Activates when you take damage",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.life_curse",
+        "zh": "降低25%最大生命，降低50%治疗力",
+        "en": "Reduce max HP by 25%. Reduce regen rate by 50%.",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.life_bonus",
+        "zh": "提高20%最大生命与30%治疗力",
+        "en": "Increase max HP by 20%. Increase regen rate by 30%.",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.truth_title",
+        "zh": "[真理]",
+        "en": "[Truth]",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.truth_trigger",
+        "zh": "装备任意刻蚀板时触发",
+        "en": "Activates when you equip etchings",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.truth_curse",
+        "zh": "受到生物攻击时至少会受到自身最大生命30%的伤害",
+        "en": "When you are attacked by entities, the damage will be at least 30% of your max HP",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.truth_bonus",
+        "zh": "受到生物攻击时伤害不会超过自身最大生命的60%",
+        "en": "When you are attacked by entities, the damage will be at most 60% of your max HP",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.desire_title",
+        "zh": "[欲望]",
+        "en": "[Desire]",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.desire_trigger",
+        "zh": "对被动生物造成伤害时触发",
+        "en": "Activates when you attack passive mobs.",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.desire_curse",
+        "zh": "周围的生物将远离你，中立生物会主动攻击你",
+        "en": "Passive mobs will escape from you, and neutral mobs will attack you.",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.desire_bonus",
+        "zh": "提高1点时运与抢夺等级",
+        "en": "Increase Fortune and Looting by 1",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.nihility_title",
+        "zh": "[虚无]",
+        "en": "[Nihility]",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.nihility_trigger",
+        "zh": "获得增益效果时触发",
+        "en": "Activates when you gain beneficial effects.",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.nihility_curse",
+        "zh": "受到负面效果时长提高100%",
+        "en": "Harmful effects you get will have +100% duration",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.nihility_bonus",
+        "zh": "降低75%受到的虚空伤害，受到攻击时使攻击者获得中毒 3 (10s)",
+        "en": "Reduce void damage by 75%. Inflict target with Poison 3 (10s)",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.end_title",
+        "zh": "[终焉]",
+        "en": "[End]",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.end_trigger",
+        "zh": "与末影人对视时触发",
+        "en": "Activates when you look at enderman",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.end_curse",
+        "zh": "受到大于当前生命10%的伤害时会受到虚弱 2 (10s)与缓慢 2 (10s)影响",
+        "en": "When you take damage higher than 10% of your max health, gain Weakness 2 (10s) and Slowness 2 (10s)",
+        "guard": "!shift"
+      },
+      {
+        "key": "celestial_artifacts.curse.end_bonus",
+        "zh": "攻击后恢复自身相当于已损失生命20%生命",
+        "en": "When you deal damage, recover 20% of your lost health",
+        "guard": "!shift"
+      }
+    ],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:chaotic_etching": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.immune",
+        "zh": "不可摧毁",
+        "en": "This item cannot be destroyed",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:origin_etching": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.immune",
+        "zh": "不可摧毁",
+        "en": "This item cannot be destroyed",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:life_etching": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.immune",
+        "zh": "不可摧毁",
+        "en": "This item cannot be destroyed",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:truth_etching": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.immune",
+        "zh": "不可摧毁",
+        "en": "This item cannot be destroyed",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:desire_etching": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.immune",
+        "zh": "不可摧毁",
+        "en": "This item cannot be destroyed",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:nihility_etching": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.immune",
+        "zh": "不可摧毁",
+        "en": "This item cannot be destroyed",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:end_etching": {
+    "default": [
+      {
+        "key": "celestial_artifacts.modular.immune",
+        "zh": "不可摧毁",
+        "en": "This item cannot be destroyed",
+        "guard": "!shift"
+      }
+    ],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\core\\modular\\ModularCurio.java"
+  },
+  "celestial_artifacts:earth_axe": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\items\\tool\\EarthAxe.java"
+  },
+  "celestial_artifacts:earth_pickaxe": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\items\\tool\\EarthPickaxe.java"
+  },
+  "celestial_artifacts:earth_shovel": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\items\\tool\\EarthShovel.java"
+  },
+  "celestial_artifacts:earth_hoe": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\items\\tool\\EarthHoe.java"
+  },
+  "celestial_artifacts:repent_mirror": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_artifacts.tooltip.repent",
+        "zh": "右击将使用者传送回上一次的死亡地点，冷却10秒",
+        "en": "Teleport player to last death position. Cool down: 10 seconds",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\items\\item\\RepentMirror.java"
+  },
+  "celestial_artifacts:backtrack_mirror": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_artifacts.tooltip.backtrack",
+        "zh": "右击将使用者传送回重生点，若你没有重生点，则传送到世界重生点，冷却10秒",
+        "en": "Teleport player to spawning point. Cool down: 10 seconds",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\items\\item\\BacktrackMirror.java"
+  },
+  "celestial_artifacts:purified_powder": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_artifacts.tooltip.purified",
+        "zh": "右击后消耗该物品移除使用者副手上物品的诅咒附魔",
+        "en": "Remove curse on off hand item",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\items\\item\\PurifiedPowder.java"
+  },
+  "celestial_artifacts:copper_reinforce_plate": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\items\\item\\CopperReinforcePlate.java"
+  },
+  "celestial_artifacts:amethyst_reinforce_plate": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\items\\item\\AmethystReinforcePlate.java"
+  },
+  "celestial_artifacts:potions_bag": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_artifacts.tooltip.can_storage_potion",
+        "zh": "能够储存药水",
+        "en": "Able to store potions",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.tooltip.potions_bag_info",
+        "zh": "装有药水时，蹲下右键消耗药水为自身添加对应的缺失的药水效果",
+        "en": "Sneak right click with the bag to consume potions that is not active on player",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\items\\item\\PotionsBag.java"
+  },
+  "celestial_artifacts:gaia_totem": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_artifacts.tooltip.gaia_totem",
+        "zh": "即将死亡时触发给予持有者数秒不屈效果",
+        "en": "Triggers when dying and gives the holder Unyielding for a few seconds",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\items\\item\\GaiaTotem.java"
+  },
+  "celestial_artifacts:ender_jump_scepter": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_artifacts.tooltip.ender_jump_scepter",
+        "zh": "右键方块时绑定该方块坐标，右键生物时消耗充能将生物传送到绑定坐标",
+        "en": "Right click on a block to bind position, and right-click a mob to teleport it to the bound position",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.tooltip.scepter_charging",
+        "zh": "使用末影珍珠在背包中右键法杖进行充能",
+        "en": "Use ender pearl] to right click scepter in inventory to recharge",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.tooltip.current_charging",
+        "zh": "当前充能: {charges}",
+        "en": "Current charging: {charges}",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.tooltip.current_level",
+        "zh": "当前世界: {realm}",
+        "en": "Current level: {realm}",
+        "guard": ""
+      },
+      {
+        "key": "celestial_artifacts.tooltip.current_pos",
+        "zh": "当前位置: {boundX} {boundY} 0",
+        "en": "Current pos: {boundX} {boundY} 0",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\items\\item\\EnderJumpScepter.java"
+  },
+  "celestial_artifacts:unlucky_potato": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_artifacts\\decompiled\\com\\xiaoyue\\celestial_artifacts\\content\\items\\item\\UnluckyPotato.java"
+  }
+}

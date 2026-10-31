@@ -1,0 +1,14 @@
+.build/
+.artifacts/
+.dependencies/
+bin/
+obj/
+*.tmod
+*.user
+*.log
+*.plr
+*.wld
+*.bak
+__pycache__/
+.DS_Store
+/ModSources/RelicExpansions/Assets/Items/minecraft/totem_of_undying.png

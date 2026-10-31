@@ -1,0 +1,701 @@
+{
+  "celestial_core:broken_totem": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_core.tooltip.broken_totem",
+        "zh": "使用图腾时50%概率获得",
+        "en": "50% chance to drop when triggering a totem",
+        "guard": ""
+      },
+      {
+        "key": "celestial_core.tooltip.anvil_forge_info",
+        "zh": "在铁砧上与物品进行锻造",
+        "en": "Forge with item on the anvil",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\generic\\CCTooltipItem.java"
+  },
+  "celestial_core:death_essence": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_core.tooltip.anvil_forge_info",
+        "zh": "在铁砧上与物品进行锻造",
+        "en": "Forge with item on the anvil",
+        "guard": ""
+      },
+      {
+        "key": "celestial_core.tooltip.death_essence",
+        "zh": "最大生命大于100点的生物被凋零伤害杀死时60%概率掉落",
+        "en": "60% chance to drop when mobs with at least 100 health is killed by wither effect",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\generic\\CCTooltipItem.java"
+  },
+  "celestial_core:desert_pyramid_loot_box": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_core.tooltip.loot_box_info",
+        "zh": "打开后获取{lootTable}结构中的战利品",
+        "en": "This box may contain items from {lootTable}",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\LootTableBox.java"
+  },
+  "celestial_core:earth_core": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:fire_essence": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_core.tooltip.anvil_forge_info",
+        "zh": "在铁砧上与物品进行锻造",
+        "en": "Forge with item on the anvil",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\generic\\CCTooltipItem.java"
+  },
+  "celestial_core:guardian_spike": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_core.tooltip.anvil_forge_info",
+        "zh": "在铁砧上与物品进行锻造",
+        "en": "Forge with item on the anvil",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\generic\\CCTooltipItem.java"
+  },
+  "celestial_core:heart_fragment": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_core.tooltip.heart_fragment",
+        "zh": "掠夺者被闪电苦力怕杀死掉落",
+        "en": "Dropped when Pillager is killed by charged Creeper",
+        "guard": ""
+      },
+      {
+        "key": "celestial_core.tooltip.anvil_forge_info",
+        "zh": "在铁砧上与物品进行锻造",
+        "en": "Forge with item on the anvil",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\generic\\CCTooltipItem.java"
+  },
+  "celestial_core:igloo_loot_box": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_core.tooltip.loot_box_info",
+        "zh": "打开后获取{lootTable}结构中的战利品",
+        "en": "This box may contain items from {lootTable}",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\LootTableBox.java"
+  },
+  "celestial_core:jungle_pyramid_loot_box": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_core.tooltip.loot_box_info",
+        "zh": "打开后获取{lootTable}结构中的战利品",
+        "en": "This box may contain items from {lootTable}",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\LootTableBox.java"
+  },
+  "celestial_core:light_fragment": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_core.tooltip.anvil_forge_info",
+        "zh": "在铁砧上与物品进行锻造",
+        "en": "Forge with item on the anvil",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\generic\\CCTooltipItem.java"
+  },
+  "celestial_core:manson_loot_box": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_core.tooltip.loot_box_info",
+        "zh": "打开后获取{lootTable}结构中的战利品",
+        "en": "This box may contain items from {lootTable}",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\LootTableBox.java"
+  },
+  "celestial_core:midnight_fragment": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_core.tooltip.anvil_forge_info",
+        "zh": "在铁砧上与物品进行锻造",
+        "en": "Forge with item on the anvil",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\generic\\CCTooltipItem.java"
+  },
+  "celestial_core:ocean_axe": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\OceanTool.java"
+  },
+  "celestial_core:ocean_boots": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\OceanArmor.java"
+  },
+  "celestial_core:ocean_chestplate": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\OceanArmor.java"
+  },
+  "celestial_core:ocean_essence": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_core.tooltip.anvil_forge_info",
+        "zh": "在铁砧上与物品进行锻造",
+        "en": "Forge with item on the anvil",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\generic\\CCTooltipItem.java"
+  },
+  "celestial_core:ocean_helmet": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\OceanArmor.java"
+  },
+  "celestial_core:ocean_hoe": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\OceanTool.java"
+  },
+  "celestial_core:ocean_ingot": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:ocean_leggings": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\OceanArmor.java"
+  },
+  "celestial_core:ocean_pickaxe": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\OceanTool.java"
+  },
+  "celestial_core:ocean_shovel": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\OceanTool.java"
+  },
+  "celestial_core:ocean_sword": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\OceanTool.java"
+  },
+  "celestial_core:pillager_outpost_loot_box": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_core.tooltip.loot_box_info",
+        "zh": "打开后获取{lootTable}结构中的战利品",
+        "en": "This box may contain items from {lootTable}",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\LootTableBox.java"
+  },
+  "celestial_core:pure_nether_star": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_core.tooltip.pure_nether_star",
+        "zh": "玩家携带12种正面效果杀死凋灵掉落",
+        "en": "Dropped from Wither when killed by player with more than 12 beneficial effects",
+        "guard": ""
+      },
+      {
+        "key": "celestial_core.tooltip.anvil_forge_info",
+        "zh": "在铁砧上与物品进行锻造",
+        "en": "Forge with item on the anvil",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\generic\\CCTooltipItem.java"
+  },
+  "celestial_core:reinforced_ocean_block": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:reinforced_ocean_ingot": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:reinforced_ocean_nugget": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:sakura_axe": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\SakuraTool.java"
+  },
+  "celestial_core:sakura_boots": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\SakuraArmor.java"
+  },
+  "celestial_core:sakura_chestplate": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\SakuraArmor.java"
+  },
+  "celestial_core:sakura_fragment": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_core.tooltip.sakura_fragment",
+        "zh": "破坏樱花叶时10%概率掉落",
+        "en": "10% chance to drop from breaking cherry blossom leaves",
+        "guard": ""
+      },
+      {
+        "key": "celestial_core.tooltip.anvil_forge_info",
+        "zh": "在铁砧上与物品进行锻造",
+        "en": "Forge with item on the anvil",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\generic\\CCTooltipItem.java"
+  },
+  "celestial_core:sakura_helmet": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\SakuraArmor.java"
+  },
+  "celestial_core:sakura_hoe": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\SakuraTool.java"
+  },
+  "celestial_core:sakura_leggings": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\SakuraArmor.java"
+  },
+  "celestial_core:sakura_pickaxe": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\SakuraTool.java"
+  },
+  "celestial_core:sakura_shovel": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\SakuraTool.java"
+  },
+  "celestial_core:sakura_steel": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:sakura_steel_block": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:sakura_steel_nugget": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:sakura_sword": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\SakuraTool.java"
+  },
+  "celestial_core:shulker_scrap": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_core.tooltip.shulker_scrap",
+        "zh": "潜影贝被炸死时50%概率掉落",
+        "en": "50% chance to drop when Shulker is killed by explosion",
+        "guard": ""
+      },
+      {
+        "key": "celestial_core.tooltip.anvil_forge_info",
+        "zh": "在铁砧上与物品进行锻造",
+        "en": "Forge with item on the anvil",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\generic\\CCTooltipItem.java"
+  },
+  "celestial_core:soaring_wings": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_core.tooltip.soaring_wings",
+        "zh": "幻翼死于y轴大于620格掉落",
+        "en": "Dropped when Phantom is killed above y=620",
+        "guard": ""
+      },
+      {
+        "key": "celestial_core.tooltip.anvil_forge_info",
+        "zh": "在铁砧上与物品进行锻造",
+        "en": "Forge with item on the anvil",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\generic\\CCTooltipItem.java"
+  },
+  "celestial_core:treasure_fragment": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_core.tooltip.treasure_fragment",
+        "zh": "在废弃矿井的宝箱中概率开出",
+        "en": "Can be found in Mineshaft chests",
+        "guard": ""
+      },
+      {
+        "key": "celestial_core.tooltip.anvil_forge_info",
+        "zh": "在铁砧上与物品进行锻造",
+        "en": "Forge with item on the anvil",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\generic\\CCTooltipItem.java"
+  },
+  "celestial_core:virtual_gold_axe": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\VirtualGoldTool.java"
+  },
+  "celestial_core:virtual_gold_block": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:virtual_gold_boots": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\VirtualGoldArmor.java"
+  },
+  "celestial_core:virtual_gold_chestplate": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\VirtualGoldArmor.java"
+  },
+  "celestial_core:virtual_gold_helmet": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\VirtualGoldArmor.java"
+  },
+  "celestial_core:virtual_gold_hoe": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\VirtualGoldTool.java"
+  },
+  "celestial_core:virtual_gold_ingot": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:virtual_gold_leggings": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\VirtualGoldArmor.java"
+  },
+  "celestial_core:virtual_gold_nugget": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_core.tooltip.virtual_gold_nugget",
+        "zh": "击杀着火的穿戴附魔金盔甲的生物时50%概率掉落",
+        "en": "50% chance to drop from ignited mobs with enchanted gold armors",
+        "guard": ""
+      },
+      {
+        "key": "celestial_core.tooltip.anvil_forge_info",
+        "zh": "在铁砧上与物品进行锻造",
+        "en": "Forge with item on the anvil",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\generic\\CCTooltipItem.java"
+  },
+  "celestial_core:virtual_gold_pickaxe": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\VirtualGoldTool.java"
+  },
+  "celestial_core:virtual_gold_shovel": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\VirtualGoldTool.java"
+  },
+  "celestial_core:virtual_gold_sword": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\items\\series\\VirtualGoldTool.java"
+  },
+  "celestial_core:void_essence": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_core.tooltip.void_essence",
+        "zh": "在末地城宝箱中概率开出",
+        "en": "Can be found in End City chests",
+        "guard": ""
+      },
+      {
+        "key": "celestial_core.tooltip.anvil_forge_info",
+        "zh": "在铁砧上与物品进行锻造",
+        "en": "Forge with item on the anvil",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\generic\\CCTooltipItem.java"
+  },
+  "celestial_core:warden_sclerite": {
+    "default": [],
+    "shift": [
+      {
+        "key": "celestial_core.tooltip.anvil_forge_info",
+        "zh": "在铁砧上与物品进行锻造",
+        "en": "Forge with item on the anvil",
+        "guard": ""
+      }
+    ],
+    "alt": [],
+    "source": "PortTools\\reference\\expansions\\celestial_core\\decompiled\\com\\xiaoyue\\celestial_core\\content\\generic\\CCTooltipItem.java"
+  },
+  "celestial_core:common_crit_rate": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:common_crit_rate_splash": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:common_crit_rate_lingering": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:common_long_crit_rate": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:common_long_crit_rate_splash": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:common_long_crit_rate_lingering": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:common_crit_damage": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:common_crit_damage_splash": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:common_crit_damage_lingering": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:common_long_crit_damage": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:common_long_crit_damage_splash": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:common_long_crit_damage_lingering": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:common_regen_rate": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:common_regen_rate_splash": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:common_regen_rate_lingering": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:common_long_regen_rate": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:common_long_regen_rate_splash": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:common_long_regen_rate_lingering": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:common_arrow_damage": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:common_arrow_damage_splash": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:common_arrow_damage_lingering": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:common_long_arrow_damage": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:common_long_arrow_damage_splash": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  },
+  "celestial_core:common_long_arrow_damage_lingering": {
+    "default": [],
+    "shift": [],
+    "alt": [],
+    "source": ""
+  }
+}

@@ -1,0 +1,557 @@
+{
+  "npcRules": [
+    {
+      "item": "celestial_core:fire_essence",
+      "npcs": [
+        "FireImp"
+      ],
+      "numerator": 2,
+      "denominator": 25,
+      "condition": "",
+      "original": "minecraft:blaze",
+      "description": "玩家击杀火焰小鬼",
+      "englishDescription": "Player kills a Fire Imp"
+    },
+    {
+      "item": "celestial_core:ocean_essence",
+      "npcs": [
+        "Shark"
+      ],
+      "numerator": 2,
+      "denominator": 25,
+      "condition": "",
+      "original": "minecraft:guardian",
+      "description": "玩家击杀鲨鱼",
+      "englishDescription": "Player kills a Shark"
+    },
+    {
+      "item": "celestial_core:guardian_spike",
+      "npcs": [
+        "Shark",
+        "SeaSnail"
+      ],
+      "numerator": 1,
+      "denominator": 5,
+      "condition": "",
+      "original": "minecraft:guardian / minecraft:elder_guardian",
+      "description": "玩家击杀鲨鱼或海蜗牛",
+      "englishDescription": "Player kills a Shark or Sea Snail"
+    },
+    {
+      "item": "celestial_core:warden_sclerite",
+      "npcs": [
+        "Paladin"
+      ],
+      "numerator": 1,
+      "denominator": 2,
+      "condition": "",
+      "original": "minecraft:warden",
+      "description": "玩家击杀圣骑士",
+      "englishDescription": "Player kills a Paladin"
+    },
+    {
+      "item": "celestial_core:light_fragment",
+      "npcs": [
+        "Mummy",
+        "LightMummy",
+        "DarkMummy",
+        "BloodMummy"
+      ],
+      "numerator": 1,
+      "denominator": 20,
+      "condition": "nether_stage",
+      "original": "minecraft:husk",
+      "description": "击杀者曾击败血肉之墙；木乃伊及其变种",
+      "englishDescription": "Killer has defeated the Wall of Flesh; any Mummy"
+    },
+    {
+      "item": "celestial_core:midnight_fragment",
+      "npcs": [
+        "ArmoredViking"
+      ],
+      "numerator": 1,
+      "denominator": 20,
+      "condition": "nether_stage",
+      "original": "minecraft:stray",
+      "description": "击杀者曾击败血肉之墙；装甲维京骷髅",
+      "englishDescription": "Killer has defeated the Wall of Flesh; Armored Viking"
+    },
+    {
+      "item": "celestial_core:soaring_wings",
+      "npcs": [
+        "WyvernHead"
+      ],
+      "numerator": 1,
+      "denominator": 1,
+      "condition": "space",
+      "original": "minecraft:phantom at Y >= 619",
+      "description": "在太空高度击杀飞龙；仅头部结算一次",
+      "englishDescription": "Kill a Wyvern in space; head only"
+    },
+    {
+      "item": "celestial_core:pure_nether_star",
+      "npcs": [
+        "WallofFlesh"
+      ],
+      "numerator": 1,
+      "denominator": 1,
+      "condition": "beneficial_effects",
+      "original": "minecraft:wither; at least 12 beneficial effects",
+      "description": "击杀者拥有至少12种正面效果；血肉之墙",
+      "englishDescription": "Kill the Wall of Flesh with at least 12 beneficial effects"
+    },
+    {
+      "item": "celestial_artifacts:demon_curse",
+      "npcs": [
+        "Wraith"
+      ],
+      "numerator": 3,
+      "denominator": 100,
+      "condition": "nether_stage",
+      "original": "minecraft:vex",
+      "description": "击杀者曾击败血肉之墙；幻灵",
+      "englishDescription": "Killer has defeated the Wall of Flesh; Wraith"
+    },
+    {
+      "item": "celestial_artifacts:guardian_eye",
+      "npcs": [
+        "SeaSnail"
+      ],
+      "numerator": 1,
+      "denominator": 2,
+      "condition": "",
+      "original": "minecraft:elder_guardian",
+      "description": "玩家击杀海蜗牛",
+      "englishDescription": "Player kills a Sea Snail"
+    },
+    {
+      "item": "minecraft:totem_of_undying",
+      "npcs": [
+        "Tim"
+      ],
+      "numerator": 1,
+      "denominator": 4,
+      "condition": "",
+      "original": "minecraft:evoker (new Terraria source)",
+      "description": "玩家击杀蒂姆",
+      "englishDescription": "Player kills Tim"
+    },
+    {
+      "item": "celestial_artifacts:twisted_brain",
+      "npcs": [],
+      "numerator": 1,
+      "denominator": 10,
+      "condition": "",
+      "description": "玩家直接击杀城镇居民；不计城镇宠物",
+      "englishDescription": "玩家直接击杀城镇居民；不计城镇宠物",
+      "original": "用户指定的泰拉获取口径",
+      "group": "town",
+      "fallback": ""
+    },
+    {
+      "item": "celestial_artifacts:twisted_heart",
+      "npcs": [],
+      "numerator": 1,
+      "denominator": 10,
+      "condition": "high_health",
+      "description": "实际击杀归属者；敌怪最大生命至少10,000",
+      "englishDescription": "实际击杀归属者；敌怪最大生命至少10,000",
+      "original": "用户指定的泰拉获取口径",
+      "group": "hostile",
+      "fallback": ""
+    },
+    {
+      "item": "celestial_core:death_essence",
+      "npcs": [],
+      "numerator": 1,
+      "denominator": 10,
+      "condition": "high_health",
+      "description": "实际击杀归属者；敌怪最大生命至少10,000；与扭曲之心独立判定",
+      "englishDescription": "实际击杀归属者；敌怪最大生命至少10,000；与扭曲之心独立判定",
+      "original": "用户指定的泰拉获取口径",
+      "group": "hostile",
+      "fallback": ""
+    },
+    {
+      "item": "celestial_artifacts:the_end_dust",
+      "npcs": [],
+      "numerator": 1,
+      "denominator": 100,
+      "condition": "catastrophe",
+      "description": "实际穿戴灾厄之册的玩家击杀敌怪",
+      "englishDescription": "实际穿戴灾厄之册的玩家击杀敌怪",
+      "original": "用户指定的泰拉获取口径",
+      "group": "hostile",
+      "fallback": ""
+    },
+    {
+      "item": "celestial_artifacts:chaotic_etching",
+      "npcs": [
+        "EyeofCthulhu"
+      ],
+      "numerator": 1,
+      "denominator": 2,
+      "condition": "etching_0",
+      "description": "实际穿戴灾厄之册且对应诅咒尚未反转；未出板时必得1个星云立方",
+      "englishDescription": "实际穿戴灾厄之册且对应诅咒尚未反转；未出板时必得1个星云立方",
+      "original": "用户指定的泰拉获取口径",
+      "group": "",
+      "fallback": "celestial_artifacts:nebula_cube"
+    },
+    {
+      "item": "celestial_artifacts:origin_etching",
+      "npcs": [
+        "SkeletronHead"
+      ],
+      "numerator": 1,
+      "denominator": 2,
+      "condition": "etching_1",
+      "description": "实际穿戴灾厄之册且对应诅咒尚未反转；未出板时必得1个星云立方",
+      "englishDescription": "实际穿戴灾厄之册且对应诅咒尚未反转；未出板时必得1个星云立方",
+      "original": "用户指定的泰拉获取口径",
+      "group": "",
+      "fallback": "celestial_artifacts:nebula_cube"
+    },
+    {
+      "item": "celestial_artifacts:life_etching",
+      "npcs": [
+        "WallofFlesh"
+      ],
+      "numerator": 1,
+      "denominator": 2,
+      "condition": "etching_2",
+      "description": "实际穿戴灾厄之册且对应诅咒尚未反转；未出板时必得1个星云立方",
+      "englishDescription": "实际穿戴灾厄之册且对应诅咒尚未反转；未出板时必得1个星云立方",
+      "original": "用户指定的泰拉获取口径",
+      "group": "",
+      "fallback": "celestial_artifacts:nebula_cube"
+    },
+    {
+      "item": "celestial_artifacts:truth_etching",
+      "npcs": [
+        "SkeletronPrime"
+      ],
+      "numerator": 1,
+      "denominator": 2,
+      "condition": "etching_3",
+      "description": "实际穿戴灾厄之册且对应诅咒尚未反转；未出板时必得1个星云立方",
+      "englishDescription": "实际穿戴灾厄之册且对应诅咒尚未反转；未出板时必得1个星云立方",
+      "original": "用户指定的泰拉获取口径",
+      "group": "",
+      "fallback": "celestial_artifacts:nebula_cube"
+    },
+    {
+      "item": "celestial_artifacts:desire_etching",
+      "npcs": [
+        "Plantera"
+      ],
+      "numerator": 1,
+      "denominator": 2,
+      "condition": "etching_4",
+      "description": "实际穿戴灾厄之册且对应诅咒尚未反转；未出板时必得1个星云立方",
+      "englishDescription": "实际穿戴灾厄之册且对应诅咒尚未反转；未出板时必得1个星云立方",
+      "original": "用户指定的泰拉获取口径",
+      "group": "",
+      "fallback": "celestial_artifacts:nebula_cube"
+    },
+    {
+      "item": "celestial_artifacts:nihility_etching",
+      "npcs": [
+        "CultistBoss"
+      ],
+      "numerator": 1,
+      "denominator": 2,
+      "condition": "etching_5",
+      "description": "实际穿戴灾厄之册且对应诅咒尚未反转；未出板时必得1个星云立方",
+      "englishDescription": "实际穿戴灾厄之册且对应诅咒尚未反转；未出板时必得1个星云立方",
+      "original": "用户指定的泰拉获取口径",
+      "group": "",
+      "fallback": "celestial_artifacts:nebula_cube"
+    },
+    {
+      "item": "celestial_artifacts:end_etching",
+      "npcs": [
+        "MoonLordCore"
+      ],
+      "numerator": 1,
+      "denominator": 2,
+      "condition": "etching_6",
+      "description": "实际穿戴灾厄之册且对应诅咒尚未反转；未出板时必得1个星云立方",
+      "englishDescription": "实际穿戴灾厄之册且对应诅咒尚未反转；未出板时必得1个星云立方",
+      "original": "用户指定的泰拉获取口径",
+      "group": "",
+      "fallback": "celestial_artifacts:nebula_cube"
+    },
+    {
+      "item": "celestial_core:shulker_scrap",
+      "npcs": [
+        "GiantTortoise"
+      ],
+      "numerator": 1,
+      "denominator": 10,
+      "condition": "explosion_death",
+      "original": "minecraft:shulker",
+      "description": "玩家以爆炸伤害击杀巨型陆龟",
+      "englishDescription": "Player kills a Giant Tortoise with explosion damage"
+    },
+    {
+      "item": "celestial_core:virtual_gold_nugget",
+      "npcs": [],
+      "group": "hostile",
+      "numerator": 1,
+      "denominator": 2,
+      "condition": "armored",
+      "description": "玩家击杀穿戴护甲的敌怪时，50%掉落1个虚金残骸；9个可合成虚金锭",
+      "englishDescription": "50% from player kills of armored enemies",
+      "original": "原作虚金残骸的50%基础概率，按用户口径改为泰拉穿甲敌怪",
+      "fallback": ""
+    }
+  ],
+  "brokenTotemNumerator": 1,
+  "brokenTotemDenominator": 2,
+  "pureStarBuffCount": 12,
+  "progressRewards": [],
+  "chestRules": [
+    {
+      "item": "celestial_artifacts:cross_necklace",
+      "pool": "surface_wood",
+      "numerator": 3,
+      "denominator": 20,
+      "minimum": 1,
+      "maximum": 1,
+      "requiredItem": "",
+      "flag": "",
+      "description": "",
+      "originalSources": [
+        "celestial_artifacts/data/celestial_artifacts/loot_tables/chests/village_plains_house.json"
+      ]
+    },
+    {
+      "item": "celestial_artifacts:red_heart_necklace",
+      "pool": "surface_wood",
+      "numerator": 3,
+      "denominator": 20,
+      "minimum": 1,
+      "maximum": 1,
+      "requiredItem": "",
+      "flag": "",
+      "description": "",
+      "originalSources": [
+        "celestial_artifacts/data/celestial_artifacts/loot_tables/chests/village_plains_house.json"
+      ]
+    },
+    {
+      "item": "celestial_artifacts:fang_necklace",
+      "pool": "underground_gold",
+      "numerator": 1,
+      "denominator": 5,
+      "minimum": 1,
+      "maximum": 1,
+      "requiredItem": "",
+      "flag": "",
+      "description": "",
+      "originalSources": [
+        "celestial_artifacts/data/celestial_artifacts/loot_tables/chests/abandoned_mineshaft.json"
+      ]
+    },
+    {
+      "item": "celestial_artifacts:demon_heart",
+      "pool": "dungeon_gold",
+      "numerator": 1,
+      "denominator": 9,
+      "minimum": 1,
+      "maximum": 1,
+      "requiredItem": "",
+      "flag": "",
+      "description": "",
+      "originalSources": [
+        "celestial_artifacts/data/celestial_artifacts/loot_tables/chests/ancient_city.json"
+      ]
+    },
+    {
+      "item": "celestial_artifacts:unowned_pendant",
+      "pool": "dungeon_gold",
+      "numerator": 1,
+      "denominator": 9,
+      "minimum": 1,
+      "maximum": 1,
+      "requiredItem": "",
+      "flag": "",
+      "description": "",
+      "originalSources": [
+        "celestial_artifacts/data/celestial_artifacts/loot_tables/chests/ancient_city.json"
+      ]
+    },
+    {
+      "item": "celestial_artifacts:heart_of_revenge",
+      "pool": "hell_shadow",
+      "numerator": 1,
+      "denominator": 3,
+      "minimum": 1,
+      "maximum": 1,
+      "requiredItem": "",
+      "flag": "",
+      "description": "",
+      "originalSources": [
+        "celestial_artifacts/data/celestial_artifacts/loot_tables/chests/bastion_treasure.json"
+      ]
+    },
+    {
+      "item": "celestial_artifacts:red_ruby_bracelet",
+      "pool": "hell_shadow",
+      "numerator": 1,
+      "denominator": 5,
+      "minimum": 1,
+      "maximum": 1,
+      "requiredItem": "",
+      "flag": "",
+      "description": "",
+      "originalSources": [
+        "celestial_artifacts/data/celestial_artifacts/loot_tables/chests/nether_bridge.json"
+      ]
+    },
+    {
+      "item": "celestial_artifacts:leech_scabbard",
+      "pool": "water",
+      "numerator": 1,
+      "denominator": 7,
+      "minimum": 1,
+      "maximum": 1,
+      "requiredItem": "",
+      "flag": "",
+      "description": "",
+      "originalSources": [
+        "celestial_artifacts/data/celestial_artifacts/loot_tables/chests/underwater_ruin_big.json"
+      ]
+    },
+    {
+      "item": "celestial_artifacts:thunder_ring",
+      "pool": "water",
+      "numerator": 1,
+      "denominator": 7,
+      "minimum": 1,
+      "maximum": 1,
+      "requiredItem": "",
+      "flag": "",
+      "description": "",
+      "originalSources": [
+        "celestial_artifacts/data/celestial_artifacts/loot_tables/chests/underwater_ruin_big.json"
+      ]
+    },
+    {
+      "item": "celestial_artifacts:sands_talisman",
+      "pool": "desert",
+      "numerator": 1,
+      "denominator": 5,
+      "minimum": 1,
+      "maximum": 1,
+      "requiredItem": "",
+      "flag": "",
+      "description": "",
+      "originalSources": [
+        "celestial_artifacts/data/celestial_artifacts/loot_tables/chests/desert_pyramid.json"
+      ]
+    },
+    {
+      "item": "celestial_artifacts:spirit_arrow_bag",
+      "pool": "ivy",
+      "numerator": 1,
+      "denominator": 12,
+      "minimum": 1,
+      "maximum": 1,
+      "requiredItem": "",
+      "flag": "",
+      "description": "",
+      "originalSources": [
+        "celestial_artifacts/data/celestial_artifacts/loot_tables/chests/jungle_temple.json"
+      ]
+    },
+    {
+      "item": "celestial_artifacts:spirit_bracelet",
+      "pool": "ivy",
+      "numerator": 1,
+      "denominator": 12,
+      "minimum": 1,
+      "maximum": 1,
+      "requiredItem": "",
+      "flag": "",
+      "description": "",
+      "originalSources": [
+        "celestial_artifacts/data/celestial_artifacts/loot_tables/chests/jungle_temple.json"
+      ]
+    },
+    {
+      "item": "celestial_artifacts:spirit_crown",
+      "pool": "ivy",
+      "numerator": 1,
+      "denominator": 12,
+      "minimum": 1,
+      "maximum": 1,
+      "requiredItem": "",
+      "flag": "",
+      "description": "",
+      "originalSources": [
+        "celestial_artifacts/data/celestial_artifacts/loot_tables/chests/jungle_temple.json"
+      ]
+    },
+    {
+      "item": "celestial_artifacts:spirit_necklace",
+      "pool": "ivy",
+      "numerator": 1,
+      "denominator": 12,
+      "minimum": 1,
+      "maximum": 1,
+      "requiredItem": "",
+      "flag": "",
+      "description": "",
+      "originalSources": [
+        "celestial_artifacts/data/celestial_artifacts/loot_tables/chests/jungle_temple.json"
+      ]
+    },
+    {
+      "item": "celestial_artifacts:traveler_scroll",
+      "pool": "sky",
+      "numerator": 1,
+      "denominator": 5,
+      "minimum": 1,
+      "maximum": 1,
+      "requiredItem": "",
+      "flag": "",
+      "description": "",
+      "originalSources": [
+        "celestial_artifacts/data/celestial_artifacts/loot_tables/chests/end_city_treasure.json"
+      ]
+    },
+    {
+      "item": "celestial_core:treasure_fragment",
+      "pool": "underground_gold",
+      "numerator": 1,
+      "denominator": 3,
+      "minimum": 1,
+      "maximum": 3,
+      "requiredItem": "",
+      "flag": "",
+      "description": "",
+      "originalSources": [
+        "celestial_core/data/celestial_core/loot_tables/abandoned_mineshaft.json"
+      ]
+    },
+    {
+      "item": "celestial_core:void_essence",
+      "pool": "dungeon_gold",
+      "numerator": 1,
+      "denominator": 5,
+      "minimum": 1,
+      "maximum": 1,
+      "requiredItem": "",
+      "flag": "",
+      "description": "",
+      "originalSources": [
+        "celestial_core/data/celestial_core/loot_tables/end_city_treasure.json"
+      ]
+    }
+  ],
+  "highHealthMinimum": 10000,
+  "skyFishingDenominator": 20,
+  "mutualDeathWindow": 60
+}

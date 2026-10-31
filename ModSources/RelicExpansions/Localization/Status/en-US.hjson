@@ -1,0 +1,75 @@
+Mods: {
+	RelicExpansions: {
+		Buffs: {
+			StrengthIII: {
+				DisplayName: StrengthIII
+				Description: ""
+			}
+
+			HasteIII: {
+				DisplayName: HasteIII
+				Description: ""
+			}
+
+			HealthBoostIII: {
+				DisplayName: HealthBoostIII
+				Description: ""
+			}
+
+			LeapingIII: {
+				DisplayName: LeapingIII
+				Description: ""
+			}
+
+			SwiftnessIII: {
+				DisplayName: SwiftnessIII
+				Description: ""
+			}
+
+			SlownessVI: {
+				DisplayName: SlownessVI
+				Description: ""
+			}
+
+			SlownessII: {
+				DisplayName: SlownessII
+				Description: ""
+			}
+
+			ResistanceV: {
+				DisplayName: ResistanceV
+				Description: ""
+			}
+
+			LuckI: {
+				DisplayName: LuckI
+				Description: ""
+			}
+
+			CriticalRate: {
+				DisplayName: CriticalRate
+				Description: ""
+			}
+
+			CriticalDamage: {
+				DisplayName: CriticalDamage
+				Description: ""
+			}
+
+			HealingPower: {
+				DisplayName: HealingPower
+				Description: ""
+			}
+
+			ArrowPower: {
+				DisplayName: ArrowPower
+				Description: ""
+			}
+
+			PoisonIII: {
+				DisplayName: PoisonIII
+				Description: ""
+			}
+		}
+	}
+}

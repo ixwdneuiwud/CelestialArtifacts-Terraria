@@ -1,0 +1,135 @@
+Mods: {
+	RelicExpansions: {
+		Items: {
+			TotemOfUndying: {
+				DisplayName: Totem of Undying
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritRate: {
+				DisplayName: Critical Rate Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritRateSplash: {
+				DisplayName: Splash Critical Rate Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritRateLingering: {
+				DisplayName: Lingering Critical Rate Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritRate: {
+				DisplayName: Long Critical Rate Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritRateSplash: {
+				DisplayName: Splash Long Critical Rate Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritRateLingering: {
+				DisplayName: Lingering Long Critical Rate Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritDamage: {
+				DisplayName: Critical Damage Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritDamageSplash: {
+				DisplayName: Splash Critical Damage Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonCritDamageLingering: {
+				DisplayName: Lingering Critical Damage Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritDamage: {
+				DisplayName: Long Critical Damage Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritDamageSplash: {
+				DisplayName: Splash Long Critical Damage Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongCritDamageLingering: {
+				DisplayName: Lingering Long Critical Damage Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonRegenRate: {
+				DisplayName: Healing Efficiency Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonRegenRateSplash: {
+				DisplayName: Splash Healing Efficiency Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonRegenRateLingering: {
+				DisplayName: Lingering Healing Efficiency Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongRegenRate: {
+				DisplayName: Long Healing Efficiency Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongRegenRateSplash: {
+				DisplayName: Splash Long Healing Efficiency Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongRegenRateLingering: {
+				DisplayName: Lingering Long Healing Efficiency Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonArrowDamage: {
+				DisplayName: Arrow Damage Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonArrowDamageSplash: {
+				DisplayName: Splash Arrow Damage Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonArrowDamageLingering: {
+				DisplayName: Lingering Arrow Damage Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongArrowDamage: {
+				DisplayName: Long Arrow Damage Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongArrowDamageSplash: {
+				DisplayName: Splash Long Arrow Damage Potion
+				Tooltip: ""
+			}
+
+			CCPotionCommonLongArrowDamageLingering: {
+				DisplayName: Lingering Long Arrow Damage Potion
+				Tooltip: ""
+			}
+		}
+
+		DamageClasses.AbyssDamage.DisplayName: Abyss Damage
+		Projectiles.ExpansionPotionProjectile.DisplayName: Potion
+		Conditions.catastrophe: Requires the Catastrophe Scroll
+		Keybinds.RelicSkill.DisplayName: Relic Skill
+	}
+}

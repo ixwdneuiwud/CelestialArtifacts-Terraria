@@ -1,0 +1,8 @@
+displayName = 遗物移植兼容核心 / Relic Port Framework
+author = Terraria port; original authors credited in Data/sources.json
+version = 0.2.2
+modReferences = EnigmaticLegacy@0.1.19
+side = Both
+includeSource = true
+buildIgnore = *.csproj, *.user, bin/*, obj/*, docs/*, README.md
+homepage = https://github.com/ixwdneuiwud/CelestialArtifacts-Terraria
