@@ -51,9 +51,11 @@ python -m pip install -r tools/requirements.txt
 
 | 模组 | 版本 | 状态 | 订阅地址 | 必需前置 |
 | --- | --- | --- | --- | --- |
-| 遗物移植兼容核心 / `RelicExpansions` | 0.2.2 | 已公开并核验 | [创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3830633611) | EnigmaticLegacy |
-| 星月核心 / `CelestialCore` | 0.1.2 | 等待 Steam 创建条目 | 待发布 | EnigmaticLegacy、RelicExpansions |
-| 星月遗物 / `CelestialArtifacts` | 0.1.2 | 等待 Steam 创建条目 | 待发布 | EnigmaticLegacy、RelicExpansions、CelestialCore |
+| 遗物移植兼容核心 / `RelicExpansions` | 0.2.2 | 已上传并设为公开；等待 Steam 版务审核 | [创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3830633611) | EnigmaticLegacy |
+| 星月核心 / `CelestialCore` | 0.1.2 | 已上传并设为公开；等待 Steam 版务审核 | [创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3830636996) | EnigmaticLegacy、RelicExpansions |
+| 星月遗物 / `CelestialArtifacts` | 0.1.2 | 已上传并设为公开；等待 Steam 版务审核 | [创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3830640138) | EnigmaticLegacy、RelicExpansions、CelestialCore |
 
 每个模组单独发布，星月系列的必需前置同时在 `.tmod` 和创意工坊条目关联。原作、许可依据、AI 移植声明、视频与 QQ 反馈群均在条目简介中。
+
+Steam 账号的条目详情页明确提示本次提交正在等待版务人员批准；公开设置已经核验，但审核通过前其他玩家仍无法看到条目。本次尚未确认玩家端检索订阅可用。
 <!-- workshop-publication:end -->
