@@ -23,7 +23,7 @@ $profile = Join-Path $repoRoot '.build/PortBuildProfile'
 $mods = Join-Path $profile 'Mods'
 $artifacts = Join-Path $repoRoot '.artifacts'
 New-Item -ItemType Directory -Path $mods,$artifacts -Force | Out-Null
-if (!$EnigmaticLegacyPackage) { throw 'Supply -EnigmaticLegacyPackage with EnigmaticLegacy.tmod built from the companion source repository (0.1.18+).' }
+if (!$EnigmaticLegacyPackage) { throw 'Supply -EnigmaticLegacyPackage with EnigmaticLegacy.tmod built from the companion source repository (0.1.19+).' }
 $dependencyPath = (Resolve-Path -LiteralPath $EnigmaticLegacyPackage).Path
 Copy-Item -LiteralPath $dependencyPath -Destination (Join-Path $mods 'EnigmaticLegacy.tmod') -Force
 $modules = @('RelicExpansions','CelestialCore','CelestialArtifacts')

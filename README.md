@@ -44,4 +44,16 @@ python -m pip install -r tools/requirements.txt
 - `docs/validation.md` 记录当前公开快照的实际检查与局限。
 - `ModSources/RelicExpansions/Diagnostics/` 可由神秘遗物的隔离诊断入口运行，涵盖物品、穿戴、配方、专槽、存档、诅咒与获取事件。
 
-尚未发布到 Steam 创意工坊；本仓库不是其他私人移植模块的交付包。修改与分发请保留 LGPL、原作者和修改声明，并随二进制提供完整对应源码与构建说明；依赖和第三方素材按各自许可处理。
+本仓库只交付上述三个公开模块，创意工坊实际发布状态见下表。修改与分发请保留 LGPL、原作者和修改声明，并随二进制提供完整对应源码与构建说明；依赖和第三方素材按各自许可处理。
+
+<!-- workshop-publication:start -->
+## 创意工坊发布记录
+
+| 模组 | 版本 | 状态 | 订阅地址 | 必需前置 |
+| --- | --- | --- | --- | --- |
+| 遗物移植兼容核心 / `RelicExpansions` | 0.2.2 | 已公开并核验 | [创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3830633611) | EnigmaticLegacy |
+| 星月核心 / `CelestialCore` | 0.1.2 | 等待 Steam 创建条目 | 待发布 | EnigmaticLegacy、RelicExpansions |
+| 星月遗物 / `CelestialArtifacts` | 0.1.2 | 等待 Steam 创建条目 | 待发布 | EnigmaticLegacy、RelicExpansions、CelestialCore |
+
+每个模组单独发布，星月系列的必需前置同时在 `.tmod` 和创意工坊条目关联。原作、许可依据、AI 移植声明、视频与 QQ 反馈群均在条目简介中。
+<!-- workshop-publication:end -->

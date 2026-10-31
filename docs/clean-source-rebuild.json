@@ -1,0 +1,30 @@
+[
+  {
+    "name": "EnigmaticLegacy",
+    "success": true,
+    "publicCommitBuildSHA256": "12dd9c3b2316ec4cf94cfd0b065df8409b0d1a00f7a58da74e954360dc949cd9",
+    "releaseSHA256": "5eed7e46df6f25d8454583d8eb8c8f65656d85348a82fb8df362e00141a37b79",
+    "sameBytes": false
+  },
+  {
+    "name": "RelicExpansions",
+    "success": true,
+    "publicCommitBuildSHA256": "4b10efe207826eeb8169c76387a7142a7f0ce2c6bd4613d6c9ff37f5574e07d2",
+    "releaseSHA256": "d5472f6c43fc64b272ca93fb2fc40937df38bbc8269bcf4c16c11419e5898861",
+    "sameBytes": false
+  },
+  {
+    "name": "CelestialCore",
+    "success": true,
+    "publicCommitBuildSHA256": "dc037f92539d20451e203d23dcfebcf140c758b98739eb084391867b685b023e",
+    "releaseSHA256": "b18634fe271e6ed28dbb7ac4e5b465456de3f67cf2317f8ee014c781927eafa8",
+    "sameBytes": false
+  },
+  {
+    "name": "CelestialArtifacts",
+    "success": true,
+    "publicCommitBuildSHA256": "b0f7b665d87929802bec19945f62e8a0a624bd28abca785da73b29cfa2630d5c",
+    "releaseSHA256": "a8bd23c494d3446a7e7f10e0570332bb3e76453a629063c545d65aeeb434c685",
+    "sameBytes": false
+  }
+]
